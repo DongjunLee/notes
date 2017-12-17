@@ -1,6 +1,6 @@
 # transformer: Attention Is All You Need 
 
-- 2017. 6
+- published 2017. 6
 - Google brain’s paper by Ashish Vaswani, Noam Shazeer, Llion Jones, Niki Parmar, Jakob Uszkoreit, Aidan N. Gomez, and Łukasz Kaiser
 
 ## Architecture

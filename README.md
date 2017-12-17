@@ -20,7 +20,7 @@
 ## Category 
 
 - [Optimization](#optimization)
-- [Unsupervised, Generative](#unsupervised,-generative)
+- [Unsupervised & Generative](#unsupervised-&-generative)
 - [Computer Vision](#computer-vision)
 - [Natural Language Processing](#natural-language-processing)
 - [Speech](#speech)
@@ -28,8 +28,13 @@
 
 ---
 
-- Deep Learning ****`Review`****
+- Deep Learning (2015) ****`Review`****
 	- [nature](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) | [notes](notes/deep_learning.md)
+
+## Unsupervised & Generative
+
+- Auto-Encoding Variational Bayes (2013, 12) ****`Generative`****, ****`Approximate`****
+	 - [arXiv](https://arxiv.org/abs/1312.6114) | [notes](notes/vae.md)
 
 ## Optimization
 
