@@ -28,8 +28,13 @@
 
 ---
 
-- Deep Learning
+- Deep Learning ****`Review`****
 	- [nature](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) | [notes](notes/deep_learning.md)
+
+## Optimization
+
+- Dropout (2012, 2014) ****`Regulaizer`****, ****`Ensemble`****
+	- [arXiv (2012)](https://arxiv.org/pdf/1207.0580.pdf) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [notes](notes/dropout.md)
 
 ## NLP
 
