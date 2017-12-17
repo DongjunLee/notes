@@ -26,6 +26,11 @@
 - [Speech](#speech)
 - [Reinforcement](reinforcement)
 
+---
+
+- Deep Learning
+	- [nature](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) | [notes](notes/deep_learning.md)
+
 ## NLP
 
 - Attention Is All You Need (2017. 6) ****`Attention`****
