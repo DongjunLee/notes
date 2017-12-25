@@ -40,8 +40,10 @@
 
 - Dropout (2012, 2014) ****`Regulaizer`****, ****`Ensemble`****
 	- [arXiv (2012)](https://arxiv.org/pdf/1207.0580.pdf) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [notes](notes/dropout.md)
+- Batch Normalization (2015) ****`Regulaizer`****, ****`Training`****
+	- [arXiv](https://arxiv.org/pdf/1207.0580.pdf) | [notes](notes/batch_normalization.md)
 
 ## NLP
 
-- Attention Is All You Need (2017. 6) ****`Attention`****
+- Attention Is All You Need (2017. 6) ****`Attention`****
 	- [arXiv](https://arxiv.org/pdf/1706.03762.pdf) | [notes](notes/transformer.md) | [codes](https://github.com/DongjunLee/transformer-tensorflow)  
