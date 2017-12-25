@@ -1,6 +1,6 @@
 ## Deep learning
 
-- (2015. 5)
+- published in 2015. 5
 - Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville.
 
 

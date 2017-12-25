@@ -1,6 +1,6 @@
 # Auto-Encoding Variational Bayes
 
-- published 2013. 12
+- published in 2013. 12
 - Kingma, Diederik P., and Max Welling.
 
 ## Simple Summary
