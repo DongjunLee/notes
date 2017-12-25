@@ -29,23 +29,26 @@
 ---
 
 - Deep Learning (2015) ****`Review`****
-	- [nature](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) | [notes](notes/deep_learning.md)
+	- [nature](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) | [note](notes/deep_learning.md)
 
 ## Unsupervised & Generative
 
 - Auto-Encoding Variational Bayes (2013, 12) ****`Generative`****, ****`Approximate`****
-	 - [arXiv](https://arxiv.org/abs/1312.6114) | [notes](notes/vae.md)
+	 - [arXiv](https://arxiv.org/abs/1312.6114) | [note](notes/vae.md)
 
 ## Optimization
 
 - Dropout (2012, 2014) ****`Regulaizer`****, ****`Ensemble`****
-	- [arXiv (2012)](https://arxiv.org/abs/1207.0580) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [notes](notes/dropout.md)
+	- [arXiv (2012)](https://arxiv.org/abs/1207.0580) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [note](notes/dropout.md)
 - Batch Normalization (2015) ****`Regulaizer`****, ****`Training`****
-	- [arXiv](https://arxiv.org/abs/1502.03167) | [notes](notes/batch_normalization.md)
+	- [arXiv](https://arxiv.org/abs/1502.03167) | [note](notes/batch_normalization.md)
 - Layer Normalization (2016) ****`Regulaizer`****, ****`Training`****
-	- [arXiv](https://arxiv.org/abs/1607.06450) | [notes](notes/layer_normalization.md)
+	- [arXiv](https://arxiv.org/abs/1607.06450) | [note](notes/layer_normalization.md)
 
 ## NLP
 
+- Convolutional Neural Networks for Sentence Classification (2014. 8) ****`CNN`****
+	- [arXiv](https://arxiv.org/abs/1408.5882) | [code](https://github.com/DongjunLee/text-cnn-tensorflow) 
+
 - Attention Is All You Need (2017. 6) ****`Attention`****
-	- [arXiv](https://arxiv.org/abs/1706.03762) | [notes](notes/transformer.md) | [codes](https://github.com/DongjunLee/transformer-tensorflow)  
+	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
