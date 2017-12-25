@@ -39,11 +39,13 @@
 ## Optimization
 
 - Dropout (2012, 2014) ****`Regulaizer`****, ****`Ensemble`****
-	- [arXiv (2012)](https://arxiv.org/pdf/1207.0580.pdf) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [notes](notes/dropout.md)
+	- [arXiv (2012)](https://arxiv.org/abs/1207.0580) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [notes](notes/dropout.md)
 - Batch Normalization (2015) ****`Regulaizer`****, ****`Training`****
-	- [arXiv](https://arxiv.org/pdf/1207.0580.pdf) | [notes](notes/batch_normalization.md)
+	- [arXiv](https://arxiv.org/abs/1502.03167) | [notes](notes/batch_normalization.md)
+- Layer Normalization (2016) ****`Regulaizer`****, ****`Training`****
+	- [arXiv](https://arxiv.org/abs/1607.06450) | [notes](notes/layer_normalization.md)
 
 ## NLP
 
 - Attention Is All You Need (2017. 6) ****`Attention`****
-	- [arXiv](https://arxiv.org/pdf/1706.03762.pdf) | [notes](notes/transformer.md) | [codes](https://github.com/DongjunLee/transformer-tensorflow)  
+	- [arXiv](https://arxiv.org/abs/1706.03762) | [notes](notes/transformer.md) | [codes](https://github.com/DongjunLee/transformer-tensorflow)  
