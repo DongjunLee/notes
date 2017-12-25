@@ -51,6 +51,5 @@
 	- [arXiv](https://arxiv.org/abs/1408.5882) | [code](https://github.com/DongjunLee/text-cnn-tensorflow) 
 - Ask Me Anything: Dynamic Memory Networks for Natural Language Processing (2015. 6) ****`Memory`****, ****`QA`****
 	- [arXiv](https://arxiv.org/abs/1506.07285) | [code](https://github.com/DongjunLee/dmn-tensorflow) 
-
 - Attention Is All You Need (2017. 6) ****`Attention`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
