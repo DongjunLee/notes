@@ -15,16 +15,23 @@
 
 </p>
 
-# notes: Notes of Deep Learning 
+# notes: Notes of Deep Learning
 
 ## Category 
 
+- [Background knowledge](#background-knowledge)
 - [Optimization](#optimization)
 - [Unsupervised & Generative](#unsupervised-&-generative)
 - [Computer Vision](#computer-vision)
 - [Natural Language Processing](#natural-language-processing)
 - [Speech](#speech)
 - [Reinforcement](reinforcement)
+
+---
+
+## Background knowledge
+
+- [Gaussian Process](notes/gausian_process.md) ****`Supervised`****, ****`Regression`****
 
 ---
 
@@ -36,6 +43,7 @@
 - Auto-Encoding Variational Bayes (2013, 12) ****`Generative`****, ****`Approximate`****
 	 - [arXiv](https://arxiv.org/abs/1312.6114) | [note](notes/vae.md)
 
+
 ## Optimizationa
 
 - Dropout (2012, 2014) ****`Regulaizer`****, ****`Ensemble`****
@@ -44,6 +52,7 @@
 	- [arXiv](https://arxiv.org/abs/1502.03167) | [note](notes/batch_normalization.md)
 - Layer Normalization (2016) ****`Regulaizer`****, ****`Training`****
 	- [arXiv](https://arxiv.org/abs/1607.06450) | [note](notes/layer_normalization.md)
+
 
 ## NLP
 
