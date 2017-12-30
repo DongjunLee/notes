@@ -59,8 +59,8 @@
 
 - Convolutional Neural Networks for Sentence Classification (2014. 8) ****`CNN`****
 	- [arXiv](https://arxiv.org/abs/1408.5882) | [code](https://github.com/DongjunLee/text-cnn-tensorflow) 
-- Neural Machine Translation by Jointly Learning to Align and Translate (2014. 9) ****`Seq2Seq`****, ****`Attention`****
-	- [arXiv](https://arxiv.org/abs/1409.0473) | [code](https://github.com/DongjunLee/conversation-tensorflow) 
+- Neural Machine Translation by Jointly Learning to Align and Translate (2014. 9) ****`Seq2Seq`****, ****`Attention`****, ****`Translation`****
+	- [arXiv](https://arxiv.org/abs/1409.0473) | [note](notes/bahdanau_attention.md) | [code](https://github.com/DongjunLee/conversation-tensorflow) 
 - Ask Me Anything: Dynamic Memory Networks for Natural Language Processing (2015. 6) ****`Memory`****, ****`QA`****
 	- [arXiv](https://arxiv.org/abs/1506.07285) | [code](https://github.com/DongjunLee/dmn-tensorflow) 
 - Attention Is All You Need (2017. 6) ****`Attention`****
