@@ -32,6 +32,7 @@
 ## Background knowledge
 
 - [Gaussian Process](notes/gausian_process.md) ****`Supervised`****, ****`Regression`****
+- [Importance Sampling](notes/importance_sampling.md) ****`Sampling`****
 
 ---
 
