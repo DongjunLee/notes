@@ -21,7 +21,7 @@
 
 - [Background knowledge](#background-knowledge)
 - [Optimization](#optimization)
-- [Unsupervised & Generative](#unsupervised-&-generative)
+- [Unsupervised & Generative](#unsupervised--generative)
 - [Computer Vision](#computer-vision)
 - [Natural Language Processing](#natural-language-processing)
 - [Speech](#speech)
@@ -45,7 +45,7 @@
 	 - [arXiv](https://arxiv.org/abs/1312.6114) | [note](notes/vae.md)
 
 
-## Optimizationa
+## Optimization
 
 - Dropout (2012, 2014) ****`Regulaizer`****, ****`Ensemble`****
 	- [arXiv (2012)](https://arxiv.org/abs/1207.0580) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [note](notes/dropout.md)
@@ -55,7 +55,7 @@
 	- [arXiv](https://arxiv.org/abs/1607.06450) | [note](notes/layer_normalization.md)
 
 
-## NLP
+## Natural Language Processing
 
 - Convolutional Neural Networks for Sentence Classification (2014. 8) ****`CNN`****
 	- [arXiv](https://arxiv.org/abs/1408.5882) | [code](https://github.com/DongjunLee/text-cnn-tensorflow) 
