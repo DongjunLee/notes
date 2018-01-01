@@ -67,6 +67,8 @@
 	- [arXiv](https://arxiv.org/abs/1506.07285) | [code](https://github.com/DongjunLee/dmn-tensorflow) 
 - Pointer Networks (2015. 6) ****`Seq2Seq`****, ****`Attention`****
 	- [arXiv](https://arxiv.org/abs/1506.03134) | [note](notes/pointer_network.md) 
+- Skip-Thought Vectors (2015. 6) ****`Sent2Vec`****
+	- [arXiv](https://arxiv.org/abs/1506.06726) | [note](notes/skip_thought.md) 
 - Attention Is All You Need (2017. 6) ****`Attention`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
 - Neural Text Generation: A Practical Guide (2017. 11) ****`Seq2Seq`****, ****`Guide`****
