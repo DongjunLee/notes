@@ -51,6 +51,8 @@
 	- [arXiv (2012)](https://arxiv.org/abs/1207.0580) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [note](notes/dropout.md)
 - Batch Normalization (2015) ****`Regulaizer`****, ****`Training`****
 	- [arXiv](https://arxiv.org/abs/1502.03167) | [note](notes/batch_normalization.md)
+- Training Very Deep Networks (2015. 7) ****`Highway`****, ****`LSTM`****
+	- [arXiv](https://arxiv.org/abs/1507.06228) | [note](notes/highway_networks.md)
 - Layer Normalization (2016) ****`Regulaizer`****, ****`Training`****
 	- [arXiv](https://arxiv.org/abs/1607.06450) | [note](notes/layer_normalization.md)
 
