@@ -77,6 +77,8 @@
 	- [arXiv](https://arxiv.org/abs/1508.04025) | [note](notes/luong_attention.md) | [code](https://github.com/DongjunLee/conversation-tensorflow) 
 - Character-Aware Neural Language Models (2015. 8) ****`CNN`****, ****`Char`****
 	- [arXiv](https://arxiv.org/abs/1508.06615)
+- Neural Machine Translation of Rare Words with Subword Units (2015. 8) ****`OOV`****, ****`Translation`****
+	- [arXiv](https://arxiv.org/abs/1508.07909) | [note](notes/subword_nmt.md)
 - Attention Is All You Need (2017. 6) ****`Attention`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
 - Neural Text Generation: A Practical Guide (2017. 11) ****`Seq2Seq`****, ****`Guide`****
