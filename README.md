@@ -79,7 +79,9 @@
 	- [arXiv](https://arxiv.org/abs/1508.06615)
 - Neural Machine Translation of Rare Words with Subword Units (2015. 8) ****`OOV`****, ****`Translation`****
 	- [arXiv](https://arxiv.org/abs/1508.07909) | [note](notes/subword_nmt.md)
-- Attention Is All You Need (2017. 6) ****`Attention`****
+- A Diversity-Promoting Objective Function for Neural Conversation Models (2015. 10) ****`Conversation`****, ****`Objective`****
+	- [arXiv](https://arxiv.org/abs/1510.03055) | [note](notes/diversity_conversation.md)
+- Attention Is All You Need (2017. 6) ****`Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
 - Neural Text Generation: A Practical Guide (2017. 11) ****`Seq2Seq`****, ****`Guide`****
 	- [arXiv](https://arxiv.org/abs/1711.09534) | [note](notes/neural_text_generation.md)
