@@ -41,49 +41,68 @@
 
 ## Unsupervised & Generative
 
-- Auto-Encoding Variational Bayes (2013, 12) ****`Generative`****, ****`Approximate`****
-	 - [arXiv](https://arxiv.org/abs/1312.6114) | [note](notes/vae.md)
+- Auto-Encoding Variational Bayes (2013, 12)
+	- ****`Generative`****, ****`Approximate`****
+	- [arXiv](https://arxiv.org/abs/1312.6114) | [note](notes/vae.md)
 
 
 ## Optimization
 
-- Dropout (2012, 2014) ****`Regulaizer`****, ****`Ensemble`****
+- Dropout (2012, 2014) 
+	- ****`Regulaizer`****, ****`Ensemble`****
 	- [arXiv (2012)](https://arxiv.org/abs/1207.0580) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [note](notes/dropout.md)
-- Batch Normalization (2015) ****`Regulaizer`****, ****`Training`****
+- Batch Normalization (2015) 
+	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`CNN`****
 	- [arXiv](https://arxiv.org/abs/1502.03167) | [note](notes/batch_normalization.md)
-- Training Very Deep Networks (2015. 7) ****`Highway`****, ****`LSTM`****
+- Training Very Deep Networks (2015. 7) 
+	- ****`Highway`****, ****`LSTM-like`****
 	- [arXiv](https://arxiv.org/abs/1507.06228) | [note](notes/highway_networks.md)
-- Layer Normalization (2016) ****`Regulaizer`****, ****`Training`****
+- Layer Normalization (2016) 
+	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`RNN`****
 	- [arXiv](https://arxiv.org/abs/1607.06450) | [note](notes/layer_normalization.md)
 
 
 ## Natural Language Processing
 
-- Convolutional Neural Networks for Sentence Classification (2014. 8) ****`CNN`****
+- Convolutional Neural Networks for Sentence Classification (2014. 8) 
+	- ****`First CNN`****
 	- [arXiv](https://arxiv.org/abs/1408.5882) | [code](https://github.com/DongjunLee/text-cnn-tensorflow) 
-- Neural Machine Translation by Jointly Learning to Align and Translate (2014. 9) ****`Seq2Seq`****, ****`Attention`****, ****`Translation`****
+- Neural Machine Translation by Jointly Learning to Align and Translate (2014. 9) 
+	- ****`Seq2Seq`****, ****`Attention(Align)`****, ****`Translation`****
 	- [arXiv](https://arxiv.org/abs/1409.0473) | [note](notes/bahdanau_attention.md) | [code](https://github.com/DongjunLee/conversation-tensorflow) 
-- Text Understanding from Scratch (2015. 2) ****`CNN`****
+- Text Understanding from Scratch (2015. 2) 
+	- ****`CNN`****, ****`Character-level`****
 	- [arXiv](https://arxiv.org/abs/1506.07285)
-- Ask Me Anything: Dynamic Memory Networks for Natural Language Processing (2015. 6) ****`Memory`****, ****`QA`****
+- Ask Me Anything: Dynamic Memory Networks for Natural Language Processing (2015. 6) 
+	- ****`Memory`****, ****`QA`****, ****`bAbi`****
 	- [arXiv](https://arxiv.org/abs/1506.07285) | [code](https://github.com/DongjunLee/dmn-tensorflow) 
-- Pointer Networks (2015. 6) ****`Seq2Seq`****, ****`Attention`****
+- Pointer Networks (2015. 6) 
+	- ****`Seq2Seq`****, ****`Attention`****, ****`Combinatorial`****
 	- [arXiv](https://arxiv.org/abs/1506.03134) | [note](notes/pointer_network.md) 
-- Skip-Thought Vectors (2015. 6) ****`Sent2Vec`****
+- Skip-Thought Vectors (2015. 6) 
+	- ****`Sentence2Vec`****, ****`Unsupervised`****
 	- [arXiv](https://arxiv.org/abs/1506.06726) | [note](notes/skip_thought.md)
-- A Neural Conversational Model (2015. 6) ****`Seq2Seq`****, ****`Conversation`****
+- A Neural Conversational Model (2015. 6) 
+	- ****`Seq2Seq`****, ****`Conversation`****
 	- [arXiv](https://arxiv.org/abs/1506.05869)
-- Effective Approaches to Attention-based Neural Machine Translation (2015. 8) ****`Seq2Seq`****, ****`Attention`****, ****`Translation`****
+- Effective Approaches to Attention-based Neural Machine Translation (2015. 8) 
+	- ****`Seq2Seq`****, ****`Attention`****, ****`Translation`****
 	- [arXiv](https://arxiv.org/abs/1508.04025) | [note](notes/luong_attention.md) | [code](https://github.com/DongjunLee/conversation-tensorflow) 
-- Character-Aware Neural Language Models (2015. 8) ****`CNN`****, ****`Char`****
+- Character-Aware Neural Language Models (2015. 8) 
+	- ****`CNN`****, ****`Character-level`****
 	- [arXiv](https://arxiv.org/abs/1508.06615)
-- Neural Machine Translation of Rare Words with Subword Units (2015. 8) ****`OOV`****, ****`Translation`****
+- Neural Machine Translation of Rare Words with Subword Units (2015. 8) 
+	- ****`Out-Of-Vocabulary`****, ****`Translation`****
 	- [arXiv](https://arxiv.org/abs/1508.07909) | [note](notes/subword_nmt.md)
-- A Diversity-Promoting Objective Function for Neural Conversation Models (2015. 10) ****`Conversation`****, ****`Objective`****
+- A Diversity-Promoting Objective Function for Neural Conversation Models (2015. 10) 
+	- ****`Conversation`****, ****`Objective`****
 	- [arXiv](https://arxiv.org/abs/1510.03055) | [note](notes/diversity_conversation.md)
-- Multi-task Sequence to Sequence Learning (2015. 11) ****`Multi-Task`****, ****`Seq2Seq`****
+- Multi-task Sequence to Sequence Learning (2015. 11) 
+	- ****`Multi-Task`****, ****`Seq2Seq`****
 	- [arXiv](https://arxiv.org/abs/1511.06114) | [note](notes/multi_task_seq2seq.md)
-- Attention Is All You Need (2017. 6) ****`Attention`****, ****`Seq2Seq (without RNN, CNN)`****
+- Attention Is All You Need (2017. 6) 
+	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
-- Neural Text Generation: A Practical Guide (2017. 11) ****`Seq2Seq`****, ****`Guide`****
+- Neural Text Generation: A Practical Guide (2017. 11) 
+	- ****`Seq2Seq`****, ****`Decoder Guide`****
 	- [arXiv](https://arxiv.org/abs/1711.09534) | [note](notes/neural_text_generation.md)
