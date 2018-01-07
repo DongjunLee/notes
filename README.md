@@ -39,27 +39,12 @@
 - Deep Learning (2015) ****`Review`****
 	- [nature](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) | [note](notes/deep_learning.md)
 
-## Unsupervised & Generative
 
-- Auto-Encoding Variational Bayes (2013, 12)
-	- ****`Generative`****, ****`Approximate`****
-	- [arXiv](https://arxiv.org/abs/1312.6114) | [note](notes/vae.md)
+## Computer Vision
 
-
-## Optimization
-
-- Dropout (2012, 2014) 
-	- ****`Regulaizer`****, ****`Ensemble`****
-	- [arXiv (2012)](https://arxiv.org/abs/1207.0580) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [note](notes/dropout.md)
-- Batch Normalization (2015) 
-	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`CNN`****
-	- [arXiv](https://arxiv.org/abs/1502.03167) | [note](notes/batch_normalization.md)
-- Training Very Deep Networks (2015. 7) 
-	- ****`Highway`****, ****`LSTM-like`****
-	- [arXiv](https://arxiv.org/abs/1507.06228) | [note](notes/highway_networks.md)
-- Layer Normalization (2016) 
-	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`RNN`****
-	- [arXiv](https://arxiv.org/abs/1607.06450) | [note](notes/layer_normalization.md)
+- Deep Residual Learning for Image Recognition (2015, 12)
+	- ****`Residual`****, ****`ImageNet 2015`****
+	- [arXiv](https://arxiv.org/abs/1512.03385) | [note](notes/residual_network.md)
 
 
 ## Natural Language Processing
@@ -109,3 +94,26 @@
 - Neural Text Generation: A Practical Guide (2017. 11) 
 	- ****`Seq2Seq`****, ****`Decoder Guide`****
 	- [arXiv](https://arxiv.org/abs/1711.09534) | [note](notes/neural_text_generation.md)
+
+
+## Optimization
+
+- Dropout (2012, 2014) 
+	- ****`Regulaizer`****, ****`Ensemble`****
+	- [arXiv (2012)](https://arxiv.org/abs/1207.0580) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [note](notes/dropout.md)
+- Batch Normalization (2015) 
+	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`CNN`****
+	- [arXiv](https://arxiv.org/abs/1502.03167) | [note](notes/batch_normalization.md)
+- Training Very Deep Networks (2015. 7) 
+	- ****`Highway`****, ****`LSTM-like`****
+	- [arXiv](https://arxiv.org/abs/1507.06228) | [note](notes/highway_networks.md)
+- Layer Normalization (2016) 
+	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`RNN`****
+	- [arXiv](https://arxiv.org/abs/1607.06450) | [note](notes/layer_normalization.md)
+	
+	
+## Unsupervised & Generative
+
+- Auto-Encoding Variational Bayes (2013, 12)
+	- ****`Generative`****, ****`Approximate`****
+	- [arXiv](https://arxiv.org/abs/1312.6114) | [note](notes/vae.md)
