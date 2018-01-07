@@ -85,6 +85,9 @@
 - A Neural Conversational Model (2015. 6) 
 	- ****`Seq2Seq`****, ****`Conversation`****
 	- [arXiv](https://arxiv.org/abs/1506.05869)
+- Teaching Machines to Read and Comprehend (2015. 6) 
+	- ****`Deepmind`****, ****`Attention`****, ****`QA`****
+	- [arXiv](https://arxiv.org/abs/1506.03340) | [note](notes/teaching_machine_read_and_comprehend.md)
 - Effective Approaches to Attention-based Neural Machine Translation (2015. 8) 
 	- ****`Seq2Seq`****, ****`Attention`****, ****`Translation`****
 	- [arXiv](https://arxiv.org/abs/1508.04025) | [note](notes/luong_attention.md) | [code](https://github.com/DongjunLee/conversation-tensorflow) 
