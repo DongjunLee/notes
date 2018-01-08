@@ -88,6 +88,9 @@
 - Multi-task Sequence to Sequence Learning (2015. 11) 
 	- ****`Multi-Task`****, ****`Seq2Seq`****
 	- [arXiv](https://arxiv.org/abs/1511.06114) | [note](notes/multi_task_seq2seq.md)
+- Multilingual Language Processing From Bytes (2015. 12) 
+	- ****`Byte-to-Span`****, ****`Multilingual`****, ****`Seq2Seq`****
+	- [arXiv](https://arxiv.org/abs/1512.00103) | [note](notes/multi_task_seq2seq.md)
 - Attention Is All You Need (2017. 6) 
 	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
