@@ -90,7 +90,10 @@
 	- [arXiv](https://arxiv.org/abs/1511.06114) | [note](notes/multi_task_seq2seq.md)
 - Multilingual Language Processing From Bytes (2015. 12) 
 	- ****`Byte-to-Span`****, ****`Multilingual`****, ****`Seq2Seq`****
-	- [arXiv](https://arxiv.org/abs/1512.00103) | [note](notes/multi_task_seq2seq.md)
+	- [arXiv](https://arxiv.org/abs/1512.00103) | [note](notes/byte_to_span.md)
+- Strategies for Training Large Vocabulary Neural Language Models (2015. 12) 
+	- ****`Vocabulary`****, ****`Softmax`****, ****`NCE`****, ****`Self Normalization`****
+	- [arXiv](https://arxiv.org/abs/1512.04906) | [note](notes/vocabulary_strategy.md)
 - Attention Is All You Need (2017. 6) 
 	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
