@@ -94,6 +94,9 @@
 - Neural Text Generation: A Practical Guide (2017. 11) 
 	- ****`Seq2Seq`****, ****`Decoder Guide`****
 	- [arXiv](https://arxiv.org/abs/1711.09534) | [note](notes/neural_text_generation.md)
+- Recent Advances in Recurrent Neural Networks (2018. 1) 
+	- ****`RNN`****, ****`Recent Advances`****, ****`Review`****
+	- [arXiv](https://arxiv.org/abs/1801.01078)
 
 
 ## Optimization
