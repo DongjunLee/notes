@@ -93,7 +93,9 @@
 	- [arXiv](https://arxiv.org/abs/1512.00103) | [note](notes/byte_to_span.md)
 - Strategies for Training Large Vocabulary Neural Language Models (2015. 12) 
 	- ****`Vocabulary`****, ****`Softmax`****, ****`NCE`****, ****`Self Normalization`****
-	- [arXiv](https://arxiv.org/abs/1512.04906) | [note](notes/vocabulary_strategy.md)
+- Recurrent Memory Networks for Language Modeling (2016. 1) 
+	- ****`RMN`****, ****`Memory Bank`****
+	- [arXiv](https://arxiv.org/abs/1601.01272)
 - Attention Is All You Need (2017. 6) 
 	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
