@@ -100,6 +100,9 @@
 - Exploring the Limits of Language Modeling (2016. 2) 
 	- ****`Google Brain`****, ****`Language Modeling`****
 	- [arXiv](https://arxiv.org/abs/1602.02410) | [note](notes/exploring_limits_of_lm.md)
+- Incorporating Copying Mechanism in Sequence-to-Sequence Learning (2016. 3) 
+	- ****`CopyNet`****, ****`Seq2Seq`****
+	- [arXiv](https://arxiv.org/abs/1603.06393) | [note](notes/copynet.md)
 - Attention Is All You Need (2017. 6) 
 	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
