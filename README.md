@@ -119,15 +119,19 @@
 - Dropout (2012, 2014) 
 	- ****`Regulaizer`****, ****`Ensemble`****
 	- [arXiv (2012)](https://arxiv.org/abs/1207.0580) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [note](notes/dropout.md)
-- Batch Normalization (2015) 
+- Batch Normalization (2015. 2) 
 	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`CNN`****
 	- [arXiv](https://arxiv.org/abs/1502.03167) | [note](notes/batch_normalization.md)
 - Training Very Deep Networks (2015. 7) 
 	- ****`Highway`****, ****`LSTM-like`****
 	- [arXiv](https://arxiv.org/abs/1507.06228) | [note](notes/highway_networks.md)
-- Layer Normalization (2016) 
+- Deep Networks with Stochastic Depth (2016. 3) 
+	- ****`Dropout`****, ****`Ensenble`****, ****`Beyond 1000 layers`****
+	- [arXiv](https://arxiv.org/abs/1603.09382) | [note](notes/stochastic_depth.md)
+- Layer Normalization (2016. 7) 
 	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`RNN`****
 	- [arXiv](https://arxiv.org/abs/1607.06450) | [note](notes/layer_normalization.md)
+
 	
 	
 ## Unsupervised & Generative
