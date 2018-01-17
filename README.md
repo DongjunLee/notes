@@ -20,14 +20,15 @@
 ## Category 
 
 - [Background knowledge](#background-knowledge)
-- [Optimization](#optimization)
-- [Unsupervised & Generative](#unsupervised--generative)
+- [AI](#ai)
 - [Computer Vision](#computer-vision)
 - [Natural Language Processing](#natural-language-processing)
-- [Speech](#speech)
-- [Reinforcement](reinforcement)
+- [Optimization](#optimization)
+- [Unsupervised & Generative](#unsupervised--generative)
 
 ---
+
+
 
 ## Background knowledge
 
@@ -39,6 +40,12 @@
 - Deep Learning (2015) ****`Review`****
 	- [nature](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) | [note](notes/deep_learning.md)
 
+
+## AI
+
+- Building Machines That Learn and Think Like People (2016. 4)
+	- ****`Cognitive`****, ****`Human-Like`****
+	- [arXiv](https://arxiv.org/abs/1604.00289) | [note](notes/ml_learn_and_think_like_human.md) | [the morning paper](https://blog.acolyer.org/2016/11/25/building-machines-that-learn-and-think-like-people/)
 
 ## Computer Vision
 
