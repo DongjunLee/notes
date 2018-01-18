@@ -110,6 +110,9 @@
 - Incorporating Copying Mechanism in Sequence-to-Sequence Learning (2016. 3) 
 	- ****`CopyNet`****, ****`Seq2Seq`****
 	- [arXiv](https://arxiv.org/abs/1603.06393) | [note](notes/copynet.md)
+- Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models (2016. 4) 
+	- ****`Translation`****, ****`Hybrid NMT`****, ****`Word-Char`****
+	- [arXiv](https://arxiv.org/abs/1604.00788) | [note](notes/nmt_hybrid_word_and_char.md)
 - Attention Is All You Need (2017. 6) 
 	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
