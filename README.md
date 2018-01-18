@@ -24,6 +24,7 @@
 - [Computer Vision](#computer-vision)
 - [Natural Language Processing](#natural-language-processing)
 - [Optimization](#optimization)
+- [Transfer Learning](#transfer-learning)
 - [Unsupervised & Generative](#unsupervised--generative)
 
 ---
@@ -142,6 +143,12 @@
 	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`RNN`****
 	- [arXiv](https://arxiv.org/abs/1607.06450) | [note](notes/layer_normalization.md)
 
+
+## Transfer Learning
+
+- Progressive Neural Networks (2016, 6)
+	- ****`ProgNN `****, ****`Incorporate Prior Knowledge`****
+	- [arXiv](https://arxiv.org/abs/1606.04671) | [the morning paper](https://blog.acolyer.org/2016/10/11/progressive-neural-networks/)
 	
 	
 ## Unsupervised & Generative
