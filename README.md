@@ -120,6 +120,9 @@
 - Sequence-Level Knowledge Distillation (2016. 6) 
 	- ****`Distil`****, ****`Teacher-Student`****
 	- [arXiv](https://arxiv.org/abs/1606.07947) | [note](notes/sequence_knowledge_distillation.md)
+- Attention-over-Attention Neural Networks for Reading Comprehension (2016. 7) 
+	- ****`Attention`****, ****`Cloze-style`****, ****`Reading Comprehension`****
+	- [arXiv](https://arxiv.org/abs/1607.04423) | [note](notes/attn_over_attn_nn_rc.md)
 - Attention Is All You Need (2017. 6)
 	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
