@@ -114,7 +114,10 @@
 - Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models (2016. 4) 
 	- ****`Translation`****, ****`Hybrid NMT`****, ****`Word-Char`****
 	- [arXiv](https://arxiv.org/abs/1604.00788) | [note](notes/nmt_hybrid_word_and_char.md)
-- Attention Is All You Need (2017. 6) 
+- SQuAD: 100,000+ Questions for Machine Comprehension of Text (2016. 6) 
+	- ****`DataSet`****, ****`Reading Comprehension`****
+	- [arXiv](https://arxiv.org/pdf/1606.05250.pdf) | [note](notes/squad.md)
+- Attention Is All You Need (2017. 6) | [dataset](https://rajpurkar.github.io/SQuAD-explorer/)
 	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
 - Neural Text Generation: A Practical Guide (2017. 11) 
