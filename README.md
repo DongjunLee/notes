@@ -116,8 +116,11 @@
 	- [arXiv](https://arxiv.org/abs/1604.00788) | [note](notes/nmt_hybrid_word_and_char.md)
 - SQuAD: 100,000+ Questions for Machine Comprehension of Text (2016. 6) 
 	- ****`DataSet`****, ****`Reading Comprehension`****
-	- [arXiv](https://arxiv.org/pdf/1606.05250.pdf) | [note](notes/squad.md)
-- Attention Is All You Need (2017. 6) | [dataset](https://rajpurkar.github.io/SQuAD-explorer/)
+	- [arXiv](https://arxiv.org/abs/1606.05250) | [note](notes/squad.md) | [dataset](https://rajpurkar.github.io/SQuAD-explorer/)
+- Sequence-Level Knowledge Distillation (2016. 6) 
+	- ****`Distil`****, ****`Teacher-Student`****
+	- [arXiv](https://arxiv.org/abs/1606.07947) | [note](notes/sequence_knowledge_distillation.md)
+- Attention Is All You Need (2017. 6)
 	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
 - Neural Text Generation: A Practical Guide (2017. 11) 
