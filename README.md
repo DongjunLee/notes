@@ -136,6 +136,9 @@
 
 ## Optimization
 
+- Understanding the difficulty of training deep feedforward neural networks (2010) 
+	- ****`Weight Initialization`****, ****`Xavier`****
+	- [paper](http://proceedings.mlr.press/v9/glorot10a.html) | [note](notes/xavier_initialization.md)
 - Dropout (2012, 2014) 
 	- ****`Regulaizer`****, ****`Ensemble`****
 	- [arXiv (2012)](https://arxiv.org/abs/1207.0580) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [note](notes/dropout.md)
