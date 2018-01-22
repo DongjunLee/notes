@@ -137,7 +137,7 @@
 ## Optimization
 
 - Understanding the difficulty of training deep feedforward neural networks (2010) 
-	- ****`Weight Initialization`****, ****`Xavier`****
+	- ****`Weight Initialization (Xavier)`****
 	- [paper](http://proceedings.mlr.press/v9/glorot10a.html) | [note](notes/xavier_initialization.md)
 - Dropout (2012, 2014) 
 	- ****`Regulaizer`****, ****`Ensemble`****
@@ -145,6 +145,9 @@
 - Batch Normalization (2015. 2) 
 	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`CNN`****
 	- [arXiv](https://arxiv.org/abs/1502.03167) | [note](notes/batch_normalization.md)
+- Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (2015. 2) 
+	- ****`PReLU`****, ****`Weight Initialization (He)`****
+	- [arXiv](https://arxiv.org/abs/1502.01852) | [note](notes/he_initialization.md)
 - Training Very Deep Networks (2015. 7) 
 	- ****`Highway`****, ****`LSTM-like`****
 	- [arXiv](https://arxiv.org/abs/1507.06228) | [note](notes/highway_networks.md)
