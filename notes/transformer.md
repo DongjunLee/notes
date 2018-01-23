@@ -22,5 +22,9 @@
 - Attention: An attention function can be described as mapping a query and a set of key-value pairs to an output, where the query, keys, values, and output are all vectors. The output is computed as a weighted sum of the values, where the weight assigned to each value is computed by a compatibility function of the query with the corresponding key
 	- Multi-Head : num of heads (only for speed?) h=1 -> h=8 (better performance)
 	- multi-head attention allows the model to jointly attend to information from different representation subspaces at different locations
-- Allows for parallelization which in turn leads to significantly shorter training time.
+- Why Self-Attention?
+	1. total computational complexity per layer 
+		- `O(n^2 · d)`: (n is the sequence length, d is the representation dimension)
+	2. the amount of computation that can be parallelized, as measured by the minimum number of sequential operations required. 
+	3. the path length between long-range dependencies in the network.
 - performs well about 'coreference resolution'
