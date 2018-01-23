@@ -50,6 +50,9 @@
 
 ## Computer Vision
 
+- Fractional Max-Pooling (2014, 12)
+	- ****`Max-Pooling`****, ****`Data Augmentation`****, ****`Regularization`****
+	- [arXiv](https://arxiv.org/abs/1412.6071) | [note](notes/fractional_max-pooling.md)
 - Deep Residual Learning for Image Recognition (2015, 12)
 	- ****`Residual`****, ****`ImageNet 2015`****
 	- [arXiv](https://arxiv.org/abs/1512.03385) | [note](notes/residual_network.md)
