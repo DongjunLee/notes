@@ -63,9 +63,15 @@
 
 ## Natural Language Processing
 
+- Distributed Representations of Words and Phrases and their Compositionality (2013. 10) 
+	- ****`Word2Vec`****, ****`CBOW`****, ****`Skip-gram`****
+	- [arXiv](https://arxiv.org/abs/1310.4546)
+- GloVe: Global Vectors for Word Representation (2014) 
+	- ****`Word2Vec`****, ****`GloVe`****, ****`Co-Occurrence`****
+	- [paper](https://nlp.stanford.edu/pubs/glove.pdf)
 - Convolutional Neural Networks for Sentence Classification (2014. 8) 
-	- ****`First CNN`****
-	- [arXiv](https://arxiv.org/abs/1408.5882) | [code](https://github.com/DongjunLee/text-cnn-tensorflow) 
+	- ****`CNN`****, ****`Classfication`****
+	- [arXiv](https://arxiv.org/abs/1408.5882) | [code](https://github.com/DongjunLee/text-cnn-tensorflow)
 - Neural Machine Translation by Jointly Learning to Align and Translate (2014. 9) 
 	- ****`Seq2Seq`****, ****`Attention(Align)`****, ****`Translation`****
 	- [arXiv](https://arxiv.org/abs/1409.0473) | [note](notes/bahdanau_attention.md) | [code](https://github.com/DongjunLee/conversation-tensorflow) 
@@ -114,6 +120,9 @@
 - Exploring the Limits of Language Modeling (2016. 2) 
 	- ****`Google Brain`****, ****`Language Modeling`****
 	- [arXiv](https://arxiv.org/abs/1602.02410) | [note](notes/exploring_limits_of_lm.md)
+- Swivel: Improving Embeddings by Noticing What's Missing (2016. 2) 
+	- ****`Word2Vec`****, ****`Swivel `****, ****`Co-Occurrence`****
+	- [arXiv](https://arxiv.org/abs/1602.02215)
 - Incorporating Copying Mechanism in Sequence-to-Sequence Learning (2016. 3) 
 	- ****`CopyNet`****, ****`Seq2Seq`****
 	- [arXiv](https://arxiv.org/abs/1603.06393) | [note](notes/copynet.md)
