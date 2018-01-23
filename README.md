@@ -142,6 +142,9 @@
 - Dropout (2012, 2014) 
 	- ****`Regulaizer`****, ****`Ensemble`****
 	- [arXiv (2012)](https://arxiv.org/abs/1207.0580) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [note](notes/dropout.md)
+- Regularization of Neural Networks using DropConnect (2013) 
+	- ****`Regulaizer`****, ****`Ensemble`****
+	- [paper](https://cs.nyu.edu/~wanli/dropc/dropc.pdf) | [note](notes/dropconnect.md) | [wanli_summary](https://cs.nyu.edu/~wanli/dropc/)
 - Batch Normalization (2015. 2) 
 	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`CNN`****
 	- [arXiv](https://arxiv.org/abs/1502.03167) | [note](notes/batch_normalization.md)
