@@ -145,6 +145,9 @@
 - Understanding the difficulty of training deep feedforward neural networks (2010) 
 	- ****`Weight Initialization (Xavier)`****
 	- [paper](http://proceedings.mlr.press/v9/glorot10a.html) | [note](notes/xavier_initialization.md)
+- On the difficulty of training Recurrent Neural Networks (2012. 11) 
+	- ****`Gradient Clipping`****, ****`RNN`****
+	- [arXiv](https://arxiv.org/abs/1211.5063)
 - Dropout (2012, 2014) 
 	- ****`Regulaizer`****, ****`Ensemble`****
 	- [arXiv (2012)](https://arxiv.org/abs/1207.0580) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [note](notes/dropout.md)
@@ -157,6 +160,9 @@
 - Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (2015. 2) 
 	- ****`PReLU`****, ****`Weight Initialization (He)`****
 	- [arXiv](https://arxiv.org/abs/1502.01852) | [note](notes/he_initialization.md)
+- A Simple Way to Initialize Recurrent Networks of Rectified Linear Units (2015. 4) 
+	- ****`Weight Initialization`****, ****`RNN`****, ****`Identity Matrix`****
+	- [arXiv](https://arxiv.org/abs/1504.00941)
 - Training Very Deep Networks (2015. 7) 
 	- ****`Highway`****, ****`LSTM-like`****
 	- [arXiv](https://arxiv.org/abs/1507.06228) | [note](notes/highway_networks.md)
