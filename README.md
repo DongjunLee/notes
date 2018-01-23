@@ -50,10 +50,13 @@
 
 ## Computer Vision
 
-- Fractional Max-Pooling (2014, 12)
+- Network In Network (2013. 12)
+	- ****`Conv 1x1`****, ****`Bottleneck`****
+	- [arXiv](https://arxiv.org/abs/1312.4400) | [note](notes/network_in_network.md)
+- Fractional Max-Pooling (2014. 12)
 	- ****`Max-Pooling`****, ****`Data Augmentation`****, ****`Regularization`****
 	- [arXiv](https://arxiv.org/abs/1412.6071) | [note](notes/fractional_max-pooling.md)
-- Deep Residual Learning for Image Recognition (2015, 12)
+- Deep Residual Learning for Image Recognition (2015. 12)
 	- ****`Residual`****, ****`ImageNet 2015`****
 	- [arXiv](https://arxiv.org/abs/1512.03385) | [note](notes/residual_network.md)
 
