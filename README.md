@@ -138,6 +138,9 @@
 - Attention-over-Attention Neural Networks for Reading Comprehension (2016. 7) 
 	- ****`Attention`****, ****`Cloze-style`****, ****`Reading Comprehension`****
 	- [arXiv](https://arxiv.org/abs/1607.04423) | [note](notes/attn_over_attn_nn_rc.md)
+- Recurrent Neural Machine Translation (2016. 7) 
+	- ****`Translation`****, ****`Attention (RNN)`****
+	- [arXiv](https://arxiv.org/abs/1607.08725)
 - Attention Is All You Need (2017. 6)
 	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
