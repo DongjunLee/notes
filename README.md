@@ -141,6 +141,9 @@
 - Recurrent Neural Machine Translation (2016. 7) 
 	- ****`Translation`****, ****`Attention (RNN)`****
 	- [arXiv](https://arxiv.org/abs/1607.08725)
+- An Actor-Critic Algorithm for Sequence Prediction (2016. 7) 
+	- ****`Seq2Seq`****, ****`Actor-Critic`****, ****`Objective`****
+	- [arXiv](https://arxiv.org/abs/1607.07086) | [note](notes/actor_critic_for_seq.md)
 - Attention Is All You Need (2017. 6)
 	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
