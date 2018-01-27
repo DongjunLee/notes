@@ -22,6 +22,7 @@
 - [Background knowledge](#background-knowledge)
 - [AI](#ai)
 - [Computer Vision](#computer-vision)
+- [Model](#model)
 - [Natural Language Processing](#natural-language-processing)
 - [Optimization](#optimization)
 - [Transfer Learning](#transfer-learning)
@@ -59,6 +60,31 @@
 - Deep Residual Learning for Image Recognition (2015. 12)
 	- ****`Residual`****, ****`ImageNet 2015`****
 	- [arXiv](https://arxiv.org/abs/1512.03385) | [note](notes/residual_network.md)
+
+
+## Model
+
+- Dropout (2012, 2014) 
+	- ****`Regulaizer`****, ****`Ensemble`****
+	- [arXiv (2012)](https://arxiv.org/abs/1207.0580) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [note](notes/dropout.md)
+- Regularization of Neural Networks using DropConnect (2013) 
+	- ****`Regulaizer`****, ****`Ensemble`****
+	- [paper](https://cs.nyu.edu/~wanli/dropc/dropc.pdf) | [note](notes/dropconnect.md) | [wanli_summary](https://cs.nyu.edu/~wanli/dropc/)
+- Batch Normalization (2015. 2) 
+	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`CNN`****
+	- [arXiv](https://arxiv.org/abs/1502.03167) | [note](notes/batch_normalization.md)
+- Training Very Deep Networks (2015. 7) 
+	- ****`Highway`****, ****`LSTM-like`****
+	- [arXiv](https://arxiv.org/abs/1507.06228) | [note](notes/highway_networks.md)
+- Deep Networks with Stochastic Depth (2016. 3) 
+	- ****`Dropout`****, ****`Ensenble`****, ****`Beyond 1000 layers`****
+	- [arXiv](https://arxiv.org/abs/1603.09382) | [note](notes/stochastic_depth.md)
+- Layer Normalization (2016. 7) 
+	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`RNN`****
+	- [arXiv](https://arxiv.org/abs/1607.06450) | [note](notes/layer_normalization.md)
+- A simple neural network module for relational reasoning (2017. 6) 
+	- ****`Relational Reasoning`****, ****`DeepMind`****
+	- [arXiv](https://arxiv.org/abs/1706.01427) | [note](notes/relational_network.md)
 
 
 ## Natural Language Processing
@@ -166,30 +192,12 @@
 - On the difficulty of training Recurrent Neural Networks (2012. 11) 
 	- ****`Gradient Clipping`****, ****`RNN`****
 	- [arXiv](https://arxiv.org/abs/1211.5063)
-- Dropout (2012, 2014) 
-	- ****`Regulaizer`****, ****`Ensemble`****
-	- [arXiv (2012)](https://arxiv.org/abs/1207.0580) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [note](notes/dropout.md)
-- Regularization of Neural Networks using DropConnect (2013) 
-	- ****`Regulaizer`****, ****`Ensemble`****
-	- [paper](https://cs.nyu.edu/~wanli/dropc/dropc.pdf) | [note](notes/dropconnect.md) | [wanli_summary](https://cs.nyu.edu/~wanli/dropc/)
-- Batch Normalization (2015. 2) 
-	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`CNN`****
-	- [arXiv](https://arxiv.org/abs/1502.03167) | [note](notes/batch_normalization.md)
 - Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (2015. 2) 
 	- ****`PReLU`****, ****`Weight Initialization (He)`****
 	- [arXiv](https://arxiv.org/abs/1502.01852) | [note](notes/he_initialization.md)
 - A Simple Way to Initialize Recurrent Networks of Rectified Linear Units (2015. 4) 
 	- ****`Weight Initialization`****, ****`RNN`****, ****`Identity Matrix`****
 	- [arXiv](https://arxiv.org/abs/1504.00941)
-- Training Very Deep Networks (2015. 7) 
-	- ****`Highway`****, ****`LSTM-like`****
-	- [arXiv](https://arxiv.org/abs/1507.06228) | [note](notes/highway_networks.md)
-- Deep Networks with Stochastic Depth (2016. 3) 
-	- ****`Dropout`****, ****`Ensenble`****, ****`Beyond 1000 layers`****
-	- [arXiv](https://arxiv.org/abs/1603.09382) | [note](notes/stochastic_depth.md)
-- Layer Normalization (2016. 7) 
-	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`RNN`****
-	- [arXiv](https://arxiv.org/abs/1607.06450) | [note](notes/layer_normalization.md)
 
 
 ## Transfer Learning
