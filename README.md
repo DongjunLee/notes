@@ -170,9 +170,9 @@
 - An Actor-Critic Algorithm for Sequence Prediction (2016. 7) 
 	- ****`Seq2Seq`****, ****`Actor-Critic`****, ****`Objective`****
 	- [arXiv](https://arxiv.org/abs/1607.07086) | [note](notes/actor_critic_for_seq.md)
-- SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient (2016. 9) 
-	- ****`Seq2Seq`****, ****`GAN`****, ****`RL`****
-	- [arXiv](https://arxiv.org/abs/1609.05473) | [note](notes/seq_gan.md)
+- Pointer Sentinel Mixture Models (2016. 9) 
+	- ****`Language Modeling`****, ****`Rare Word`****, ****`Salesforce`****
+	- [arXiv](https://arxiv.org/abs/1609.07843) | [note](notes/ps-lstm.md)
 - Attention Is All You Need (2017. 6)
 	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
@@ -212,3 +212,6 @@
 - Auto-Encoding Variational Bayes (2013, 12)
 	- ****`Generative`****, ****`Approximate`****
 	- [arXiv](https://arxiv.org/abs/1312.6114) | [note](notes/vae.md)
+- SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient (2016. 9) 
+	- ****`Seq2Seq`****, ****`GAN`****, ****`RL`****
+	- [arXiv](https://arxiv.org/abs/1609.05473) | [note](notes/seq_gan.md)
