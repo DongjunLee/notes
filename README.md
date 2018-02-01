@@ -176,6 +176,9 @@
 - Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models (2016. 10) 
 	- ****`Diverse`****, ****`DBS`****
 	- [arXiv](https://arxiv.org/abs/1610.02424) | [note](notes/dbs.md)
+- Fully Character-Level Neural Machine Translation without Explicit Segmentation (2016. 10) 
+	- ****`Translation`****, ****`CNN`****, ****`Character-Level`****
+	- [arXiv](https://arxiv.org/abs/1610.03017) | [note](notes/fully_conv_nmt.md)
 - Attention Is All You Need (2017. 6)
 	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
