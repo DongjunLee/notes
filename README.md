@@ -188,6 +188,9 @@
 - Recent Advances in Recurrent Neural Networks (2018. 1) 
 	- ****`RNN`****, ****`Recent Advances`****, ****`Review`****
 	- [arXiv](https://arxiv.org/abs/1801.01078)
+- Deep Learning for Sentiment Analysis : A Survey (2018. 1)
+	- ****`Sentiment`****, ****`Survey`****
+	- [arXiv](https://arxiv.org/abs/1801.07883)
 
 
 ## Optimization
