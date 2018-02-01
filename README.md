@@ -179,6 +179,9 @@
 - Fully Character-Level Neural Machine Translation without Explicit Segmentation (2016. 10) 
 	- ****`Translation`****, ****`CNN`****, ****`Character-Level`****
 	- [arXiv](https://arxiv.org/abs/1610.03017) | [note](notes/fully_conv_nmt.md)
+- Using Fast Weights to Attend to the Recent Past (2016. 10) 
+	- ****`Cognitive`****, ****`Attention`****, ****`Memory`****
+	- [arXiv](https://arxiv.org/abs/1610.06258) | [note](notes/fast_weights_attn.md)
 - Attention Is All You Need (2017. 6)
 	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
@@ -188,9 +191,6 @@
 - Recent Advances in Recurrent Neural Networks (2018. 1) 
 	- ****`RNN`****, ****`Recent Advances`****, ****`Review`****
 	- [arXiv](https://arxiv.org/abs/1801.01078)
-- Deep Learning for Sentiment Analysis : A Survey (2018. 1)
-	- ****`Sentiment`****, ****`Survey`****
-	- [arXiv](https://arxiv.org/abs/1801.07883)
 
 
 ## Optimization
