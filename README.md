@@ -82,6 +82,9 @@
 - Layer Normalization (2016. 7) 
 	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`RNN`****
 	- [arXiv](https://arxiv.org/abs/1607.06450) | [note](notes/layer_normalization.md)
+- Professor Forcing: A New Algorithm for Training Recurrent Networks (2016. 10) 
+	- ****`Professor Forcing`****, ****`RNN`****, ****`Inference Problem`****, ****`Training with GAN`****
+	- [arXiv](https://arxiv.org/abs/1610.09038) | [note](notes/professor_forcing.md)
 - A simple neural network module for relational reasoning (2017. 6) 
 	- ****`Relational Reasoning`****, ****`DeepMind`****
 	- [arXiv](https://arxiv.org/abs/1706.01427) | [note](notes/relational_network.md) | [code](https://github.com/DongjunLee/relation-network-tensorflow)
