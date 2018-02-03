@@ -179,6 +179,9 @@
 - Pointer Sentinel Mixture Models (2016. 9) 
 	- ****`Language Modeling`****, ****`Rare Word`****, ****`Salesforce`****
 	- [arXiv](https://arxiv.org/abs/1609.07843) | [note](notes/ps-lstm.md)
+- Multiplicative LSTM for sequence modelling (2016. 10) 
+	- ****`mLSTM`****, ****`Language Modeling`****,  ****`Character-Level`****
+	- [arXiv](https://arxiv.org/abs/1609.07959)
 - Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models (2016. 10) 
 	- ****`Diverse`****, ****`DBS`****
 	- [arXiv](https://arxiv.org/abs/1610.02424) | [note](notes/dbs.md)
@@ -188,6 +191,9 @@
 - Neural Machine Translation in Linear Time (2016. 10) 
 	- ****`ByteNet`****, ****`WaveNet + PixelCNN`****, ****`Translation`****, ****`Character-Level`****
 	- [arXiv](https://arxiv.org/abs/1610.10099) | [note](notes/bytenet.md)
+- Learning to Generate Reviews and Discovering Sentiment (2017. 4)
+	- ****`Sentiment`****, ****`Unsupervised `****, ****`OpenAI`****
+	- [arXiv](https://arxiv.org/abs/1706.03762)
 - Attention Is All You Need (2017. 6)
 	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
