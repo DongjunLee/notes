@@ -82,6 +82,9 @@
 - Layer Normalization (2016. 7) 
 	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`RNN`****
 	- [arXiv](https://arxiv.org/abs/1607.06450) | [note](notes/layer_normalization.md)
+- Using Fast Weights to Attend to the Recent Past (2016. 10) 
+	- ****`Cognitive`****, ****`Attention`****, ****`Memory`****
+	- [arXiv](https://arxiv.org/abs/1610.06258) | [note](notes/fast_weights_attn.md)
 - Professor Forcing: A New Algorithm for Training Recurrent Networks (2016. 10) 
 	- ****`Professor Forcing`****, ****`RNN`****, ****`Inference Problem`****, ****`Training with GAN`****
 	- [arXiv](https://arxiv.org/abs/1610.09038) | [note](notes/professor_forcing.md)
@@ -182,9 +185,9 @@
 - Fully Character-Level Neural Machine Translation without Explicit Segmentation (2016. 10) 
 	- ****`Translation`****, ****`CNN`****, ****`Character-Level`****
 	- [arXiv](https://arxiv.org/abs/1610.03017) | [note](notes/fully_conv_nmt.md)
-- Using Fast Weights to Attend to the Recent Past (2016. 10) 
-	- ****`Cognitive`****, ****`Attention`****, ****`Memory`****
-	- [arXiv](https://arxiv.org/abs/1610.06258) | [note](notes/fast_weights_attn.md)
+- Neural Machine Translation in Linear Time (2016. 10) 
+	- ****`ByteNet`****, ****`WaveNet + PixelCNN`****, ****`Translation`****, ****`Character-Level`****
+	- [arXiv](https://arxiv.org/abs/1610.10099) | [note](notes/bytenet.md)
 - Attention Is All You Need (2017. 6)
 	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
