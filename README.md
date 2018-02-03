@@ -84,7 +84,7 @@
 	- [arXiv](https://arxiv.org/abs/1607.06450) | [note](notes/layer_normalization.md)
 - A simple neural network module for relational reasoning (2017. 6) 
 	- ****`Relational Reasoning`****, ****`DeepMind`****
-	- [arXiv](https://arxiv.org/abs/1706.01427) | [note](notes/relational_network.md)
+	- [arXiv](https://arxiv.org/abs/1706.01427) | [note](notes/relational_network.md) | [code](https://github.com/DongjunLee/relation-network-tensorflow)
 
 
 ## Natural Language Processing
@@ -218,9 +218,9 @@
 	
 ## Unsupervised & Generative
 
-- Auto-Encoding Variational Bayes (2013, 12)
+- Auto-Encoding Variational Bayes (2013. 12)
 	- ****`Generative`****, ****`Approximate`****
-	- [arXiv](https://arxiv.org/abs/1312.6114) | [note](notes/vae.md)
+	- [arXiv](https://arxiv.org/abs/1312.6114) | [note](notes/vae.md) | [code](https://github.com/DongjunLee/vae-tensorflow)
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient (2016. 9) 
 	- ****`Seq2Seq`****, ****`GAN`****, ****`RL`****
 	- [arXiv](https://arxiv.org/abs/1609.05473) | [note](notes/seq_gan.md)
