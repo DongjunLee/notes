@@ -197,9 +197,15 @@
 - Attention Is All You Need (2017. 6)
 	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
+- Simple and Effective Multi-Paragraph Reading Comprehension (2017. 10) 
+	- ****`QA`****, ****`Paragraph-Level`****
+	- [arXiv](https://arxiv.org/abs/1710.10723)
 - Neural Text Generation: A Practical Guide (2017. 11) 
 	- ****`Seq2Seq`****, ****`Decoder Guide`****
 	- [arXiv](https://arxiv.org/abs/1711.09534) | [note](notes/neural_text_generation.md)
+- Contextualized Word Representations for Reading Comprehension (2017. 12) 
+	- ****`QA`****, ****`Word Embedding`****, ****` Contextualized`****
+	- [arXiv](https://arxiv.org/abs/1712.03609)
 - Recent Advances in Recurrent Neural Networks (2018. 1) 
 	- ****`RNN`****, ****`Recent Advances`****, ****`Review`****
 	- [arXiv](https://arxiv.org/abs/1801.01078)
