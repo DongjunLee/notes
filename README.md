@@ -237,8 +237,11 @@
 ## Unsupervised & Generative
 
 - Auto-Encoding Variational Bayes (2013. 12)
-	- ****`Generative`****, ****`Approximate`****
+	- ****`VAE`****, ****`Variational`****, ****`Approximate`****
 	- [arXiv](https://arxiv.org/abs/1312.6114) | [note](notes/vae.md) | [code](https://github.com/DongjunLee/vae-tensorflow)
+- Generative Adversarial Networks (2014. 6)
+	- ****`GAN`****, ****`Adversarial`****, ****`Minimax`****
+	- [arXiv](https://arxiv.org/abs/1406.2661) | [note](notes/gan.md) | [code](https://github.com/DongjunLee/gan-tensorflow)
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient (2016. 9) 
 	- ****`Seq2Seq`****, ****`GAN`****, ****`RL`****
 	- [arXiv](https://arxiv.org/abs/1609.05473) | [note](notes/seq_gan.md)
