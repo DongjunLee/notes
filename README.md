@@ -28,8 +28,13 @@
 - [Transfer Learning](#transfer-learning)
 - [Unsupervised & Generative](#unsupervised--generative)
 
----
+### Description
 
+- **bold** : <U>important</U>
+- ****`tag`****: <U>keyword</U>
+- paper, article, note and code
+
+---
 
 
 ## Background knowledge
@@ -51,26 +56,26 @@
 
 ## Computer Vision
 
-- Network In Network (2013. 12)
+- **Network In Network** (2013. 12)
 	- ****`Conv 1x1`****, ****`Bottleneck`****
 	- [arXiv](https://arxiv.org/abs/1312.4400) | [note](notes/network_in_network.md)
 - Fractional Max-Pooling (2014. 12)
 	- ****`Max-Pooling`****, ****`Data Augmentation`****, ****`Regularization`****
 	- [arXiv](https://arxiv.org/abs/1412.6071) | [note](notes/fractional_max-pooling.md)
-- Deep Residual Learning for Image Recognition (2015. 12)
+- **Deep Residual Learning for Image Recognition** (2015. 12)
 	- ****`Residual`****, ****`ImageNet 2015`****
 	- [arXiv](https://arxiv.org/abs/1512.03385) | [note](notes/residual_network.md)
 
 
 ## Model
 
-- Dropout (2012, 2014) 
+- **Dropout** (2012, 2014) 
 	- ****`Regulaizer`****, ****`Ensemble`****
 	- [arXiv (2012)](https://arxiv.org/abs/1207.0580) | [arXiv (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) | [note](notes/dropout.md)
 - Regularization of Neural Networks using DropConnect (2013) 
 	- ****`Regulaizer`****, ****`Ensemble`****
 	- [paper](https://cs.nyu.edu/~wanli/dropc/dropc.pdf) | [note](notes/dropconnect.md) | [wanli_summary](https://cs.nyu.edu/~wanli/dropc/)
-- Batch Normalization (2015. 2) 
+- **Batch Normalization** (2015. 2) 
 	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`CNN`****
 	- [arXiv](https://arxiv.org/abs/1502.03167) | [note](notes/batch_normalization.md)
 - Training Very Deep Networks (2015. 7) 
@@ -88,23 +93,23 @@
 - Professor Forcing: A New Algorithm for Training Recurrent Networks (2016. 10) 
 	- ****`Professor Forcing`****, ****`RNN`****, ****`Inference Problem`****, ****`Training with GAN`****
 	- [arXiv](https://arxiv.org/abs/1610.09038) | [note](notes/professor_forcing.md)
-- A simple neural network module for relational reasoning (2017. 6) 
+- **A simple neural network module for relational reasoning** (2017. 6) 
 	- ****`Relational Reasoning`****, ****`DeepMind`****
 	- [arXiv](https://arxiv.org/abs/1706.01427) | [note](notes/relational_network.md) | [code](https://github.com/DongjunLee/relation-network-tensorflow)
 
 
 ## Natural Language Processing
 
-- Distributed Representations of Words and Phrases and their Compositionality (2013. 10) 
+- **Distributed Representations of Words and Phrases and their Compositionality** (2013. 10) 
 	- ****`Word2Vec`****, ****`CBOW`****, ****`Skip-gram`****
 	- [arXiv](https://arxiv.org/abs/1310.4546)
 - GloVe: Global Vectors for Word Representation (2014) 
 	- ****`Word2Vec`****, ****`GloVe`****, ****`Co-Occurrence`****
 	- [paper](https://nlp.stanford.edu/pubs/glove.pdf)
-- Convolutional Neural Networks for Sentence Classification (2014. 8) 
+- **Convolutional Neural Networks for Sentence Classification** (2014. 8) 
 	- ****`CNN`****, ****`Classfication`****
 	- [arXiv](https://arxiv.org/abs/1408.5882) | [code](https://github.com/DongjunLee/text-cnn-tensorflow)
-- Neural Machine Translation by Jointly Learning to Align and Translate (2014. 9) 
+- **Neural Machine Translation by Jointly Learning to Align and Translate** (2014. 9) 
 	- ****`Seq2Seq`****, ****`Attention(Align)`****, ****`Translation`****
 	- [arXiv](https://arxiv.org/abs/1409.0473) | [note](notes/bahdanau_attention.md) | [code](https://github.com/DongjunLee/conversation-tensorflow) 
 - Text Understanding from Scratch (2015. 2) 
@@ -116,7 +121,7 @@
 - Pointer Networks (2015. 6) 
 	- ****`Seq2Seq`****, ****`Attention`****, ****`Combinatorial`****
 	- [arXiv](https://arxiv.org/abs/1506.03134) | [note](notes/pointer_network.md) 
-- Skip-Thought Vectors (2015. 6) 
+- **Skip-Thought Vectors** (2015. 6) 
 	- ****`Sentence2Vec`****, ****`Unsupervised`****
 	- [arXiv](https://arxiv.org/abs/1506.06726) | [note](notes/skip_thought.md)
 - A Neural Conversational Model (2015. 6) 
@@ -137,7 +142,7 @@
 - A Diversity-Promoting Objective Function for Neural Conversation Models (2015. 10) 
 	- ****`Conversation`****, ****`Objective`****
 	- [arXiv](https://arxiv.org/abs/1510.03055) | [note](notes/diversity_conversation.md)
-- Multi-task Sequence to Sequence Learning (2015. 11) 
+- **Multi-task Sequence to Sequence Learning** (2015. 11) 
 	- ****`Multi-Task`****, ****`Seq2Seq`****
 	- [arXiv](https://arxiv.org/abs/1511.06114) | [note](notes/multi_task_seq2seq.md)
 - Multilingual Language Processing From Bytes (2015. 12) 
@@ -161,7 +166,7 @@
 - Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models (2016. 4) 
 	- ****`Translation`****, ****`Hybrid NMT`****, ****`Word-Char`****
 	- [arXiv](https://arxiv.org/abs/1604.00788) | [note](notes/nmt_hybrid_word_and_char.md)
-- SQuAD: 100,000+ Questions for Machine Comprehension of Text (2016. 6) 
+- **SQuAD: 100,000+ Questions for Machine Comprehension of Text** (2016. 6) 
 	- ****`DataSet`****, ****`Reading Comprehension`****
 	- [arXiv](https://arxiv.org/abs/1606.05250) | [note](notes/squad.md) | [dataset](https://rajpurkar.github.io/SQuAD-explorer/)
 - Sequence-Level Knowledge Distillation (2016. 6) 
@@ -188,13 +193,13 @@
 - Fully Character-Level Neural Machine Translation without Explicit Segmentation (2016. 10) 
 	- ****`Translation`****, ****`CNN`****, ****`Character-Level`****
 	- [arXiv](https://arxiv.org/abs/1610.03017) | [note](notes/fully_conv_nmt.md)
-- Neural Machine Translation in Linear Time (2016. 10) 
+- **Neural Machine Translation in Linear Time** (2016. 10) 
 	- ****`ByteNet`****, ****`WaveNet + PixelCNN`****, ****`Translation`****, ****`Character-Level`****
 	- [arXiv](https://arxiv.org/abs/1610.10099) | [note](notes/bytenet.md)
 - Learning to Generate Reviews and Discovering Sentiment (2017. 4)
 	- ****`Sentiment`****, ****`Unsupervised `****, ****`OpenAI`****
 	- [arXiv](https://arxiv.org/abs/1706.03762)
-- Attention Is All You Need (2017. 6)
+- **Attention Is All You Need** (2017. 6)
 	- ****`Self-Attention`****, ****`Seq2Seq (without RNN, CNN)`****
 	- [arXiv](https://arxiv.org/abs/1706.03762) | [note](notes/transformer.md) | [code](https://github.com/DongjunLee/transformer-tensorflow)  
 - Simple and Effective Multi-Paragraph Reading Comprehension (2017. 10) 
@@ -236,10 +241,10 @@
 	
 ## Unsupervised & Generative
 
-- Auto-Encoding Variational Bayes (2013. 12)
+- **Auto-Encoding Variational Bayes** (2013. 12)
 	- ****`VAE`****, ****`Variational`****, ****`Approximate`****
 	- [arXiv](https://arxiv.org/abs/1312.6114) | [note](notes/vae.md) | [code](https://github.com/DongjunLee/vae-tensorflow)
-- Generative Adversarial Networks (2014. 6)
+- **Generative Adversarial Networks** (2014. 6)
 	- ****`GAN`****, ****`Adversarial`****, ****`Minimax`****
 	- [arXiv](https://arxiv.org/abs/1406.2661) | [note](notes/gan.md) | [code](https://github.com/DongjunLee/gan-tensorflow)
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient (2016. 9) 
