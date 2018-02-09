@@ -196,6 +196,9 @@
 - **Neural Machine Translation in Linear Time** (2016. 10) 
 	- ****`ByteNet`****, ****`WaveNet + PixelCNN`****, ****`Translation`****, ****`Character-Level`****
 	- [arXiv](https://arxiv.org/abs/1610.10099) | [note](notes/bytenet.md)
+- Bidirectional Attention Flow for Machine Comprehension (2016. 11) 
+	- ****`QA`****, ****`BIDAF`****, ****`Machine Comprehension`****
+	- [arXiv](https://arxiv.org/abs/1611.01603)
 - Learning to Generate Reviews and Discovering Sentiment (2017. 4)
 	- ****`Sentiment`****, ****`Unsupervised `****, ****`OpenAI`****
 	- [arXiv](https://arxiv.org/abs/1706.03762)
@@ -214,6 +217,9 @@
 - Recent Advances in Recurrent Neural Networks (2018. 1) 
 	- ****`RNN`****, ****`Recent Advances`****, ****`Review`****
 	- [arXiv](https://arxiv.org/abs/1801.01078)
+- Personalizing Dialogue Agents: I have a dog, do you have pets too? (2018. 1) 
+	- ****`Chit-chat`****, ****`Profile Memory`****, ****`Persona-Chat Dataset`****, ****`ParlAI`****
+	- [arXiv](https://arxiv.org/abs/1801.07243)
 
 
 ## Optimization
