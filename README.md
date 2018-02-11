@@ -1,23 +1,7 @@
+# notes [![hb-research](https://img.shields.io/badge/hb--research-notes-green.svg?style=flat&colorA=448C57&colorB=555555)](https://github.com/hb-research)
 
-<p align="center">
-  <a href="https://github.com/hb-research/notes">
-    <img src="images/logo.png" width=250>
-  </a>
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/hb-research/notes">
-    <img src="https://img.shields.io/badge/DeepLearning-Notes-brightgreen.svg" alt="Project Introduction">
-  </a>
-
-  <a href="https://github.com/hb-research/notes">
-    <img src="https://img.shields.io/badge/Summary-Code-brightgreen.svg" alt="Project Introduction">
-  </a>
-
-</p>
-
-# notes: Notes of Deep Learning
+Summary Notes, Codes and Articles of Deep Learning Research.  
+The codes are implemented by TensorFlow and initiate project with [hb-base](https://github.com/hb-research/hb-base).
 
 ## Category
 
