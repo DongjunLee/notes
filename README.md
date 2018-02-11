@@ -157,6 +157,9 @@
 - Strategies for Training Large Vocabulary Neural Language Models (2015. 12) 
 	- ****`Vocabulary`****, ****`Softmax`****, ****`NCE`****, ****`Self Normalization`****
 	- [arXiv](https://arxiv.org/abs/1512.04906) | [note](notes/vocabulary_strategy.md)
+- Incorporating Structural Alignment Biases into an Attentional Neural Translation Model (2016. 1) 
+	- ****`Seq2Seq`****, ****`Attention with Structural Biases`****, ****`Translation`****
+	- [arXiv](https://arxiv.org/abs/1601.01085)
 - Recurrent Memory Networks for Language Modeling (2016. 1) 
 	- ****`RMN`****, ****`Memory Bank`****
 	- [arXiv](https://arxiv.org/abs/1601.01272)
