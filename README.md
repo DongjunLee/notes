@@ -87,6 +87,9 @@
 - Layer Normalization (2016. 7) 
 	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`RNN`****
 	- [arXiv](https://arxiv.org/abs/1607.06450) | [note](notes/layer_normalization.md)
+- Recurrent Highway Networks (2016. 7) 
+	- ****`RHN`****, ****`Highway`****, ****`Depth`****, ****`RNN`****
+	- [arXiv](https://arxiv.org/abs/1607.03474) | [note](notes/recurrent_highway.md)
 - Using Fast Weights to Attend to the Recent Past (2016. 10) 
 	- ****`Cognitive`****, ****`Attention`****, ****`Memory`****
 	- [arXiv](https://arxiv.org/abs/1610.06258) | [note](notes/fast_weights_attn.md)
