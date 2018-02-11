@@ -15,8 +15,6 @@
 
 ![images](../images/recurrent_highway_2.png)
 
-![images](../images/recurrent_highway_3.png)
-
 - Recurrent Highway Networks (RHN)
 	- GCT allows us to observe the behavior of the full spectrum of the temporal Jacobian, and the effect of gating units on it. (expect that for learning multiple temporal dependencies from real-world data efficiently)
 	- it becomes clear that through their effect on the behavior of the Jacobian, highly non-linear gating functions can facilitate learning through rapid and precise regulation of the network dynamics.

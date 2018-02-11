@@ -75,6 +75,9 @@
 - Regularization of Neural Networks using DropConnect (2013) 
 	- ****`Regulaizer`****, ****`Ensemble`****
 	- [paper](https://cs.nyu.edu/~wanli/dropc/dropc.pdf) | [note](notes/dropconnect.md) | [wanli_summary](https://cs.nyu.edu/~wanli/dropc/)
+- Recurrent Neural Network Regularization (2014. 9) 
+	- ****`RNN`****, ****`Dropout to Non-Recurrent Connections`****
+	- [arXiv](https://arxiv.org/abs/1409.2329)
 - **Batch Normalization** (2015. 2) 
 	- ****`Regulaizer`****, ****`Accelerate Training`****, ****`CNN`****
 	- [arXiv](https://arxiv.org/abs/1502.03167) | [note](notes/batch_normalization.md)
