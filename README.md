@@ -195,6 +195,9 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 - Bidirectional Attention Flow for Machine Comprehension (2016. 11)
 	- **`QA`**, **`BIDAF`**, **`Machine Comprehension`**
 	- [arXiv](https://arxiv.org/abs/1611.01603)
+- Dual Learning for Machine Translation (2016. 11)
+	- **`Translation`**, **`RL`**, **`Dual Learning (Two-agent)`**
+	- [arXiv](https://arxiv.org/abs/1611.00179), [note](notes/dual_learning_nmt.md)
 - Learning to Generate Reviews and Discovering Sentiment (2017. 4)
 	- **`Sentiment`**, **`Unsupervised `**, **`OpenAI`**
 	- [arXiv](https://arxiv.org/abs/1706.03762)
