@@ -195,9 +195,6 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 - Bidirectional Attention Flow for Machine Comprehension (2016. 11)
 	- **`QA`**, **`BIDAF`**, **`Machine Comprehension`**
 	- [arXiv](https://arxiv.org/abs/1611.01603)
-- Dual Learning for Machine Translation (2016. 11)
-	- **`Translation`**, **`RL`**, **`Dual Learning (Two-agent)`**
-	- [arXiv](https://arxiv.org/abs/1611.00179), [note](notes/dual_learning_nmt.md)
 - Learning to Generate Reviews and Discovering Sentiment (2017. 4)
 	- **`Sentiment`**, **`Unsupervised `**, **`OpenAI`**
 	- [arXiv](https://arxiv.org/abs/1706.03762)
@@ -243,9 +240,19 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 	- [arXiv](https://arxiv.org/abs/1504.00941)
 
 
+## Reinforcement Learning
+
+- Neural Architecture Search with Reinforcement Learning (2016. 11)
+	- **`NAS`**, **`Google AutoML`**, **`Google Brain`**
+	- [arXiv](https://arxiv.org/abs/1611.01578)
+- Efficient Neural Architecture Search via Parameter Sharing (2018. 2)
+	- **`ENAS`**, **`Google AutoML`**, **`Google Brain`**
+	- [arXiv](https://arxiv.org/abs/1802.03268)
+
+
 ## Transfer Learning
 
-- Progressive Neural Networks (2016, 6)
+- Progressive Neural Networks (2016. 6)
 	- **`ProgNN `**, **`Incorporate Prior Knowledge`**
 	- [arXiv](https://arxiv.org/abs/1606.04671), [the morning paper](https://blog.acolyer.org/2016/10/11/progressive-neural-networks/)
 
