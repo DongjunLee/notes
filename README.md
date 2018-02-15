@@ -5,12 +5,13 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 
 ## Category
 
-- [Background knowledge](#background-knowledge)
-- [AI](#ai)
+- [Background Knowledge](#background-knowledge)
+- [Cognitive](#cognitive)
 - [Computer Vision](#computer-vision)
 - [Model](#model)
 - [Natural Language Processing](#natural-language-processing)
 - [Optimization](#optimization)
+- [Reinforcement Learning](#reinforcement-learning)
 - [Transfer Learning](#transfer-learning)
 - [Unsupervised & Generative](#unsupervised--generative)
 
@@ -34,10 +35,10 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 	- [nature](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf), [note](notes/deep_learning.md)
 
 
-## AI
+## Cognitive
 
 - Building Machines That Learn and Think Like People (2016. 4)
-	- **`Cognitive`**, **`Human-Like`**
+	- **`Human-Like`**, **`Learn`**, **`Think`**
 	- [arXiv](https://arxiv.org/abs/1604.00289), [note](notes/ml_learn_and_think_like_human.md), [the morning paper](https://blog.acolyer.org/2016/11/25/building-machines-that-learn-and-think-like-people/)
 
 ## Computer Vision
@@ -197,6 +198,9 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 - Learning to Generate Reviews and Discovering Sentiment (2017. 4)
 	- **`Sentiment`**, **`Unsupervised `**, **`OpenAI`**
 	- [arXiv](https://arxiv.org/abs/1706.03762)
+- Ask the Right Questions: Active Question Reformulation with Reinforcement Learning (2017. 5)
+	- **`QA`**, **`Active Question Answering`**, **`RL`**, **`Agent (Reformulate, Aggregate)`**
+	- [arXiv](https://arxiv.org/abs/1705.07830)
 - **Attention Is All You Need** (2017. 6)
 	- **`Self-Attention`**, **`Seq2Seq (without RNN, CNN)`**
 	- [arXiv](https://arxiv.org/abs/1706.03762), [note](notes/transformer.md), [code](https://github.com/DongjunLee/transformer-tensorflow)  
@@ -215,6 +219,9 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 - Personalizing Dialogue Agents: I have a dog, do you have pets too? (2018. 1)
 	- **`Chit-chat`**, **`Profile Memory`**, **`Persona-Chat Dataset`**, **`ParlAI`**
 	- [arXiv](https://arxiv.org/abs/1801.07243)
+- Generating Wikipedia by Summarizing Long Sequences (2018. 1)
+	- **`Document Summarization`**, **`T-DMCA`**, **`WikiSum`**, **`Google Brain`**
+	- [arXiv](https://arxiv.org/abs/1801.10198)
 
 
 ## Optimization
