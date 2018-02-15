@@ -222,6 +222,9 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 - Generating Wikipedia by Summarizing Long Sequences (2018. 1)
 	- **`Document Summarization`**, **`T-DMCA`**, **`WikiSum`**, **`Google Brain`**
 	- [arXiv](https://arxiv.org/abs/1801.10198)
+- DeepType: Multilingual Entity Linking by Neural Type System Evolution (2018. 2)
+	- **`DeepType`**, **`Symbolic Information`**, **`Type System`**, **`Open AI`**
+	- [arXiv](https://arxiv.org/abs/1802.01021), [openai blog](https://blog.openai.com/discovering-types-for-entity-disambiguation/)
 
 
 ## Optimization
