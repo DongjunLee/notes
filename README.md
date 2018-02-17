@@ -1,19 +1,22 @@
 # notes [![hb-research](https://img.shields.io/badge/hb--research-notes-green.svg?style=flat&colorA=448C57&colorB=555555)](https://github.com/hb-research)
 
 Summary Notes, Codes and Articles of Deep Learning Research.  
-The codes are implemented by TensorFlow and initiate project with [hb-base](https://github.com/hb-research/hb-base).
+
+---
 
 ## Category
 
 - [Background Knowledge](#background-knowledge)
-- [Cognitive](#cognitive)
-- [Computer Vision](#computer-vision)
-- [Model](#model)
-- [Natural Language Processing](#natural-language-processing)
-- [Optimization](#optimization)
-- [Reinforcement Learning](#reinforcement-learning)
-- [Transfer Learning](#transfer-learning)
-- [Unsupervised & Generative](#unsupervised--generative)
+- [Code](#code)
+- [Research Paper](#research-paper)
+	- [Cognitive](#cognitive)
+	- [Computer Vision](#computer-vision)
+	- [Model](#model)
+	- [Natural Language Processing](#natural-language-processing)
+	- [Optimization](#optimization)
+	- [Reinforcement Learning](#reinforcement-learning)
+	- [Transfer Learning](#transfer-learning)
+	- [Unsupervised & Generative](#unsupervised--generative)
 
 ### Description
 
@@ -31,17 +34,33 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 
 ---
 
-- Deep Learning (2015) **`Review`**
+## Code
+
+The codes are implemented by TensorFlow and initiate project with [hb-base](https://github.com/hb-research/hb-base).
+
+- [transformer-tensorflow](https://github.com/DongjunLee/transformer-tensorflow) : TensorFlow implementation of 'Attention Is All You Need'
+- [relation-network-tensorflow](https://github.com/DongjunLee/relation-network-tensorflow) : TensorFlow implementation of 'A simple neural network module for relational reasoning' for bAbi task
+- [conversation-tensorflow](https://github.com/DongjunLee/conversation-tensorflow) : TensorFlow implementation of Conversation Models
+- [dmn-tensorflow](https://github.com/DongjunLee/dmn-tensorflow) : TensorFlow implementation of 'Ask Me Anything: Dynamic Memory Networks for Natural Language Processing'
+- [text-cnn-tensorflow](https://github.com/DongjunLee/text-cnn-tensorflow) : Convolutional Neural Networks for Sentence Classification(TextCNN) implements by TensorFlow
+- [vae-tensorflow](https://github.com/DongjunLee/vae-tensorflow) : TensorFlow implementation of Auto-Encoding Variational Bayes
+- [char-rnn-tensorflow](https://github.com/DongjunLee/char-rnn-tensorflow) : Multi-layer Recurrent Neural Networks for character-level language models implements by TensorFlow
+
+
+---
+
+## Research Paper
+
+Deep Learning (2015) **`Review`**  
 	- [nature](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf), [note](notes/deep_learning.md)
 
-
-## Cognitive
+### Cognitive
 
 - Building Machines That Learn and Think Like People (2016. 4)
 	- **`Human-Like`**, **`Learn`**, **`Think`**
 	- [arXiv](https://arxiv.org/abs/1604.00289), [note](notes/ml_learn_and_think_like_human.md), [the morning paper](https://blog.acolyer.org/2016/11/25/building-machines-that-learn-and-think-like-people/)
 
-## Computer Vision
+### Computer Vision
 
 - **Network In Network** (2013. 12)
 	- **`Conv 1x1`**, **`Bottleneck`**
@@ -54,7 +73,7 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 	- [arXiv](https://arxiv.org/abs/1512.03385), [note](notes/residual_network.md)
 
 
-## Model
+### Model
 
 - **Dropout** (2012, 2014)
 	- **`Regulaizer`**, **`Ensemble`**
@@ -91,7 +110,7 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 	- [arXiv](https://arxiv.org/abs/1706.01427), [note](notes/relational_network.md), [code](https://github.com/DongjunLee/relation-network-tensorflow)
 
 
-## Natural Language Processing
+### Natural Language Processing
 
 - **Distributed Representations of Words and Phrases and their Compositionality** (2013. 10)
 	- **`Word2Vec`**, **`CBOW`**, **`Skip-gram`**
@@ -233,7 +252,7 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 	- [arXiv](https://arxiv.org/abs/1712.03609)
 
 
-## Optimization
+### Optimization
 
 - Understanding the difficulty of training deep feedforward neural networks (2010)
 	- **`Weight Initialization (Xavier)`**
@@ -249,7 +268,7 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 	- [arXiv](https://arxiv.org/abs/1504.00941)
 
 
-## Reinforcement Learning
+### Reinforcement Learning
 
 - Neural Architecture Search with Reinforcement Learning (2016. 11)
 	- **`NAS`**, **`Google AutoML`**, **`Google Brain`**
@@ -259,14 +278,14 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 	- [arXiv](https://arxiv.org/abs/1802.03268)
 
 
-## Transfer Learning
+### Transfer Learning
 
 - Progressive Neural Networks (2016. 6)
 	- **`ProgNN `**, **`Incorporate Prior Knowledge`**
 	- [arXiv](https://arxiv.org/abs/1606.04671), [the morning paper](https://blog.acolyer.org/2016/10/11/progressive-neural-networks/)
 
 
-## Unsupervised & Generative
+### Unsupervised & Generative
 
 - **Auto-Encoding Variational Bayes** (2013. 12)
 	- **`VAE`**, **`Variational`**, **`Approximate`**
