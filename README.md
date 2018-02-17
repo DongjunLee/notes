@@ -210,9 +210,6 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 - Neural Text Generation: A Practical Guide (2017. 11)
 	- **`Seq2Seq`**, **`Decoder Guide`**
 	- [arXiv](https://arxiv.org/abs/1711.09534), [note](notes/neural_text_generation.md)
-- Contextualized Word Representations for Reading Comprehension (2017. 12)
-	- **`QA`**, **`Word Embedding`**, **` Contextualized`**
-	- [arXiv](https://arxiv.org/abs/1712.03609)
 - Recent Advances in Recurrent Neural Networks (2018. 1)
 	- **`RNN`**, **`Recent Advances`**, **`Review`**
 	- [arXiv](https://arxiv.org/abs/1801.01078)
@@ -225,6 +222,9 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 - DeepType: Multilingual Entity Linking by Neural Type System Evolution (2018. 2)
 	- **`DeepType`**, **`Symbolic Information`**, **`Type System`**, **`Open AI`**
 	- [arXiv](https://arxiv.org/abs/1802.01021), [openai blog](https://blog.openai.com/discovering-types-for-entity-disambiguation/)
+- Deep contextualized word representations (2018. 2)
+	- **`biLM`**, **`ELMo`**, **`Word Embedding`**, **`Contextualized`**, **`AllenAI`**
+	- [arXiv](https://arxiv.org/abs/1712.03609)
 
 
 ## Optimization
