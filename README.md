@@ -162,7 +162,7 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 - Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models (2016. 4)
 	- **`Translation`**, **`Hybrid NMT`**, **`Word-Char`**
 	- [arXiv](https://arxiv.org/abs/1604.00788), [note](notes/nmt_hybrid_word_and_char.md)
-- **SQuAD: 100,000+ Questions for Machine Comprehension of Text** (2016. 6)
+- SQuAD: 100,000+ Questions for Machine Comprehension of Text (2016. 6)
 	- **`DataSet`**, **`Reading Comprehension`**
 	- [arXiv](https://arxiv.org/abs/1606.05250), [note](notes/squad.md), [dataset](https://rajpurkar.github.io/SQuAD-explorer/)
 - Sequence-Level Knowledge Distillation (2016. 6)
@@ -195,6 +195,9 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 - Bidirectional Attention Flow for Machine Comprehension (2016. 11)
 	- **`QA`**, **`BIDAF`**, **`Machine Comprehension`**
 	- [arXiv](https://arxiv.org/abs/1611.01603)
+- Dual Learning for Machine Translation (2016. 11)
+	- **`Translation`**, **`RL`**, **`Dual Learning (Two-agent)`**
+	- [arXiv](https://arxiv.org/abs/1611.00179), [note](notes/dual_learning_nmt.md)
 - Learning to Generate Reviews and Discovering Sentiment (2017. 4)
 	- **`Sentiment`**, **`Unsupervised `**, **`OpenAI`**
 	- [arXiv](https://arxiv.org/abs/1706.03762)
