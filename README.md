@@ -198,6 +198,9 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 - Dual Learning for Machine Translation (2016. 11)
 	- **`Translation`**, **`RL`**, **`Dual Learning (Two-agent)`**
 	- [arXiv](https://arxiv.org/abs/1611.00179), [note](notes/dual_learning_nmt.md)
+- Neural Machine Translation with Reconstruction (2016. 11)
+	- **`Translation`**, **`Auto-Encoder`**, **`Reconstruction`**
+	- [arXiv](https://arxiv.org/abs/1611.01874), [note](notes/nmt_with_reconstruction.md)
 - Learning to Generate Reviews and Discovering Sentiment (2017. 4)
 	- **`Sentiment`**, **`Unsupervised `**, **`OpenAI`**
 	- [arXiv](https://arxiv.org/abs/1706.03762)
