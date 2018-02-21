@@ -249,7 +249,7 @@ Deep Learning (2015) **`Review`**
 	- [arXiv](https://arxiv.org/abs/1802.01021), [openai blog](https://blog.openai.com/discovering-types-for-entity-disambiguation/)
 - Deep contextualized word representations (2018. 2)
 	- **`biLM`**, **`ELMo`**, **`Word Embedding`**, **`Contextualized`**, **`AllenAI`**
-	- [arXiv](https://arxiv.org/abs/1712.03609)
+	- [arXiv](https://arxiv.org/abs/1712.03609), [note](notes/contextualized_word_for_rc.md)
 
 
 ### Optimization

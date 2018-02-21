@@ -13,7 +13,8 @@
 	1. attention layer is not used to summarize the context paragraph into a fixed-size vector. allowed to flow through to the subsequent modeling layer.
 	2. use a memory-less attention mechanism. 
 	    - the attention at each time step is a function of only the query and the context paragraph at the current time step and does not directly depend on the attention at the previous time step. (leads to the division of labor between the attention layer and the modeling layer)
-	3. use attention mechanisms in both directions, query-to-context and context-to-query, which provide complimentary information to each other.
+	3. use attention mechanisms in both directions, query-to-context and context-to-query, which provide complimentary information to each other.  
+
 
 - Model
 
@@ -23,6 +24,7 @@
 4. Attention Flow Layer: couples the query and context vectors and produces a set of queryaware feature vectors for each word in the context.
 5. Modeling Layer: employs a Recurrent Neural Network to scan the context.
 6. Output Layer: provides an answer to the query.
+
 
 - Experiments (achieves the state-of-the-art results)
 	- SQuAD: EM 68.0, F1 77.3
