@@ -273,6 +273,9 @@ Deep Learning (2015) **`Review`**
 - Neural Architecture Search with Reinforcement Learning (2016. 11)
 	- **`NAS`**, **`Google AutoML`**, **`Google Brain`**
 	- [arXiv](https://arxiv.org/abs/1611.01578)
+- Third-Person Imitation Learning (2017. 3)
+	- **`Imitation Learning`**, **`Unsupervised (Third-Person)`**, **`GAN + Domain Confusion`**
+	- [arXiv](https://arxiv.org/abs/1703.01703)
 - Efficient Neural Architecture Search via Parameter Sharing (2018. 2)
 	- **`ENAS`**, **`Google AutoML`**, **`Google Brain`**
 	- [arXiv](https://arxiv.org/abs/1802.03268)
