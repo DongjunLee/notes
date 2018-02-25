@@ -181,6 +181,9 @@ Deep Learning (2015) **`Review`**
 - Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models (2016. 4)
 	- **`Translation`**, **`Hybrid NMT`**, **`Word-Char`**
 	- [arXiv](https://arxiv.org/abs/1604.00788), [note](notes/nmt_hybrid_word_and_char.md)
+- Adversarial Training Methods for Semi-Supervised Text Classification (2016. 5)
+	- **`Regulaizer`**, **`Adversarial`**, **`Virtual Adversarial Training (Semi-Supervised)`**
+	- [arXiv](https://arxiv.org/abs/1605.07725), [note](notes/adversarial_for_semi_sv_tc.md)
 - SQuAD: 100,000+ Questions for Machine Comprehension of Text (2016. 6)
 	- **`DataSet`**, **`Reading Comprehension`**
 	- [arXiv](https://arxiv.org/abs/1606.05250), [note](notes/squad.md), [dataset](https://rajpurkar.github.io/SQuAD-explorer/)
