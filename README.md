@@ -105,6 +105,9 @@ Deep Learning (2015) **`Review`**
 - Professor Forcing: A New Algorithm for Training Recurrent Networks (2016. 10)
 	- **`Professor Forcing`**, **`RNN`**, **`Inference Problem`**, **`Training with GAN`**
 	- [arXiv](https://arxiv.org/abs/1610.09038), [note](notes/professor_forcing.md)
+- Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer (2017. 1)
+	- **`MoE Layer`**, **`Sparsely-Gated`**, **`Capacity`**, **`Google Brain`**
+	- [arXiv](https://arxiv.org/abs/1701.06538), [note](notes/very_large_nn_moe_layer.md)
 - **A simple neural network module for relational reasoning** (2017. 6)
 	- **`Relational Reasoning`**, **`DeepMind`**
 	- [arXiv](https://arxiv.org/abs/1706.01427), [note](notes/relational_network.md), [code](https://github.com/DongjunLee/relation-network-tensorflow)
