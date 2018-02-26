@@ -226,6 +226,9 @@ Deep Learning (2015) **`Review`**
 - Neural Machine Translation with Reconstruction (2016. 11)
 	- **`Translation`**, **`Auto-Encoder`**, **`Reconstruction`**
 	- [arXiv](https://arxiv.org/abs/1611.01874), [note](notes/nmt_with_reconstruction.md)
+- A recurrent neural network without chaos (2016. 12)
+	- **`RNN`**, **`CFN`**, **`Dynamic`**, **`Chaos`**
+	- [arXiv](https://arxiv.org/abs/1612.06212)
 - Dynamic Word Embeddings for Evolving Semantic Discovery (2017. 3)
 	- **`Word Embedding`**, **`Temporal`**, **`Alignment`**
 	- [arXiv](https://arxiv.org/abs/1703.00607), [the morning paper](https://blog.acolyer.org/2018/02/22/dynamic-word-embeddings-for-evolving-semantic-discovery/)
