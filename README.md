@@ -229,6 +229,9 @@ Deep Learning (2015) **`Review`**
 - A recurrent neural network without chaos (2016. 12)
 	- **`RNN`**, **`CFN`**, **`Dynamic`**, **`Chaos`**
 	- [arXiv](https://arxiv.org/abs/1612.06212)
+- A Structured Self-attentive Sentence Embedding (2017. 3)
+	- **`Sentence Embedding`**, **`Self-Attention`**, **`2-D Matrix`**
+	- [arXiv](https://arxiv.org/abs/1703.03130), [note](notes/self_attn_sentence_embed.md)
 - Dynamic Word Embeddings for Evolving Semantic Discovery (2017. 3)
 	- **`Word Embedding`**, **`Temporal`**, **`Alignment`**
 	- [arXiv](https://arxiv.org/abs/1703.00607), [the morning paper](https://blog.acolyer.org/2018/02/22/dynamic-word-embeddings-for-evolving-semantic-discovery/)
