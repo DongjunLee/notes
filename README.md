@@ -291,6 +291,9 @@ Deep Learning (2015) **`Review`**
 - Third-Person Imitation Learning (2017. 3)
 	- **`Imitation Learning`**, **`Unsupervised (Third-Person)`**, **`GAN + Domain Confusion`**
 	- [arXiv](https://arxiv.org/abs/1703.01703)
+- Noisy Networks for Exploration (2017. 6)
+	- **`NoisyNet`**, **`Exploration`**, **`DeepMind`**
+	- [arXiv](https://arxiv.org/abs/1703.1706.10295), [note](notes/noisy_network_exploration.md)
 - Efficient Neural Architecture Search via Parameter Sharing (2018. 2)
 	- **`ENAS`**, **`Google AutoML`**, **`Google Brain`**
 	- [arXiv](https://arxiv.org/abs/1802.03268)
