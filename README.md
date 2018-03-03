@@ -169,6 +169,9 @@ Deep Learning (2015) **`Review`**
 - Incorporating Structural Alignment Biases into an Attentional Neural Translation Model (2016. 1)
 	- **`Seq2Seq`**, **`Attention with Structural Biases`**, **`Translation`**
 	- [arXiv](https://arxiv.org/abs/1601.01085)
+- Long Short-Term Memory-Networks for Machine Reading (2016. 1)
+	- **`LSTMN`**, **`Intra-Attention`**, **`RNN`**
+	- [arXiv](https://arxiv.org/abs/1601.06733)
 - Recurrent Memory Networks for Language Modeling (2016. 1)
 	- **`RMN`**, **`Memory Bank`**
 	- [arXiv](https://arxiv.org/abs/1601.01272)
@@ -244,8 +247,11 @@ Deep Learning (2015) **`Review`**
 - **Attention Is All You Need** (2017. 6)
 	- **`Self-Attention`**, **`Seq2Seq (without RNN, CNN)`**
 	- [arXiv](https://arxiv.org/abs/1706.03762), [note](notes/transformer.md), [code](https://github.com/DongjunLee/transformer-tensorflow)  
+- MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension (2017. 7)
+	- **`MEMEN`**, **`QA(MC)`**, **`Embedding(skip-gram)`**, **`Full-Orientation Matching`**
+	- [arXiv](https://arxiv.org/abs/1707.09098)
 - Simple and Effective Multi-Paragraph Reading Comprehension (2017. 10)
-	- **`QA`**, **`Select Paragraph-Level`**, **`Confidence Based`**, **`AllenAI`**
+	- **`Document-QA`**, **`Select Paragraph-Level`**, **`Confidence Based`**, **`AllenAI`**
 	- [arXiv](https://arxiv.org/abs/1710.10723), [note](notes/multi_paragraph_rc.md)
 - Neural Text Generation: A Practical Guide (2017. 11)
 	- **`Seq2Seq`**, **`Decoder Guide`**
@@ -257,7 +263,7 @@ Deep Learning (2015) **`Review`**
 	- **`Chit-chat`**, **`Profile Memory`**, **`Persona-Chat Dataset`**, **`ParlAI`**
 	- [arXiv](https://arxiv.org/abs/1801.07243)
 - Generating Wikipedia by Summarizing Long Sequences (2018. 1)
-	- **`Multi-Document Summarization`**, **`Extract`**, **`T-DMCA`**, **`WikiSum`**, **`Google Brain`**
+	- **`Multi-Document Summarization`**, **`Extractive-Abstractive Stage`**, **`T-DMCA`**, **`WikiSum`**, **`Google Brain`**
 	- [arXiv](https://arxiv.org/abs/1801.10198), [note](notes/generate_wiki.md), [open_review](https://openreview.net/forum?id=Hyg0vbWC-)
 - DeepType: Multilingual Entity Linking by Neural Type System Evolution (2018. 2)
 	- **`DeepType`**, **`Symbolic Information`**, **`Type System`**, **`Open AI`**
