@@ -257,8 +257,8 @@ Deep Learning (2015) **`Review`**
 	- **`Chit-chat`**, **`Profile Memory`**, **`Persona-Chat Dataset`**, **`ParlAI`**
 	- [arXiv](https://arxiv.org/abs/1801.07243)
 - Generating Wikipedia by Summarizing Long Sequences (2018. 1)
-	- **`Document Summarization`**, **`T-DMCA`**, **`WikiSum`**, **`Google Brain`**
-	- [arXiv](https://arxiv.org/abs/1801.10198)
+	- **`Multi-Document Summarization`**, **`Extract`**, **`T-DMCA`**, **`WikiSum`**, **`Google Brain`**
+	- [arXiv](https://arxiv.org/abs/1801.10198), [note](notes/generate_wiki.md), [open_review](https://openreview.net/forum?id=Hyg0vbWC-)
 - DeepType: Multilingual Entity Linking by Neural Type System Evolution (2018. 2)
 	- **`DeepType`**, **`Symbolic Information`**, **`Type System`**, **`Open AI`**
 	- [arXiv](https://arxiv.org/abs/1802.01021), [openai blog](https://blog.openai.com/discovering-types-for-entity-disambiguation/)
