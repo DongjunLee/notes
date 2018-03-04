@@ -111,6 +111,9 @@ Deep Learning (2015) **`Review`**
 - **A simple neural network module for relational reasoning** (2017. 6)
 	- **`Relational Reasoning`**, **`DeepMind`**
 	- [arXiv](https://arxiv.org/abs/1706.01427), [note](notes/relational_network.md), [code](https://github.com/DongjunLee/relation-network-tensorflow)
+- Sensitivity and Generalization in Neural Networks: an Empirical Study (2018. 2)
+	- **`Robustness`**, **`Data Perturbations`**, **`Survey`**
+	- [arXiv](https://arxiv.org/abs/1802.08760), [open_review](https://openreview.net/forum?id=HJC2SzZCW)
 
 
 ### Natural Language Processing
