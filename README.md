@@ -13,7 +13,7 @@ Summary Notes, Codes and Articles of Deep Learning Research.
 	- [Computer Vision](#computer-vision)
 	- [Model](#model)
 	- [Natural Language Processing](#natural-language-processing)
-	- [One-Shot/Few-Shot Learing](#one-show-few-shot-learning)
+	- [One-Shot/Few-Shot Learing](#one-shotfew-shot-learing)
 	- [Optimization](#optimization)
 	- [Reinforcement Learning](#reinforcement-learning)
 	- [Transfer Learning](#transfer-learning)
@@ -277,7 +277,7 @@ Deep Learning (2015) **`Review`**
 	- [arXiv](https://arxiv.org/abs/1712.03609), [note](notes/contextualized_word_for_rc.md)
 
 	
-## One-Shot/Few-Shot Learing
+### One-Shot/Few-Shot Learing
 
 - Matching Networks for One Shot Learning (2016. 6)
 	- **`Matching Nets`**, **`Non-Parametric`**, **`DeepMind`**
