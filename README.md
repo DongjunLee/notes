@@ -13,6 +13,7 @@ Summary Notes, Codes and Articles of Deep Learning Research.
 	- [Computer Vision](#computer-vision)
 	- [Model](#model)
 	- [Natural Language Processing](#natural-language-processing)
+	- [One-Shot/Few-Shot Learing](#one-show-few-shot-learning)
 	- [Optimization](#optimization)
 	- [Reinforcement Learning](#reinforcement-learning)
 	- [Transfer Learning](#transfer-learning)
@@ -274,6 +275,16 @@ Deep Learning (2015) **`Review`**
 - Deep contextualized word representations (2018. 2)
 	- **`biLM`**, **`ELMo`**, **`Word Embedding`**, **`Contextualized`**, **`AllenAI`**
 	- [arXiv](https://arxiv.org/abs/1712.03609), [note](notes/contextualized_word_for_rc.md)
+
+	
+## One-Shot/Few-Shot Learing
+
+- Matching Networks for One Shot Learning (2016. 6)
+	- **`Matching Nets`**, **`Non-Parametric`**, **`DeepMind`**
+	- [arXiv](https://arxiv.org/abs/1606.04080), [the morning paper](https://blog.acolyer.org/2017/01/03/matching-networks-for-one-shot-learning/)
+- SMASH: One-Shot Model Architecture Search through HyperNetworks (2017. 8)
+	- **`SMASH`**, **`HyperNet`**, **`Prior Knowledge`**
+	- [arXiv](https://arxiv.org/abs/1211.5063), [open_review](https://openreview.net/forum?id=rydeCEhs-)
 
 
 ### Optimization
