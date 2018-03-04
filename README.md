@@ -303,6 +303,9 @@ Deep Learning (2015) **`Review`**
 - Efficient Neural Architecture Search via Parameter Sharing (2018. 2)
 	- **`ENAS`**, **`Google AutoML`**, **`Google Brain`**
 	- [arXiv](https://arxiv.org/abs/1802.03268)
+- Learning by Playing - Solving Sparse Reward Tasks from Scratch (2018. 2)
+	- **`Scratch with minimal prior knowledge`**, **`Scheduled Auxiliary Control (SAC-X)`**, **`DeepMind`**
+	- [arXiv](https://arxiv.org/abs/1802.10567), [deep_mind](https://deepmind.com/blog/learning-playing/)
 
 
 ### Transfer Learning
