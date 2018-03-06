@@ -278,6 +278,9 @@ Deep Learning (2015) **`Review`**
 - Generating Wikipedia by Summarizing Long Sequences (2018. 1)
 	- **`Multi-Document Summarization`**, **`Extractive-Abstractive Stage`**, **`T-DMCA`**, **`WikiSum`**, **`Google Brain`**
 	- [arXiv](https://arxiv.org/abs/1801.10198), [note](notes/generate_wiki.md), [open_review](https://openreview.net/forum?id=Hyg0vbWC-)
+- MaskGAN: Better Text Generation via Filling in the______ (2018. 1)
+	- **`MaskGAN`**, **`Neural Text Generation`**, **`RL Approach`**
+	- [arXiv](https://arxiv.org/abs/1801.07736), [open_review](https://openreview.net/forum?id=ByOExmWAb&noteId=HJbx71pBM)
 - DeepType: Multilingual Entity Linking by Neural Type System Evolution (2018. 2)
 	- **`DeepType`**, **`Symbolic Information`**, **`Type System`**, **`Open AI`**
 	- [arXiv](https://arxiv.org/abs/1802.01021), [openai blog](https://blog.openai.com/discovering-types-for-entity-disambiguation/)
