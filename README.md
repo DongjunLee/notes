@@ -9,6 +9,7 @@ Summary Notes, Codes and Articles of Deep Learning Research.
 - [Background Knowledge](#background-knowledge)
 - [Code](#code)
 - [Research Paper](#research-paper)
+	- [AI](#ai)
 	- [Cognitive](#cognitive)
 	- [Computer Vision](#computer-vision)
 	- [Model](#model)
@@ -54,6 +55,14 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 
 Deep Learning (2015) **`Review`**  
 	- [nature](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf), [note](notes/deep_learning.md)
+
+
+### AI
+
+- Machine Theory of Mind (2018. 2)
+	- **`ToMnet`**, **`Meta-Learning`**, **`General Model`**, **`Agent`**
+	- [arXiv](https://arxiv.org/abs/1802.07740)
+
 
 ### Cognitive
 
