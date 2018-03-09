@@ -263,6 +263,9 @@ Deep Learning (2015) **`Review`**
 - Neural Text Generation: A Practical Guide (2017. 11)
 	- **`Seq2Seq`**, **`Decoder Guide`**
 	- [arXiv](https://arxiv.org/abs/1711.09534), [note](notes/neural_text_generation.md)
+- The NarrativeQA Reading Comprehension Challenge (2017. 12)
+	- **`NarrativeQA`**, **`Dataset`**, **`DeepMind`**
+	- [arXiv](https://arxiv.org/abs/1712.07040), [dataset](https://github.com/deepmind/narrativeqa)
 - Recent Advances in Recurrent Neural Networks (2018. 1)
 	- **`RNN`**, **`Recent Advances`**, **`Review`**
 	- [arXiv](https://arxiv.org/abs/1801.01078)
