@@ -9,6 +9,7 @@ Summary Notes, Codes and Articles of Deep Learning Research.
 - [Background Knowledge](#background-knowledge)
 - [Code](#code)
 - [Research Paper](#research-paper)
+	- [AI](#ai)
 	- [Cognitive](#cognitive)
 	- [Computer Vision](#computer-vision)
 	- [Model](#model)
@@ -54,6 +55,14 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 
 Deep Learning (2015) **`Review`**  
 	- [nature](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf), [note](notes/deep_learning.md)
+
+
+### AI
+
+- Machine Theory of Mind (2018. 2)
+	- **`ToMnet`**, **`Meta-Learning`**, **`General Model`**, **`Agent`**
+	- [arXiv](https://arxiv.org/abs/1802.07740)
+
 
 ### Cognitive
 
@@ -263,6 +272,9 @@ Deep Learning (2015) **`Review`**
 - Neural Text Generation: A Practical Guide (2017. 11)
 	- **`Seq2Seq`**, **`Decoder Guide`**
 	- [arXiv](https://arxiv.org/abs/1711.09534), [note](notes/neural_text_generation.md)
+- Neural Speed Reading via Skim-RNN (2017. 11)
+	- **`Skim-RNN`**, **`Speed Reading`**, **`Big(Read)-Small(Skim)`**, **`Dynamic`**
+	- [arXiv](https://arxiv.org/abs/1711.09534), [open_review](https://openreview.net/forum?id=Sy-dQG-Rb)
 - The NarrativeQA Reading Comprehension Challenge (2017. 12)
 	- **`NarrativeQA`**, **`Dataset`**, **`DeepMind`**
 	- [arXiv](https://arxiv.org/abs/1712.07040), [dataset](https://github.com/deepmind/narrativeqa)
@@ -275,6 +287,9 @@ Deep Learning (2015) **`Review`**
 - Generating Wikipedia by Summarizing Long Sequences (2018. 1)
 	- **`Multi-Document Summarization`**, **`Extractive-Abstractive Stage`**, **`T-DMCA`**, **`WikiSum`**, **`Google Brain`**
 	- [arXiv](https://arxiv.org/abs/1801.10198), [note](notes/generate_wiki.md), [open_review](https://openreview.net/forum?id=Hyg0vbWC-)
+- MaskGAN: Better Text Generation via Filling in the______ (2018. 1)
+	- **`MaskGAN`**, **`Neural Text Generation`**, **`RL Approach`**
+	- [arXiv](https://arxiv.org/abs/1801.07736), [open_review](https://openreview.net/forum?id=ByOExmWAb&noteId=HJbx71pBM)
 - DeepType: Multilingual Entity Linking by Neural Type System Evolution (2018. 2)
 	- **`DeepType`**, **`Symbolic Information`**, **`Type System`**, **`Open AI`**
 	- [arXiv](https://arxiv.org/abs/1802.01021), [openai blog](https://blog.openai.com/discovering-types-for-entity-disambiguation/)
