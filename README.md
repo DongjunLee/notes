@@ -2,6 +2,10 @@
 
 Summary Notes, Codes and Articles of Deep Learning Research.  
 
+If you want to download papers.
+
+```python notes_sync.py --sync_path {path_name}```
+
 ---
 
 ## Category
