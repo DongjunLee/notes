@@ -371,3 +371,6 @@ Deep Learning (2015) **`Review`**
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient (2016. 9)
 	- **`Seq2Seq`**, **`GAN`**, **`RL`**
 	- [arXiv](https://arxiv.org/abs/1609.05473), [note](notes/seq_gan.md)
+- beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (2016. 11)
+	- **`Beta-VAE`**, **`Disentangled `**
+	- [open_review](https://openreview.net/forum?id=Sy2fzU9gl)
