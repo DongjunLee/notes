@@ -13,6 +13,7 @@ If you want to download papers.
 - [Background Knowledge](#background-knowledge)
 - [Code](#code)
 - [Research Paper](#research-paper)
+	- [Adversarial Example](#adversarial-example) 
 	- [AI](#ai)
 	- [Cognitive](#cognitive)
 	- [Computer Vision](#computer-vision)
@@ -59,6 +60,22 @@ The codes are implemented by TensorFlow and initiate project with [hb-base](http
 
 Deep Learning (2015) **`Review`**  
 	- [nature](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf), [note](notes/deep_learning.md)
+
+
+### Adversarial Example 
+
+- Explaining and Harnessing Adversarial Examples (2014. 12)
+	- **`FGSM (Fast Gradient Sign Method)`**, **`Adversarial Training`**
+	- [arXiv](https://arxiv.org/abs/1412.6572)
+- The Limitations of Deep Learning in Adversarial Settings (2015. 11)
+	- **`JSMA (Jacobian-based Saliency Map Approach)`**, **`Adversarial Training`**
+	- [arXiv](https://arxiv.org/abs/1511.07528)
+- Understanding Adversarial Training: Increasing Local Stability of Neural Nets through Robust Optimization (2015. 11)
+	- **`Adversarial Training (generated adversarial examples)`**, **`Proactive Defense`**
+	- [arXiv](https://arxiv.org/abs/1511.05432)
+- Practical Black-Box Attacks against Machine Learning (2016. 2)
+	- **`Black-Box (No Access to Gradient)`**, **`Generate Synthetic`**
+	- [arXiv](https://arxiv.org/abs/1602.02697)
 
 
 ### AI
