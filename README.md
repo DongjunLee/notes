@@ -293,6 +293,9 @@ Deep Learning (2015) **`Review`**
 - Neural Text Generation: A Practical Guide (2017. 11)
 	- **`Seq2Seq`**, **`Decoder Guide`**
 	- [arXiv](https://arxiv.org/abs/1711.09534), [note](notes/neural_text_generation.md)
+- Breaking the Softmax Bottleneck: A High-Rank RNN Language Model (2017. 11)
+	- **`MoS (Mixture of Softmaxes)`**, **`Softmax Bottleneck`**
+	- [arXiv](https://arxiv.org/abs/1711.03953)
 - Neural Speed Reading via Skim-RNN (2017. 11)
 	- **`Skim-RNN`**, **`Speed Reading`**, **`Big(Read)-Small(Skim)`**, **`Dynamic`**
 	- [arXiv](https://arxiv.org/abs/1711.09534), [open_review](https://openreview.net/forum?id=Sy-dQG-Rb)
