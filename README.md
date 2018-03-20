@@ -371,6 +371,9 @@ Deep Learning (2015) **`Review`**
 - Learning by Playing - Solving Sparse Reward Tasks from Scratch (2018. 2)
 	- **`Scratch with minimal prior knowledge`**, **`Scheduled Auxiliary Control (SAC-X)`**, **`DeepMind`**
 	- [arXiv](https://arxiv.org/abs/1802.10567), [deep_mind](https://deepmind.com/blog/learning-playing/)
+- Investigating Human Priors for Playing Video Games (2018. 2)
+	- **`prior knowledge`**, **`key factor`**
+	- [open_review](https://openreview.net/forum?id=Hk91SGWR-)
 
 
 ### Transfer Learning
