@@ -139,6 +139,9 @@ Deep Learning (2015) **`Review`**
 - Categorical Reparameterization with Gumbel-Softmax (2016. 11)
 	- **`Gumbel-Softmax distribution `**, **`Reparameterization`**, **`Smooth relaxation`**
 	- [arXiv](https://arxiv.org/abs/1611.01144), [open_review](https://openreview.net/forum?id=rkE3y85ee)
+- Understanding deep learning requires rethinking generalization (2016. 11)
+	- **`Generalization Error`**, **`Role of Regularization`**
+	- [arXiv](https://arxiv.org/abs/1611.03530)
 - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer (2017. 1)
 	- **`MoE Layer`**, **`Sparsely-Gated`**, **`Capacity`**, **`Google Brain`**
 	- [arXiv](https://arxiv.org/abs/1701.06538), [note](notes/very_large_nn_moe_layer.md)
@@ -148,6 +151,9 @@ Deep Learning (2015) **`Review`**
 - Sensitivity and Generalization in Neural Networks: an Empirical Study (2018. 2)
 	- **`Robustness`**, **`Data Perturbations`**, **`Survey`**
 	- [arXiv](https://arxiv.org/abs/1802.08760), [open_review](https://openreview.net/forum?id=HJC2SzZCW)
+- On the importance of single directions for generalization (2018. 3)
+	- **`Importance`**, **`Confusiing Neurons`**, **`Selective Neuron`**, **`DeepMind`**
+- [arXiv](https://arxiv.org/abs/1803.06959), [deepmind_blog](https://deepmind.com/blog/understanding-deep-learning-through-neuron-deletion/)
 
 
 ### Natural Language Processing
