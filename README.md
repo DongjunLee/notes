@@ -272,6 +272,9 @@ Deep Learning (2015) **`Review`**
 - Neural Machine Translation with Reconstruction (2016. 11)
 	- **`Translation`**, **`Auto-Encoder`**, **`Reconstruction`**
 	- [arXiv](https://arxiv.org/abs/1611.01874), [note](notes/nmt_with_reconstruction.md)
+- Quasi-Recurrent Neural Networks (2016. 11)
+	- **`QRNN`**, **`Parallelism`**, **`Conv + Pool + RNN`**
+	- [arXiv](https://arxiv.org/abs/1611.01576), [note](notes/dual_learning_nmt.md)
 - A recurrent neural network without chaos (2016. 12)
 	- **`RNN`**, **`CFN`**, **`Dynamic`**, **`Chaos`**
 	- [arXiv](https://arxiv.org/abs/1612.06212)
