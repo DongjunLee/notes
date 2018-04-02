@@ -329,6 +329,9 @@ Deep Learning (2015) **`Review`**
 - code2vec: Learning Distributed Representations of Code (2018. 3)
 	- **`code2vec`**, **`Code Embedding`**, **`Predicting method name`**
 	- [arXiv](https://arxiv.org/abs/1803.09473)
+- Universal Sentence Encoder (2018. 3)
+	- **`Transformer`**, **`Deep Averaging Network (DAN)`**, **`Transfer`**
+	- [arXiv](https://arxiv.org/abs/1803.11175)
 
 	
 ### One-Shot/Few-Shot/Meta Learing
