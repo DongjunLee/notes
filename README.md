@@ -364,6 +364,9 @@ Deep Learning (2015) **`Review`**
 - A Simple Way to Initialize Recurrent Networks of Rectified Linear Units (2015. 4)
 	- **`Weight Initialization`**, **`RNN`**, **`Identity Matrix`**
 	- [arXiv](https://arxiv.org/abs/1504.00941)
+- Neural Optimizer Search with Reinforcement Learning (2017. 9)
+	- **`Neural Optimizer Search (NOS)`**, **`PowerSign`**, **`AddSign`**
+	- [arXiv](https://arxiv.org/abs/1709.07417)
 
 
 ### Reinforcement Learning
