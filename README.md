@@ -326,6 +326,9 @@ Deep Learning (2015) **`Review`**
 - Deep contextualized word representations (2018. 2)
 	- **`biLM`**, **`ELMo`**, **`Word Embedding`**, **`Contextualized`**, **`AllenAI`**
 	- [arXiv](https://arxiv.org/abs/1712.03609), [note](notes/contextualized_word_for_rc.md)
+- code2vec: Learning Distributed Representations of Code (2018. 3)
+	- **`code2vec`**, **`Code Embedding`**, **`Predicting method name`**
+	- [arXiv](https://arxiv.org/abs/1803.09473)
 
 	
 ### One-Shot/Few-Shot/Meta Learing
@@ -380,6 +383,12 @@ Deep Learning (2015) **`Review`**
 - Investigating Human Priors for Playing Video Games (2018. 2)
 	- **`prior knowledge`**, **`key factor`**
 	- [open_review](https://openreview.net/forum?id=Hk91SGWR-)
+- World Models (2018. 3)
+	- **`Generative + RL`**, **`VAE (V)`**, **`MDN-RNN (M)`**, **`Controller (C)`**
+	- [arXiv](https://arxiv.org/abs/1803.10122)
+- Unsupervised Predictive Memory in a Goal-Directed Agent (2018. 3)
+	- **`MERLIN`**, **`Memory + RL + Inference`**, **`Partial Observability`**
+	- [arXiv](https://arxiv.org/abs/1803.10760)
 
 
 ### Transfer Learning
