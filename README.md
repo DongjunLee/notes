@@ -148,12 +148,15 @@ Deep Learning (2015) **`Review`**
 - **A simple neural network module for relational reasoning** (2017. 6)
 	- **`Relational Reasoning`**, **`DeepMind`**
 	- [arXiv](https://arxiv.org/abs/1706.01427), [note](notes/relational_network.md), [code](https://github.com/DongjunLee/relation-network-tensorflow)
+- Deep Learning Scaling is Predictable, Empirically (2017. 12)
+	- **`Power-Law Exponents`**, **`Grow Training Sets`**
+	- [arXiv](https://arxiv.org/abs/1712.00409), [the_morning_paper](https://blog.acolyer.org/2018/03/28/deep-learning-scaling-is-predictable-empirically/)
 - Sensitivity and Generalization in Neural Networks: an Empirical Study (2018. 2)
 	- **`Robustness`**, **`Data Perturbations`**, **`Survey`**
 	- [arXiv](https://arxiv.org/abs/1802.08760), [open_review](https://openreview.net/forum?id=HJC2SzZCW)
 - On the importance of single directions for generalization (2018. 3)
 	- **`Importance`**, **`Confusiing Neurons`**, **`Selective Neuron`**, **`DeepMind`**
-- [arXiv](https://arxiv.org/abs/1803.06959), [deepmind_blog](https://deepmind.com/blog/understanding-deep-learning-through-neuron-deletion/)
+	- [arXiv](https://arxiv.org/abs/1803.06959), [deepmind_blog](https://deepmind.com/blog/understanding-deep-learning-through-neuron-deletion/)
 
 
 ### Natural Language Processing
