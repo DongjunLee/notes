@@ -76,6 +76,9 @@ Deep Learning (2015) **`Review`**
 - Practical Black-Box Attacks against Machine Learning (2016. 2)
 	- **`Black-Box (No Access to Gradient)`**, **`Generate Synthetic`**
 	- [arXiv](https://arxiv.org/abs/1602.02697)
+- Adversarial Patch (2017. 12)
+	- **`Patch`**, **`White Box`**, **`Black Box`**
+	- [arXiv](https://arxiv.org/abs/1712.09665), [the_morning_paper](https://blog.acolyer.org/2018/03/29/adversarial-patch/)
 
 
 ### AI
