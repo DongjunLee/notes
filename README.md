@@ -334,7 +334,10 @@ Deep Learning (2015) **`Review`**
 	- [arXiv](https://arxiv.org/abs/1802.01021), [openai blog](https://blog.openai.com/discovering-types-for-entity-disambiguation/)
 - Deep contextualized word representations (2018. 2)
 	- **`biLM`**, **`ELMo`**, **`Word Embedding`**, **`Contextualized`**, **`AllenAI`**
-	- [arXiv](https://arxiv.org/abs/1712.03609), [note](notes/contextualized_word_for_rc.md)
+	- [arXiv](https://arxiv.org/abs/1802.05365), [note](notes/contextualized_word_for_rc.md)
+- Ranking Sentences for Extractive Summarization with Reinforcement Learning (2018. 2)
+	- **`Document-Summarization`**, **`Cross-Entropy vs RL`**, **`Extractive`**
+	- [arXiv](https://arxiv.org/abs/1802.08636)
 - code2vec: Learning Distributed Representations of Code (2018. 3)
 	- **`code2vec`**, **`Code Embedding`**, **`Predicting method name`**
 	- [arXiv](https://arxiv.org/abs/1803.09473)
