@@ -160,6 +160,9 @@ Deep Learning (2015) **`Review`**
 - On the importance of single directions for generalization (2018. 3)
 	- **`Importance`**, **`Confusiing Neurons`**, **`Selective Neuron`**, **`DeepMind`**
 	- [arXiv](https://arxiv.org/abs/1803.06959), [deepmind_blog](https://deepmind.com/blog/understanding-deep-learning-through-neuron-deletion/)
+- Group Normalization (2018. 3)
+	- **`Group Normalization (GN)`**, **`Batch (BN)`**, **`Layer (LN)`**, **`Instance (IN)`**, **`Independent Batch Size`**
+	- [arXiv](https://arxiv.org/abs/1803.08494)
 
 
 ### Natural Language Processing
