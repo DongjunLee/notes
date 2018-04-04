@@ -305,6 +305,9 @@ Deep Learning (2015) **`Review`**
 - Simple and Effective Multi-Paragraph Reading Comprehension (2017. 10)
 	- **`Document-QA`**, **`Select Paragraph-Level`**, **`Confidence Based`**, **`AllenAI`**
 	- [arXiv](https://arxiv.org/abs/1710.10723), [note](notes/multi_paragraph_rc.md)
+- Unsupervised Neural Machine Translation (2017. 10)
+	- **`Train with both direction (tandem)`**, **`Shared Encoder`**, **`Denoising Auto-Encoder`**
+	- [arXiv](https://arxiv.org/abs/1710.11041), [open_review](https://openreview.net/forum?id=Sy2ogebAW)
 - Neural Text Generation: A Practical Guide (2017. 11)
 	- **`Seq2Seq`**, **`Decoder Guide`**
 	- [arXiv](https://arxiv.org/abs/1711.09534), [note](notes/neural_text_generation.md)
