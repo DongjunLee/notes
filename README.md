@@ -350,6 +350,9 @@ Deep Learning (2015) **`Review`**
 - Universal Sentence Encoder (2018. 3)
 	- **`Transformer`**, **`Deep Averaging Network (DAN)`**, **`Transfer`**
 	- [arXiv](https://arxiv.org/abs/1803.11175)
+- Training Tips for the Transformer Model (2018. 4)
+	- **`Transformer`**, **`Hyperparameter`**, **`Multiple GPU`**
+	- [arXiv](https://arxiv.org/abs/1804.00247)
 
 	
 ### One-Shot/Few-Shot/Meta Learing
