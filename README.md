@@ -305,6 +305,9 @@ Deep Learning (2015) **`Review`**
 - MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension (2017. 7)
 	- **`MEMEN`**, **`QA(MC)`**, **`Embedding(skip-gram)`**, **`Full-Orientation Matching`**
 	- [arXiv](https://arxiv.org/abs/1707.09098)
+- On the State of the Art of Evaluation in Neural Language Models (2017. 7)
+	- **`Standard LSTM`**, **`Regularisation`**, **`Hyperparemeter`**
+	- [arXiv](https://arxiv.org/abs/1707.05589)
 - Simple and Effective Multi-Paragraph Reading Comprehension (2017. 10)
 	- **`Document-QA`**, **`Select Paragraph-Level`**, **`Confidence Based`**, **`AllenAI`**
 	- [arXiv](https://arxiv.org/abs/1710.10723), [note](notes/multi_paragraph_rc.md)
@@ -350,6 +353,9 @@ Deep Learning (2015) **`Review`**
 - Universal Sentence Encoder (2018. 3)
 	- **`Transformer`**, **`Deep Averaging Network (DAN)`**, **`Transfer`**
 	- [arXiv](https://arxiv.org/abs/1803.11175)
+- An Analysis of Neural Language Modeling at Multiple Scales (2018. 3)
+	- **`LSTM vs QRNN`**, **`Hyperparemeter`**, **`AWD-QRNN`**
+	- [arXiv](https://arxiv.org/abs/1803.08240)
 - Training Tips for the Transformer Model (2018. 4)
 	- **`Transformer`**, **`Hyperparameter`**, **`Multiple GPU`**
 	- [arXiv](https://arxiv.org/abs/1804.00247)
