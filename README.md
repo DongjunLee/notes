@@ -12,6 +12,8 @@ If you want to download papers.
 
 - [Background Knowledge](#background-knowledge)
 - [Code](#code)
+	- [PyTorch](#pytorch)
+	- [TensorFlow](#tensorflow)
 - [Research Paper](#research-paper)
 	- [Adversarial Example](#adversarial-example) 
 	- [AI](#ai)
@@ -45,14 +47,19 @@ If you want to download papers.
 
 The codes are implemented by TensorFlow and initiate project with [hb-base](https://github.com/hb-research/hb-base).
 
-- [transformer-tensorflow](https://github.com/DongjunLee/transformer-tensorflow) : TensorFlow implementation of 'Attention Is All You Need'
-- [relation-network-tensorflow](https://github.com/DongjunLee/relation-network-tensorflow) : TensorFlow implementation of 'A simple neural network module for relational reasoning' for bAbi task
-- [conversation-tensorflow](https://github.com/DongjunLee/conversation-tensorflow) : TensorFlow implementation of Conversation Models
-- [dmn-tensorflow](https://github.com/DongjunLee/dmn-tensorflow) : TensorFlow implementation of 'Ask Me Anything: Dynamic Memory Networks for Natural Language Processing'
-- [text-cnn-tensorflow](https://github.com/DongjunLee/text-cnn-tensorflow) : Convolutional Neural Networks for Sentence Classification(TextCNN) implements by TensorFlow
-- [vae-tensorflow](https://github.com/DongjunLee/vae-tensorflow) : TensorFlow implementation of Auto-Encoding Variational Bayes
-- [char-rnn-tensorflow](https://github.com/DongjunLee/char-rnn-tensorflow) : Multi-layer Recurrent Neural Networks for character-level language models implements by TensorFlow
+### PyTorch
 
+- [gan-pytorch](https://github.com/DongjunLee/gan-pytorch) : Generative Adversarial Networks
+
+### TensorFlow
+
+- [transformer-tensorflow](https://github.com/DongjunLee/transformer-tensorflow) : Attention Is All You Need
+- [relation-network-tensorflow](https://github.com/DongjunLee/relation-network-tensorflow) : A simple neural network module for relational reasoning for bAbi task
+- [conversation-tensorflow](https://github.com/DongjunLee/conversation-tensorflow) : Conversation Models (Seq2Seq with Attentional Model)
+- [dmn-tensorflow](https://github.com/DongjunLee/dmn-tensorflow) : Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
+- [text-cnn-tensorflow](https://github.com/DongjunLee/text-cnn-tensorflow) : Convolutional Neural Networks for Sentence Classification(TextCNN)
+- [vae-tensorflow](https://github.com/DongjunLee/vae-tensorflow) : Auto-Encoding Variational Bayes
+- [char-rnn-tensorflow](https://github.com/DongjunLee/char-rnn-tensorflow) : Multi-layer Recurrent Neural Networks for character-level language models
 
 ---
 
