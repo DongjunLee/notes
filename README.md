@@ -112,6 +112,9 @@ Deep Learning (2015) **`Review`**
 - **Deep Residual Learning for Image Recognition** (2015. 12)
 	- **`Residual`**, **`ImageNet 2015`**
 	- [arXiv](https://arxiv.org/abs/1512.03385), [note](notes/residual_network.md)
+- Spherical CNNs (2018. 1)
+	- **`Spherical Correlation`**, **`3D Model`**, **`Fast Fourier Transform (FFT)`**
+	- [arXiv](https://arxiv.org/abs/1801.10130), [open_review](https://openreview.net/forum?id=Hkbd5xZRb)
 
 
 ### Model
