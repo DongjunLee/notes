@@ -359,7 +359,7 @@ Deep Learning (2015) **`Review`**
 	- [arXiv](https://arxiv.org/abs/1802.08636)
 - QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension (2018. 2)
 	- **`QA`**, **`Conv - Self-Attention`**, **`Backtranslation (Data Augmentation)`**
-	- [open_review](https://openreview.net/forum?id=B14TlG-RW)
+	- [open_review](https://openreview.net/forum?id=B14TlG-RW), [note](notes/qanet.md)
 - code2vec: Learning Distributed Representations of Code (2018. 3)
 	- **`code2vec`**, **`Code Embedding`**, **`Predicting method name`**
 	- [arXiv](https://arxiv.org/abs/1803.09473)
