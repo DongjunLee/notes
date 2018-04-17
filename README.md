@@ -167,6 +167,9 @@ Deep Learning (2015) **`Review`**
 - Sensitivity and Generalization in Neural Networks: an Empirical Study (2018. 2)
 	- **`Robustness`**, **`Data Perturbations`**, **`Survey`**
 	- [arXiv](https://arxiv.org/abs/1802.08760), [open_review](https://openreview.net/forum?id=HJC2SzZCW)
+- Spectral Normalization for Generative Adversarial Networks (2018. 2)
+	- **`GAN`**, **`Training Discriminator`**, **`Constrain Lipschitz`**, **`Power Method`**
+	- [open_review](https://openreview.net/forum?id=B1QRgziT-&noteId=BkxnM1TrM)
 - On the importance of single directions for generalization (2018. 3)
 	- **`Importance`**, **`Confusiing Neurons`**, **`Selective Neuron`**, **`DeepMind`**
 	- [arXiv](https://arxiv.org/abs/1803.06959), [deepmind_blog](https://deepmind.com/blog/understanding-deep-learning-through-neuron-deletion/)
