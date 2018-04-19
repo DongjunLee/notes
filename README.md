@@ -38,8 +38,15 @@ If you want to download papers.
 
 ## Background knowledge
 
-- [Gaussian Process](notes/gausian_process.md) **`Supervised`**, **`Regression`**
-- [Importance Sampling](notes/importance_sampling.md) **`Approximate`**
+- Gaussian Process
+	-  **`Supervised`**, **`Regression`**
+	-  [note](notes/gausian_process.md)
+- Importance Sampling
+	- **`Approximate`** 
+	- [notes](notes/importance_sampling.md)
+- Information Theory: A Tutorial Introduction (2018. 2)
+	- **`Shannon's Theory`**
+	- [arXiv](https://arxiv.org/abs/1802.05968) 
 
 ---
 
