@@ -288,6 +288,9 @@ Deep Learning (2015) **`Review`**
 - Bidirectional Attention Flow for Machine Comprehension (2016. 11)
 	- **`QA`**, **`BIDAF`**, **`Machine Comprehension`**
 	- [arXiv](https://arxiv.org/abs/1611.01603), [note](notes/bi_att_flow.md), [code](https://github.com/DongjunLee/bi-att-flow-tensorflow)
+- Dynamic Coattention Networks For Question Answering (2016. 11)
+	- **`QA`**, **`DCN`**, **`Coattention Encoder`**, **`Machine Comprehension`**
+	- [arXiv](https://arxiv.org/abs/1611.01604)
 - Dual Learning for Machine Translation (2016. 11)
 	- **`Translation`**, **`RL`**, **`Dual Learning (Two-agent)`**
 	- [arXiv](https://arxiv.org/abs/1611.00179), [note](notes/dual_learning_nmt.md)
