@@ -38,8 +38,15 @@ If you want to download papers.
 
 ## Background knowledge
 
-- [Gaussian Process](notes/gausian_process.md) **`Supervised`**, **`Regression`**
-- [Importance Sampling](notes/importance_sampling.md) **`Approximate`**
+- Gaussian Process
+	-  **`Supervised`**, **`Regression`**
+	-  [note](notes/gausian_process.md)
+- Importance Sampling
+	- **`Approximate`** 
+	- [notes](notes/importance_sampling.md)
+- Information Theory: A Tutorial Introduction (2018. 2)
+	- **`Shannon's Theory`**
+	- [arXiv](https://arxiv.org/abs/1802.05968) 
 
 ---
 
@@ -327,6 +334,9 @@ Deep Learning (2015) **`Review`**
 - On the State of the Art of Evaluation in Neural Language Models (2017. 7)
 	- **`Standard LSTM`**, **`Regularisation`**, **`Hyperparemeter`**
 	- [arXiv](https://arxiv.org/abs/1707.05589)
+- Text Summarization Techniques: A Brief Survey (2017. 7)
+	- **`Summarization`**, **`Survey`**
+	- [arXiv](https://arxiv.org/abs/1707.02268)
 - Learned in Translation: Contextualized Word Vectors (2017. 8)
 	- **`Word Embedding`**, **`CoVe`**, **`Context Vector`**
 	- [arXiv](https://arxiv.org/abs/1708.00107)
