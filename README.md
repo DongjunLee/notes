@@ -315,6 +315,9 @@ Deep Learning (2015) **`Review`**
 - Ask the Right Questions: Active Question Reformulation with Reinforcement Learning (2017. 5)
 	- **`QA`**, **`Active Question Answering`**, **`RL`**, **`Agent (Reformulate, Aggregate)`**
 	- [arXiv](https://arxiv.org/abs/1705.07830)
+- Ask the Right Questions: Active Question Reformulation with Reinforcement Learning (2017. 5)
+	- **`QA`**, **`Mnemonic (Syntatic, Lexical)`**, **`RL`**, **`Machine Comprehension`**
+	- [arXiv](https://arxiv.org/abs/1705.02798)
 - **Attention Is All You Need** (2017. 6)
 	- **`Self-Attention`**, **`Seq2Seq (without RNN, CNN)`**
 	- [arXiv](https://arxiv.org/abs/1706.03762), [note](notes/transformer.md), [code](https://github.com/DongjunLee/transformer-tensorflow)  
