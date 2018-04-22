@@ -324,6 +324,9 @@ Deep Learning (2015) **`Review`**
 - On the State of the Art of Evaluation in Neural Language Models (2017. 7)
 	- **`Standard LSTM`**, **`Regularisation`**, **`Hyperparemeter`**
 	- [arXiv](https://arxiv.org/abs/1707.05589)
+- Learned in Translation: Contextualized Word Vectors (2017. 8)
+	- **`Word Embedding`**, **`CoVe`**, **`Context Vector`**
+	- [arXiv](https://arxiv.org/abs/1708.00107)
 - Simple and Effective Multi-Paragraph Reading Comprehension (2017. 10)
 	- **`Document-QA`**, **`Select Paragraph-Level`**, **`Confidence Based`**, **`AllenAI`**
 	- [arXiv](https://arxiv.org/abs/1710.10723), [note](notes/multi_paragraph_rc.md)
