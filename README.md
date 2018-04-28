@@ -337,6 +337,9 @@ Deep Learning (2015) **`Review`**
 - Text Summarization Techniques: A Brief Survey (2017. 7)
 	- **`Summarization`**, **`Survey`**
 	- [arXiv](https://arxiv.org/abs/1707.02268)
+- Adversarial Examples for Evaluating Reading Comprehension Systems (2017. 7)
+	- **`Concatenative Adversaries(AddSent, AddOneSent)`**, **`SQuAD`**
+	- [arXiv](https://arxiv.org/abs/1707.07328)
 - Learned in Translation: Contextualized Word Vectors (2017. 8)
 	- **`Word Embedding`**, **`CoVe`**, **`Context Vector`**
 	- [arXiv](https://arxiv.org/abs/1708.00107)
