@@ -400,6 +400,9 @@ Deep Learning (2015) **`Review`**
 -  SimpleQuestions Nearly Solved: A New Upperbound and Baseline Approach (2018. 4)
    - **`Top-K Subject Recognitio`**, **`Relation Classification`**
 	- [arXiv](https://arxiv.org/abs/1804.08798)
+-  Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer (2018. 4)
+   - **`Sentiment Transfer`**, **`Disentangle Attribute`**, **`Unsupervised`**
+	- [arXiv](https://arxiv.org/abs/1804.06437)
 
 
 	
