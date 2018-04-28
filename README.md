@@ -394,6 +394,10 @@ Deep Learning (2015) **`Review`**
 - Training Tips for the Transformer Model (2018. 4)
 	- **`Transformer`**, **`Hyperparameter`**, **`Multiple GPU`**
 	- [arXiv](https://arxiv.org/abs/1804.00247)
+-  SimpleQuestions Nearly Solved: A New Upperbound and Baseline Approach (2018. 4)
+   - **`Top-K Subject Recognitio`**, **`Relation Classification`**
+	- [arXiv](https://arxiv.org/abs/1804.08798)
+
 
 	
 ### One-Shot/Few-Shot/Meta Learing
