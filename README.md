@@ -321,13 +321,16 @@ Deep Learning (2015) **`Review`**
 	- [arXiv](https://arxiv.org/abs/1706.03762)
 - Ask the Right Questions: Active Question Reformulation with Reinforcement Learning (2017. 5)
 	- **`QA`**, **`Active Question Answering`**, **`RL`**, **`Agent (Reformulate, Aggregate)`**
-	- [arXiv](https://arxiv.org/abs/1705.07830)
-- Ask the Right Questions: Active Question Reformulation with Reinforcement Learning (2017. 5)
+	- [arXiv](https://arxiv.org/abs/1705.07830), [open_review](https://openreview.net/forum?id=S1CChZ-CZ)
+- Reinforced Mnemonic Reader for Machine Reading Comprehension (2017. 5)
 	- **`QA`**, **`Mnemonic (Syntatic, Lexical)`**, **`RL`**, **`Machine Comprehension`**
 	- [arXiv](https://arxiv.org/abs/1705.02798)
 - **Attention Is All You Need** (2017. 6)
 	- **`Self-Attention`**, **`Seq2Seq (without RNN, CNN)`**
 	- [arXiv](https://arxiv.org/abs/1706.03762), [note](notes/transformer.md), [code](https://github.com/DongjunLee/transformer-tensorflow)  
+- Depthwise Separable Convolutions for Neural Machine Translation (2017. 6)
+	- **`SliceNet`**, **`Super-Separable Conv`**, **`Depsewise + Conv 1x1`**
+	- [arXiv](https://arxiv.org/abs/1706.03762), [open_review](https://openreview.net/forum?id=S1jBcueAb)
 - MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension (2017. 7)
 	- **`MEMEN`**, **`QA(MC)`**, **`Embedding(skip-gram)`**, **`Full-Orientation Matching`**
 	- [arXiv](https://arxiv.org/abs/1707.09098)
@@ -382,21 +385,23 @@ Deep Learning (2015) **`Review`**
 - Ranking Sentences for Extractive Summarization with Reinforcement Learning (2018. 2)
 	- **`Document-Summarization`**, **`Cross-Entropy vs RL`**, **`Extractive`**
 	- [arXiv](https://arxiv.org/abs/1802.08636)
-- QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension (2018. 2)
-	- **`QA`**, **`Conv - Self-Attention`**, **`Backtranslation (Data Augmentation)`**
-	- [open_review](https://openreview.net/forum?id=B14TlG-RW), [note](notes/qanet.md)
 - code2vec: Learning Distributed Representations of Code (2018. 3)
 	- **`code2vec`**, **`Code Embedding`**, **`Predicting method name`**
 	- [arXiv](https://arxiv.org/abs/1803.09473)
 - Universal Sentence Encoder (2018. 3)
 	- **`Transformer`**, **`Deep Averaging Network (DAN)`**, **`Transfer`**
-	- [arXiv](https://arxiv.org/abs/1803.11175)
+- An efficient framework for learning sentence representations (2018. 3)
+	- **`Sentence Representation`**, **`True Context`**, **`Unsupervised`**
+	- [arXiv](https://arxiv.org/abs/1803.02893), [open_review](https://openreview.net/forum?id=rJvJXZb0W)
 - An Analysis of Neural Language Modeling at Multiple Scales (2018. 3)
 	- **`LSTM vs QRNN`**, **`Hyperparemeter`**, **`AWD-QRNN`**
 	- [arXiv](https://arxiv.org/abs/1803.08240)
 - Training Tips for the Transformer Model (2018. 4)
 	- **`Transformer`**, **`Hyperparameter`**, **`Multiple GPU`**
 	- [arXiv](https://arxiv.org/abs/1804.00247)
+- QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension (2018. 4)
+	- **`QA`**, **`Conv - Self-Attention`**, **`Backtranslation (Data Augmentation)`**
+	- [arXiv](https://arxiv.org/abs/1804.09541), [open_review](https://openreview.net/forum?id=B14TlG-RW), [note](notes/qanet.md)
 -  SimpleQuestions Nearly Solved: A New Upperbound and Baseline Approach (2018. 4)
    - **`Top-K Subject Recognitio`**, **`Relation Classification`**
 	- [arXiv](https://arxiv.org/abs/1804.08798)
@@ -439,6 +444,9 @@ Deep Learning (2015) **`Review`**
 - Neural Optimizer Search with Reinforcement Learning (2017. 9)
 	- **`Neural Optimizer Search (NOS)`**, **`PowerSign`**, **`AddSign`**
 	- [arXiv](https://arxiv.org/abs/1709.07417)
+- On the Convergence of Adam and Beyond (2018. 2)
+	- **`AMSGrad`**, **`Convex optimization`**
+	- [open_review](https://openreview.net/forum?id=ryQu7f-RZ)
 
 
 ### Reinforcement Learning
