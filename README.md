@@ -168,12 +168,21 @@ Deep Learning (2015) **`Review`**
 - **A simple neural network module for relational reasoning** (2017. 6)
 	- **`Relational Reasoning`**, **`DeepMind`**
 	- [arXiv](https://arxiv.org/abs/1706.01427), [note](notes/relational_network.md), [code](https://github.com/DongjunLee/relation-network-tensorflow)
+- When is a Convolutional Filter Easy To Learn? (2017. 9)
+	- **`Conv + ReLU`**, **`Non-Gaussian Case`**, **`Polynomial Time`**
+	- [arXiv](https://arxiv.org/abs/1709.06129), [open_review](https://openreview.net/forum?id=SkA-IE06W)
+- mixup: Beyond Empirical Risk Minimization (2017. 10)
+	- **`Data Augmentation`**, **`Vicinal Risk Minimization`**, **`Generalization`**
+	- [arXiv](https://arxiv.org/abs/1710.09412), [open_review](https://openreview.net/forum?id=r1Ddp1-Rb)
 - Deep Learning Scaling is Predictable, Empirically (2017. 12)
 	- **`Power-Law Exponents`**, **`Grow Training Sets`**
 	- [arXiv](https://arxiv.org/abs/1712.00409), [the_morning_paper](https://blog.acolyer.org/2018/03/28/deep-learning-scaling-is-predictable-empirically/)
 - Sensitivity and Generalization in Neural Networks: an Empirical Study (2018. 2)
 	- **`Robustness`**, **`Data Perturbations`**, **`Survey`**
 	- [arXiv](https://arxiv.org/abs/1802.08760), [open_review](https://openreview.net/forum?id=HJC2SzZCW)
+- Can recurrent neural networks warp time? (2018. 2)
+	- **`RNN`**, **`Learnable Gate`**, **`Chrono Initialization`**
+	- [open_review](https://openreview.net/forum?id=SJcKhk-Ab)
 - Spectral Normalization for Generative Adversarial Networks (2018. 2)
 	- **`GAN`**, **`Training Discriminator`**, **`Constrain Lipschitz`**, **`Power Method`**
 	- [open_review](https://openreview.net/forum?id=B1QRgziT-&noteId=BkxnM1TrM)
@@ -330,7 +339,7 @@ Deep Learning (2015) **`Review`**
 	- [arXiv](https://arxiv.org/abs/1706.03762), [note](notes/transformer.md), [code](https://github.com/DongjunLee/transformer-tensorflow)  
 - Depthwise Separable Convolutions for Neural Machine Translation (2017. 6)
 	- **`SliceNet`**, **`Super-Separable Conv`**, **`Depsewise + Conv 1x1`**
-	- [arXiv](https://arxiv.org/abs/1706.03762), [open_review](https://openreview.net/forum?id=S1jBcueAb)
+	- [arXiv](https://arxiv.org/abs/1706.03059), [open_review](https://openreview.net/forum?id=S1jBcueAb)
 - MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension (2017. 7)
 	- **`MEMEN`**, **`QA(MC)`**, **`Embedding(skip-gram)`**, **`Full-Orientation Matching`**
 	- [arXiv](https://arxiv.org/abs/1707.09098)
@@ -352,6 +361,12 @@ Deep Learning (2015) **`Review`**
 - Unsupervised Neural Machine Translation (2017. 10)
 	- **`Train with both direction (tandem)`**, **`Shared Encoder`**, **`Denoising Auto-Encoder`**
 	- [arXiv](https://arxiv.org/abs/1710.11041), [open_review](https://openreview.net/forum?id=Sy2ogebAW)
+- Word Translation Without Parallel Data (2017. 10)
+	- **`Unsupervised`**, **`Multilingual Embedding`**, **`Parallel Dictionary Induction`**
+	- [arXiv](https://arxiv.org/abs/1710.04087), [open_review](https://openreview.net/forum?id=H196sainb)
+- Unsupervised Machine Translation Using Monolingual Corpora Only (2017. 11)
+	- **`Unsupervised`**, **`Adversarial`**, **`Monolingual Corpora`**
+	- [arXiv](https://arxiv.org/abs/1711.00043), [open_review](https://openreview.net/forum?id=rkYTTf-AZ)
 - Neural Text Generation: A Practical Guide (2017. 11)
 	- **`Seq2Seq`**, **`Decoder Guide`**
 	- [arXiv](https://arxiv.org/abs/1711.09534), [note](notes/neural_text_generation.md)
