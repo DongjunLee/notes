@@ -339,7 +339,7 @@ Deep Learning (2015) **`Review`**
 	- [arXiv](https://arxiv.org/abs/1706.03762), [note](notes/transformer.md), [code](https://github.com/DongjunLee/transformer-tensorflow)  
 - Depthwise Separable Convolutions for Neural Machine Translation (2017. 6)
 	- **`SliceNet`**, **`Super-Separable Conv`**, **`Depsewise + Conv 1x1`**
-	- [arXiv](https://arxiv.org/abs/1706.03059), [open_review](https://openreview.net/forum?id=S1jBcueAb)
+	- [arXiv](https://arxiv.org/abs/1706.03059), [open_review](https://openreview.net/forum?id=S1jBcueAb), [note](notes/slicenet.md)
 - MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension (2017. 7)
 	- **`MEMEN`**, **`QA(MC)`**, **`Embedding(skip-gram)`**, **`Full-Orientation Matching`**
 	- [arXiv](https://arxiv.org/abs/1707.09098)
