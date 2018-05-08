@@ -348,7 +348,7 @@ Deep Learning (2015) **`Review`**
 	- [arXiv](https://arxiv.org/abs/1707.05589)
 - Text Summarization Techniques: A Brief Survey (2017. 7)
 	- **`Summarization`**, **`Survey`**
-	- [arXiv](https://arxiv.org/abs/1707.02268)
+	- [arXiv](https://arxiv.org/abs/1707.02268), [note](notes/text_sum_survey.md)
 - Adversarial Examples for Evaluating Reading Comprehension Systems (2017. 7)
 	- **`Concatenative Adversaries(AddSent, AddOneSent)`**, **`SQuAD`**
 	- [arXiv](https://arxiv.org/abs/1707.07328)
