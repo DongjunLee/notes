@@ -423,6 +423,12 @@ Deep Learning (2015) **`Review`**
 -  Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer (2018. 4)
    - **`Sentiment Transfer`**, **`Disentangle Attribute`**, **`Unsupervised`**
 	- [arXiv](https://arxiv.org/abs/1804.06437)
+- Paper Abstract Writing through Editing Mechanism (2018. 5)
+	- **`Writing-editing Network`**, **`Attentive Revision Gate`**
+	- [arXiv](https://arxiv.org/abs/1805.06064)
+- A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings (2018. 5)
+	- **`Unsupervised initialization scheme`**, **`Robust self-leraning`**
+	- [arXiv](https://arxiv.org/abs/1805.06297)
 
 
 	
