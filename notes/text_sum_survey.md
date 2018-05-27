@@ -32,7 +32,7 @@
 3. Select a summary comprising of a number of sentences.
 	- it should maximize overall importance and coherency and minimize the redundancy.
 
-### Topic Representation Approaches
+#### Topic Representation Approaches
 
 1. topic words
 	- `topic signature`: Luhn's idea, used log-likelihood ratio test to identity explanatory words which in summarization literature.
@@ -81,7 +81,18 @@
 	- a common technique employed to connect two vertices is to measure the similarity of two sentences if it is greater then a threshold they are connected.
 	- used for single as well as multi-document summarization.
 - Machine Learning
-	- ...ing
-		
+	- Naive Bayes, decision trees, support vector machines, Hidden Markov models adn Conditional Random Fields are among the most common machine learning techniques used for summarization.
+	- One of the primary issues: 1. Annotated corpora creation 2. Semi-supervised approaches
 
+### Evaluation
+
+- Major difficulties of automatic summary evaluation
+	1. decide and specify the most important parts of the original text to preserve.
+	2. have to automatically identify these pieces of important information in the candidate summary, since this information can be represented using disparate expressions.
+	3. the readability of the summary in terms of grammaticality and coherence has to be evaluated.
+
+- `ROUGH`: called Recall Oriented Understudy for Gisting Evaluation, to automatically determine the quality of a summary by comparing it to human (reference) summaries.
+	- ROUGH-n: based on comparision of n-grams
+	- ROUGH-L: longest common subsequence (LCS) betweeen the two sequences of text
+	- ROUGH-SU: skip bi-gram and uni-gram
 
