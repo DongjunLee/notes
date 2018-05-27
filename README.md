@@ -423,6 +423,9 @@ Deep Learning (2015) **`Review`**
 -  Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer (2018. 4)
    - **`Sentiment Transfer`**, **`Disentangle Attribute`**, **`Unsupervised`**
 	- [arXiv](https://arxiv.org/abs/1804.06437)
+- On the Practical Computational Power of Finite Precision RNNs for Language Recognition
+	- **`Unbounded counting`**, **`IBFP-LSTM`**
+	- [arXiv](https://arxiv.org/abs/1805.04908)
 - Paper Abstract Writing through Editing Mechanism (2018. 5)
 	- **`Writing-editing Network`**, **`Attentive Revision Gate`**
 	- [arXiv](https://arxiv.org/abs/1805.06064)
