@@ -192,6 +192,9 @@ Deep Learning (2015) **`Review`**
 - Group Normalization (2018. 3)
 	- **`Group Normalization (GN)`**, **`Batch (BN)`**, **`Layer (LN)`**, **`Instance (IN)`**, **`Independent Batch Size`**
 	- [arXiv](https://arxiv.org/abs/1803.08494)
+- How Does Batch Normalization Help Optimization? (No, It Is Not About Internal Covariate Shift) (2018. 5)
+	- **`Smoothing Effect`**, **`BatchNorm’s Reparametrization`**
+	- [arXiv](https://arxiv.org/abs/1805.11604)
 
 
 ### Natural Language Processing
@@ -531,3 +534,6 @@ Deep Learning (2015) **`Review`**
 - A Disentangled Recognition and Nonlinear Dynamics Model for Unsupervised Learning (2017. 10)
 	- **`Kalman VAE`**, **`LGSSM`**
 	- [arXiv](https://arxiv.org/abs/1710.05741)
+- Self-Attention Generative Adversarial Networks (2018. 5)
+	- **`SAGAN`**, **`Attention-Driven`**, **`Spectral Normalization`**
+	- [arXiv](https://arxiv.org/abs/1805.08318) 
