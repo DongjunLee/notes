@@ -435,6 +435,9 @@ Deep Learning (2015) **`Review`**
 - A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings (2018. 5)
 	- **`Unsupervised initialization scheme`**, **`Robust self-leraning`**
 	- [arXiv](https://arxiv.org/abs/1805.06297)
+- Efficient and Robust Question Answering from Minimal Context over Documents (2018. 5)
+	- **`Sentence Selector`**, **`Oracle Sentence`**, **`Minimal Set of Sentences (SpeedUp)`**
+	- [arXiv](https://arxiv.org/abs/1805.08092), [note](notes/minimal_qa.md)
 
 
 	
