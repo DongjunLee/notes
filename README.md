@@ -174,6 +174,9 @@ Deep Learning (2015) **`Review`**
 - mixup: Beyond Empirical Risk Minimization (2017. 10)
 	- **`Data Augmentation`**, **`Vicinal Risk Minimization`**, **`Generalization`**
 	- [arXiv](https://arxiv.org/abs/1710.09412), [open_review](https://openreview.net/forum?id=r1Ddp1-Rb)
+- Measuring the tendency of CNNs to Learn Surface Statistical Regularities (2017. 11)
+	- **`not learn High Level Semantics`**, **`learn Surface Statistical Regularities`**
+	- [arXiv](https://arxiv.org/abs/1711.11561), [the_morning_paper](https://blog.acolyer.org/2018/05/29/measuring-the-tendency-of-cnns-to-learn-surface-statistical-regularities/)
 - Deep Learning Scaling is Predictable, Empirically (2017. 12)
 	- **`Power-Law Exponents`**, **`Grow Training Sets`**
 	- [arXiv](https://arxiv.org/abs/1712.00409), [the_morning_paper](https://blog.acolyer.org/2018/03/28/deep-learning-scaling-is-predictable-empirically/)
