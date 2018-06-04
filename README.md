@@ -397,6 +397,9 @@ Deep Learning (2015) **`Review`**
 - MaskGAN: Better Text Generation via Filling in the______ (2018. 1)
 	- **`MaskGAN`**, **`Neural Text Generation`**, **`RL Approach`**
 	- [arXiv](https://arxiv.org/abs/1801.07736), [open_review](https://openreview.net/forum?id=ByOExmWAb&noteId=HJbx71pBM), [note](notes/mask_gan.md)
+- Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs (2018. 1)
+	- **`Contextual Decomposition (CD)`**, **`Disambiguate interactions between Gates`**
+	- [arXiv](https://arxiv.org/abs/1801.05453), [open_review](https://openreview.net/forum?id=rkRwGg-0Z)
 - DeepType: Multilingual Entity Linking by Neural Type System Evolution (2018. 2)
 	- **`DeepType`**, **`Symbolic Information`**, **`Type System`**, **`Open AI`**
 	- [arXiv](https://arxiv.org/abs/1802.01021), [openai blog](https://blog.openai.com/discovering-types-for-entity-disambiguation/)
@@ -427,9 +430,12 @@ Deep Learning (2015) **`Review`**
    - **`Top-K Subject Recognitio`**, **`Relation Classification`**
 	- [arXiv](https://arxiv.org/abs/1804.08798)
 -  Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer (2018. 4)
-   - **`Sentiment Transfer`**, **`Disentangle Attribute`**, **`Unsupervised`**
+   - **`Sentiment Transfer`**, **`Disentangle Attribute`**, **`Unsupervised`** 
 	- [arXiv](https://arxiv.org/abs/1804.06437)
-- On the Practical Computational Power of Finite Precision RNNs for Language Recognition
+- Parsing Tweets into Universal Dependencies (2018. 4)
+	- **`Universal Dependencies (UD)`**, **`TWEEBANK v2`**
+	- [arXiv](https://arxiv.org/abs/1804.08228)
+- On the Practical Computational Power of Finite Precision RNNs for Language Recognition (2018. 5)
 	- **`Unbounded counting`**, **`IBFP-LSTM`**
 	- [arXiv](https://arxiv.org/abs/1805.04908)
 - Paper Abstract Writing through Editing Mechanism (2018. 5)
