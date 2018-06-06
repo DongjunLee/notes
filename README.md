@@ -122,6 +122,9 @@ Deep Learning (2015) **`Review`**
 - Spherical CNNs (2018. 1)
 	- **`Spherical Correlation`**, **`3D Model`**, **`Fast Fourier Transform (FFT)`**
 	- [arXiv](https://arxiv.org/abs/1801.10130), [open_review](https://openreview.net/forum?id=Hkbd5xZRb)
+- AutoAugment: Learning Augmentation Policies from Data (2018. 5)
+	- **`Search Algorithm (RL)`**, **`Sub-Policy`**
+	- [arXiv](https://arxiv.org/abs/1805.09501)
 
 
 ### Model
@@ -198,6 +201,9 @@ Deep Learning (2015) **`Review`**
 - How Does Batch Normalization Help Optimization? (No, It Is Not About Internal Covariate Shift) (2018. 5)
 	- **`Smoothing Effect`**, **`BatchNorm’s Reparametrization`**
 	- [arXiv](https://arxiv.org/abs/1805.11604)
+- Relational inductive biases, deep learning, and graph networks (2018, 6)
+	- **`Survey`**, **`Relation`**, **`Graph`**
+	- [arXiv](https://arxiv.org/abs/1806.01261)
 
 
 ### Natural Language Processing
