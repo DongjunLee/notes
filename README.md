@@ -441,6 +441,9 @@ Deep Learning (2015) **`Review`**
 - Parsing Tweets into Universal Dependencies (2018. 4)
 	- **`Universal Dependencies (UD)`**, **`TWEEBANK v2`**
 	- [arXiv](https://arxiv.org/abs/1804.08228)
+- Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates (2018. 4)
+	- **`SR`**, **`Subword Sampling + Hyperparameter`**, **`Segmentation (BPE, Unigram)`**
+	- [arXiv](https://arxiv.org/abs/1804.10959) 
 - On the Practical Computational Power of Finite Precision RNNs for Language Recognition (2018. 5)
 	- **`Unbounded counting`**, **`IBFP-LSTM`**
 	- [arXiv](https://arxiv.org/abs/1805.04908)
@@ -453,6 +456,9 @@ Deep Learning (2015) **`Review`**
 - Efficient and Robust Question Answering from Minimal Context over Documents (2018. 5)
 	- **`Sentence Selector`**, **`Oracle Sentence`**, **`Minimal Set of Sentences (SpeedUp)`**
 	- [arXiv](https://arxiv.org/abs/1805.08092), [note](notes/minimal_qa.md)
+- Global-Locally Self-Attentive Dialogue State Tracker (2018. 5)
+	- **`GLAD`**, **`WoZ and DSTC2 Dataset`**
+	- [arXiv](https://arxiv.org/abs/1805.09655) 
 
 
 	
