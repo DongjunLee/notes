@@ -459,6 +459,9 @@ Deep Learning (2015) **`Review`**
 - Global-Locally Self-Attentive Dialogue State Tracker (2018. 5)
 	- **`GLAD`**, **`WoZ and DSTC2 Dataset`**
 	- [arXiv](https://arxiv.org/abs/1805.09655) 
+- Know What You Don't Know: Unanswerable Questions for SQuAD (2018, 6)
+	- **`SQuAD 2.0`**, **`Negative Example`**
+	- [arXiv](https://arxiv.org/abs/1806.03822)
 
 
 	
