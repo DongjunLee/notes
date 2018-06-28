@@ -469,7 +469,15 @@ Deep Learning (2015) **`Review`**
 - Know What You Don't Know: Unanswerable Questions for SQuAD (2018, 6)
 	- **`SQuAD 2.0`**, **`Negative Example`**
 	- [arXiv](https://arxiv.org/abs/1806.03822)
-
+- The Natural Language Decathlon: Multitask Learning as Question Answering (2018, 6)
+	- **`decaNLP`**, **`Multitask Question Answering Network (MQAN)`**, **`Transfer Learning`**
+	- [arXiv](https://arxiv.org/abs/1806.08730)
+- GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations (2018, 6)
+	- **`Transfer Learning Framework`**, **`Structured Graphical Representations`**
+	- [arXiv](https://arxiv.org/abs/1806.08730)
+- Improving Language Understanding by Generative Pre-Training (2018, 6)
+	- **`Transformer`**, **`Generative Pre-Training`**, **`Discriminative Fine-Tuning`**
+	- [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf), [open\_ai\_blog](https://blog.openai.com/language-unsupervised/)
 
 	
 ### One-Shot/Few-Shot/Meta Learing
