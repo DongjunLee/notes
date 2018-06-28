@@ -175,6 +175,9 @@ Deep Learning (2015) **`Review`**
 - **A simple neural network module for relational reasoning** (2017. 6)
 	- **`Relational Reasoning`**, **`DeepMind`**
 	- [arXiv](https://arxiv.org/abs/1706.01427), [note](notes/relational_network.md), [code](https://github.com/DongjunLee/relation-network-tensorflow)
+- On Calibration of Modern Neural Networks (2017. 6)
+	- **`Confidence calibration`**, **`Maximum Calibration Error (MCE)`**
+	- [arXiv](https://arxiv.org/abs/1706.04599)
 - When is a Convolutional Filter Easy To Learn? (2017. 9)
 	- **`Conv + ReLU`**, **`Non-Gaussian Case`**, **`Polynomial Time`**
 	- [arXiv](https://arxiv.org/abs/1709.06129), [open_review](https://openreview.net/forum?id=SkA-IE06W)
