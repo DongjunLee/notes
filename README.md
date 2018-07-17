@@ -187,6 +187,9 @@ Deep Learning (2015) **`Review`**
 - Measuring the tendency of CNNs to Learn Surface Statistical Regularities (2017. 11)
 	- **`not learn High Level Semantics`**, **`learn Surface Statistical Regularities`**
 	- [arXiv](https://arxiv.org/abs/1711.11561), [the_morning_paper](https://blog.acolyer.org/2018/05/29/measuring-the-tendency-of-cnns-to-learn-surface-statistical-regularities/)
+- MentorNet: Regularizing Very Deep Neural Networks on Corrupted Labels (2017. 12)
+	- **`MentorNet - StudentNet`**, **`Curriculum Learning`**, **`Output is Weight`**
+	- [arXiv](https://arxiv.org/abs/1712.05055)
 - Deep Learning Scaling is Predictable, Empirically (2017. 12)
 	- **`Power-Law Exponents`**, **`Grow Training Sets`**
 	- [arXiv](https://arxiv.org/abs/1712.00409), [the_morning_paper](https://blog.acolyer.org/2018/03/28/deep-learning-scaling-is-predictable-empirically/)
@@ -205,6 +208,9 @@ Deep Learning (2015) **`Review`**
 - Group Normalization (2018. 3)
 	- **`Group Normalization (GN)`**, **`Batch (BN)`**, **`Layer (LN)`**, **`Instance (IN)`**, **`Independent Batch Size`**
 	- [arXiv](https://arxiv.org/abs/1803.08494)
+- Fast Decoding in Sequence Models using Discrete Latent Variables (2018. 3)
+	- **`Autoregressive`**, **`Latent Transformer`**, **`Discretization`**
+	- [arXiv](https://arxiv.org/abs/1803.03382)
 - How Does Batch Normalization Help Optimization? (No, It Is Not About Internal Covariate Shift) (2018. 5)
 	- **`Smoothing Effect`**, **`BatchNorm’s Reparametrization`**
 	- [arXiv](https://arxiv.org/abs/1805.11604)
@@ -516,6 +522,9 @@ Deep Learning (2015) **`Review`**
 - On the Convergence of Adam and Beyond (2018. 2)
 	- **`AMSGrad`**, **`Convex optimization`**
 	- [open_review](https://openreview.net/forum?id=ryQu7f-RZ)
+- Adafactor: Adaptive Learning Rates with Sublinear Memory Cost (2018. 4)
+	- **`Adafactor`**, **`Adaptive Method`**, **`Update Clipping`**
+	- [arXiv](https://arxiv.org/abs/1804.04235)
 
 
 ### Reinforcement Learning
