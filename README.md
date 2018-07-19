@@ -401,9 +401,15 @@ Deep Learning (2015) **`Review`**
 - Neural Speed Reading via Skim-RNN (2017. 11)
 	- **`Skim-RNN`**, **`Speed Reading`**, **`Big(Read)-Small(Skim)`**, **`Dynamic`**
 	- [arXiv](https://arxiv.org/abs/1711.09534), [open_review](https://openreview.net/forum?id=Sy-dQG-Rb)
+- Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks (2017. 11)
+	- **`SCAN`**, **`Compositional`**, **`Mix-and-Match`**
+	- [arXiv](https://arxiv.org/abs/1711.00350)
 - The NarrativeQA Reading Comprehension Challenge (2017. 12)
 	- **`NarrativeQA`**, **`Dataset`**, **`DeepMind`**
 	- [arXiv](https://arxiv.org/abs/1712.07040), [dataset](https://github.com/deepmind/narrativeqa)
+- Hierarchical Text Generation and Planning for Strategic Dialogue (2017. 12)
+	- **`End2End Strategic Dialogue`**, **`Latent Sentence Representations`**, **`Planning + RL`**
+	- [arXiv](https://arxiv.org/abs/1712.05846)
 - Recent Advances in Recurrent Neural Networks (2018. 1)
 	- **`RNN`**, **`Recent Advances`**, **`Review`**
 	- [arXiv](https://arxiv.org/abs/1801.01078)
@@ -433,12 +439,16 @@ Deep Learning (2015) **`Review`**
 	- [arXiv](https://arxiv.org/abs/1803.09473)
 - Universal Sentence Encoder (2018. 3)
 	- **`Transformer`**, **`Deep Averaging Network (DAN)`**, **`Transfer`**
+	- [arXiv](https://arxiv.org/abs/1803.11175)
 - An efficient framework for learning sentence representations (2018. 3)
 	- **`Sentence Representation`**, **`True Context`**, **`Unsupervised`**
 	- [arXiv](https://arxiv.org/abs/1803.02893), [open_review](https://openreview.net/forum?id=rJvJXZb0W)
 - An Analysis of Neural Language Modeling at Multiple Scales (2018. 3)
 	- **`LSTM vs QRNN`**, **`Hyperparemeter`**, **`AWD-QRNN`**
 	- [arXiv](https://arxiv.org/abs/1803.08240)
+- Analyzing Uncertainty in Neural Machine Translation (2018. 3)
+	- **`Uncertainty`**, **`Beam Search Degradation`**, **`Copy Mode`**
+	- [arXiv](https://arxiv.org/abs/1803.00047)
 - Training Tips for the Transformer Model (2018. 4)
 	- **`Transformer`**, **`Hyperparameter`**, **`Multiple GPU`**
 	- [arXiv](https://arxiv.org/abs/1804.00247)
