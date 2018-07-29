@@ -482,8 +482,11 @@ Deep Learning (2015) **`Review`**
 - Global-Locally Self-Attentive Dialogue State Tracker (2018. 5)
 	- **`GLAD`**, **`WoZ and DSTC2 Dataset`**
 	- [arXiv](https://arxiv.org/abs/1805.09655) 
+- Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information (2018, 5)
+	- **`Dataset`**, **`EVPI`**, **`ACL 2018 Best Paper`**
+	- [arXiv](https://arxiv.org/abs/1805.04655)
 - Know What You Don't Know: Unanswerable Questions for SQuAD (2018, 6)
-	- **`SQuAD 2.0`**, **`Negative Example`**
+	- **`SQuAD 2.0`**, **`Negative Example`**, **`ACL 2018 Best Paper`**
 	- [arXiv](https://arxiv.org/abs/1806.03822)
 - The Natural Language Decathlon: Multitask Learning as Question Answering (2018, 6)
 	- **`decaNLP`**, **`Multitask Question Answering Network (MQAN)`**, **`Transfer Learning`**
@@ -494,6 +497,13 @@ Deep Learning (2015) **`Review`**
 - Improving Language Understanding by Generative Pre-Training (2018, 6)
 	- **`Transformer`**, **`Generative Pre-Training`**, **`Discriminative Fine-Tuning`**
 	- [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf), [open\_ai\_blog](https://blog.openai.com/language-unsupervised/)
+- Finding Syntax in Human Encephalography with Beam Search (2018, 6)
+	- **`RNNG+beam search`**, **`ACL 2018 Best Paper`**
+	- [arXiv](https://arxiv.org/abs/1806.04127)
+- Let's do it "again": A First Computational Approach to Detecting Adverbial Presupposition Triggers (2018, 6)
+	- **`Task`**, **`Dataset`**, **`Weighted-Pooling (WP)`** **`ACL 2018 Best Paper`**
+	- [arXiv](https://arxiv.org/abs/1806.04262)
+
 
 	
 ### One-Shot/Few-Shot/Meta Learing
