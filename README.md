@@ -148,6 +148,9 @@ Deep Learning (2015) **`Review`**
 - Training Very Deep Networks (2015. 7)
 	- **`Highway`**, **`LSTM-like`**
 	- [arXiv](https://arxiv.org/abs/1507.06228), [note](notes/highway_networks.md)
+- A Theoretically Grounded Application of Dropout in Recurrent Neural Networks (2015. 12)
+	- **`Variational RNN`**, **`Dropout - RNN`**, **`Bayesian interpretation`**
+	- [arXiv](https://arxiv.org/abs/1512.05287)
 - Deep Networks with Stochastic Depth (2016. 3)
 	- **`Dropout`**, **`Ensenble`**, **`Beyond 1000 layers`**
 	- [arXiv](https://arxiv.org/abs/1603.09382), [note](notes/stochastic_depth.md)
@@ -536,6 +539,9 @@ Deep Learning (2015) **`Review`**
 - A Simple Way to Initialize Recurrent Networks of Rectified Linear Units (2015. 4)
 	- **`Weight Initialization`**, **`RNN`**, **`Identity Matrix`**
 	- [arXiv](https://arxiv.org/abs/1504.00941)
+- Cyclical Learning Rates for Training Neural Networks (2015. 6)
+	- **`CLR`**, **`Triangular, ExpRange`**, **`Longtherm Benefit`**
+	- [arXiv](https://arxiv.org/abs/1506.01186)
 - Neural Optimizer Search with Reinforcement Learning (2017. 9)
 	- **`Neural Optimizer Search (NOS)`**, **`PowerSign`**, **`AddSign`**
 	- [arXiv](https://arxiv.org/abs/1709.07417)
