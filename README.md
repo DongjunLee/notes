@@ -154,6 +154,9 @@ Deep Learning (2015) **`Review`**
 - Deep Networks with Stochastic Depth (2016. 3)
 	- **`Dropout`**, **`Ensenble`**, **`Beyond 1000 layers`**
 	- [arXiv](https://arxiv.org/abs/1603.09382), [note](notes/stochastic_depth.md)
+- Adaptive Computation Time for Recurrent Neural Networks (2016. 3)
+	- **`ACT`**, **`Dynamically`**, **`Logic Task`**
+	- [arXiv](https://arxiv.org/abs/1603.08983)
 - Layer Normalization (2016. 7)
 	- **`Regulaizer`**, **`Accelerate Training`**, **`RNN`**
 	- [arXiv](https://arxiv.org/abs/1607.06450), [note](notes/layer_normalization.md)
@@ -217,9 +220,15 @@ Deep Learning (2015) **`Review`**
 - How Does Batch Normalization Help Optimization? (No, It Is Not About Internal Covariate Shift) (2018. 5)
 	- **`Smoothing Effect`**, **`BatchNorm’s Reparametrization`**
 	- [arXiv](https://arxiv.org/abs/1805.11604)
+- When Recurrent Models Don't Need To Be Recurrent (2018. 5)
+	- **`Approximate`**, **`Feed-Forward`**
+	- [arXiv](https://arxiv.org/abs/1805.10369), [bair_blog](http://bair.berkeley.edu/blog/2018/08/06/recurrent/)
 - Relational inductive biases, deep learning, and graph networks (2018, 6)
 	- **`Survey`**, **`Relation`**, **`Graph`**
 	- [arXiv](https://arxiv.org/abs/1806.01261)
+- Universal Transformers (2018. 7)
+	- **`Transformer`**, **`Weight Sharing`**, **`Adaptive Computation Time (ACT)`**
+	- [arXiv](https://arxiv.org/abs/1807.03819), [google_ai_blog](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html)
 
 
 ### Natural Language Processing
@@ -507,7 +516,6 @@ Deep Learning (2015) **`Review`**
 	- **`Task`**, **`Dataset`**, **`Weighted-Pooling (WP)`** **`ACL 2018 Best Paper`**
 	- [arXiv](https://arxiv.org/abs/1806.04262)
 
-
 	
 ### One-Shot/Few-Shot/Meta Learing
 
@@ -584,7 +592,7 @@ Deep Learning (2015) **`Review`**
 	- [arXiv](https://arxiv.org/abs/1803.10122)
 - Unsupervised Predictive Memory in a Goal-Directed Agent (2018. 3)
 	- **`MERLIN`**, **`Memory + RL + Inference`**, **`Partial Observability`**
-	- [arXiv](https://arxiv.org/abs/1803.10760)
+	- [arXiv](https://arxiv.org/abs/1803.10760), [google_ai_blog](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html)
 
 
 ### Transfer Learning
