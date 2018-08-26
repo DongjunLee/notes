@@ -356,6 +356,9 @@ Deep Learning (2015) **`Review`**
 - A recurrent neural network without chaos (2016. 12)
 	- **`RNN`**, **`CFN`**, **`Dynamic`**, **`Chaos`**
 	- [arXiv](https://arxiv.org/abs/1612.06212)
+- Comparative Study of CNN and RNN for Natural Language Processing (2017. 2)
+	- **`Systematic Comparison`**, **`CNN vs RNN`**
+	- [arXiv](https://arxiv.org/abs/1702.01923)
 - A Structured Self-attentive Sentence Embedding (2017. 3)
 	- **`Sentence Embedding`**, **`Self-Attention`**, **`2-D Matrix`**
 	- [arXiv](https://arxiv.org/abs/1703.03130), [note](notes/self_attn_sentence_embed.md)
@@ -461,6 +464,9 @@ Deep Learning (2015) **`Review`**
 - Analyzing Uncertainty in Neural Machine Translation (2018. 3)
 	- **`Uncertainty`**, **`Beam Search Degradation`**, **`Copy Mode`**
 	- [arXiv](https://arxiv.org/abs/1803.00047)
+- An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling (2018. 3)
+	- **`Temporal Convolutional Network (TCN)`**, **`CNN vs RNN`**
+	- [arXiv](https://arxiv.org/abs/1803.01271)
 - Training Tips for the Transformer Model (2018. 4)
 	- **`Transformer`**, **`Hyperparameter`**, **`Multiple GPU`**
 	- [arXiv](https://arxiv.org/abs/1804.00247)
