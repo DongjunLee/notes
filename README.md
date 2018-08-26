@@ -479,6 +479,9 @@ Deep Learning (2015) **`Review`**
 - Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates (2018. 4)
 	- **`SR`**, **`Subword Sampling + Hyperparameter`**, **`Segmentation (BPE, Unigram)`**
 	- [arXiv](https://arxiv.org/abs/1804.10959) 
+- Phrase-Indexed Question Answering: A New Challenge for Scalable Document Comprehension (2018. 4)
+	- **`PI-SQuAD`**, **`Challenge`**, **`Document Encoder`**, **`Scalability`**
+	- [arXiv](https://arxiv.org/abs/1804.07726)
 - On the Practical Computational Power of Finite Precision RNNs for Language Recognition (2018. 5)
 	- **`Unbounded counting`**, **`IBFP-LSTM`**
 	- [arXiv](https://arxiv.org/abs/1805.04908)
@@ -499,7 +502,7 @@ Deep Learning (2015) **`Review`**
 	- [arXiv](https://arxiv.org/abs/1805.04655)
 - Know What You Don't Know: Unanswerable Questions for SQuAD (2018, 6)
 	- **`SQuAD 2.0`**, **`Negative Example`**, **`ACL 2018 Best Paper`**
-	- [arXiv](https://arxiv.org/abs/1806.03822)
+	- [arXiv](https://arxiv.org/abs/1806.03822), [leaderboard](https://rajpurkar.github.io/SQuAD-explorer/)
 - The Natural Language Decathlon: Multitask Learning as Question Answering (2018, 6)
 	- **`decaNLP`**, **`Multitask Question Answering Network (MQAN)`**, **`Transfer Learning`**
 	- [arXiv](https://arxiv.org/abs/1806.08730)
@@ -515,6 +518,12 @@ Deep Learning (2015) **`Review`**
 - Let's do it "again": A First Computational Approach to Detecting Adverbial Presupposition Triggers (2018, 6)
 	- **`Task`**, **`Dataset`**, **`Weighted-Pooling (WP)`** **`ACL 2018 Best Paper`**
 	- [arXiv](https://arxiv.org/abs/1806.04262)
+- QuAC : Question Answering in Context (2018. 8)
+	- **`Information-Seeking dialog`**, **`Challenge`**, **`Without Evidence`**
+	- [arXiv](https://arxiv.org/abs/1808.07036), [leaderboard](http://quac.ai/)
+- CoQA: A Conversational Question Answering Challenge (2018. 8)
+	- **`Abstractive with Extractive Rationale`**, **`Challenge`**, **`Coreference and Pragmatic Reasoning`**
+	- [arXiv](https://arxiv.org/abs/1808.07042), [leaderboard](https://stanfordnlp.github.io/coqa/)
 
 	
 ### One-Shot/Few-Shot/Meta Learing
