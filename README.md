@@ -169,6 +169,9 @@ Deep Learning (2015) **`Review`**
 - Professor Forcing: A New Algorithm for Training Recurrent Networks (2016. 10)
 	- **`Professor Forcing`**, **`RNN`**, **`Inference Problem`**, **`Training with GAN`**
 	- [arXiv](https://arxiv.org/abs/1610.09038), [note](notes/professor_forcing.md)
+- Equality of Opportunity in Supervised Learning (2016. 10)
+	- **`Equalized Odds`**, **`Demographic Parity`**, **`Bias`**
+	- [arXiv](https://arxiv.org/abs/1610.02413), [the_morning_paper](https://blog.acolyer.org/2018/05/07/equality-of-opportunity-in-supervised-learning/)
 - Categorical Reparameterization with Gumbel-Softmax (2016. 11)
 	- **`Gumbel-Softmax distribution `**, **`Reparameterization`**, **`Smooth relaxation`**
 	- [arXiv](https://arxiv.org/abs/1611.01144), [open_review](https://openreview.net/forum?id=rkE3y85ee)
@@ -217,6 +220,9 @@ Deep Learning (2015) **`Review`**
 - Fast Decoding in Sequence Models using Discrete Latent Variables (2018. 3)
 	- **`Autoregressive`**, **`Latent Transformer`**, **`Discretization`**
 	- [arXiv](https://arxiv.org/abs/1803.03382)
+- Delayed Impact of Fair Machine Learning (2018. 3)
+	- **`Outcome Curve`**, **`Max Profit, Demographic Parity, Equal Opportunity`**
+	- [arXiv](https://arxiv.org/abs/1803.04383), [the_morning_paper](https://blog.acolyer.org/2018/08/13/delayed-impact-of-fair-machine-learning/), [bair_blog](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/)
 - How Does Batch Normalization Help Optimization? (No, It Is Not About Internal Covariate Shift) (2018. 5)
 	- **`Smoothing Effect`**, **`BatchNorm’s Reparametrization`**
 	- [arXiv](https://arxiv.org/abs/1805.11604)
