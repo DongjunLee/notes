@@ -19,6 +19,7 @@ If you want to download papers.
 	- [AI](#ai)
 	- [Cognitive](#cognitive)
 	- [Computer Vision](#computer-vision)
+	- [Framework & System](#framework--system)
 	- [Model](#model)
 	- [Natural Language Processing](#natural-language-processing)
 	- [One-Shot/Few-Shot Learing](#one-shotfew-shotmeta-learing)
@@ -129,6 +130,15 @@ Deep Learning (2015) **`Review`**
 	- **`Search Algorithm (RL)`**, **`Sub-Policy`**
 	- [arXiv](https://arxiv.org/abs/1805.09501)
 
+
+### Framework & System
+
+- Snorkel: Rapid Training Data Creation with Weak Supervision (2017. 11)
+	- **`Labelling Functions`**, **`Data Programming`**
+	- [arXiv](https://arxiv.org/abs/1711.10160), [the_morning_blog](https://blog.acolyer.org/2018/08/22/snorkel-rapid-training-data-creation-with-weak-supervision/)
+- Training classifiers with natural language explanations (2018. 5)
+	- **`Babble Labble`**, **`Data Programming`**
+	- [arXiv](https://arxiv.org/abs/1805.03818), [the_morning_blog](https://blog.acolyer.org/2018/08/24/training-classifiers-with-natural-language-explanations/)
 
 
 ### Model
