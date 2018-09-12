@@ -546,6 +546,15 @@ Deep Learning (2015) **`Review`**
 - CoQA: A Conversational Question Answering Challenge (2018. 8)
 	- **`Abstractive with Extractive Rationale`**, **`Challenge`**, **`Coreference and Pragmatic Reasoning`**
 	- [arXiv](https://arxiv.org/abs/1808.07042), [leaderboard](https://stanfordnlp.github.io/coqa/)
+- Contextual Parameter Generation for Universal Neural Machine Translation (2018. 8)
+	- **`Parameter Generation`**, **`Language Embedding`**, **`EMNLP 2018`**
+	- [arXiv](https://arxiv.org/abs/1808.08493)
+- Evaluating Theory of Mind in Question Answering (2018. 8)
+	- **`Dataset`**, **`Higher-order Beliefs`**, **`EMNLP 2018`**
+	- [arXiv](https://arxiv.org/abs/1808.09352)
+- Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text (2018. 9)
+	- **`GRAFT-Net`**, **`KB+Text Fusion`**, **`EMNLP 2018`**
+	- [arXiv](https://arxiv.org/abs/1809.00782)
 
 	
 ### One-Shot/Few-Shot/Meta Learing
