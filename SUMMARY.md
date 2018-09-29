@@ -2,22 +2,32 @@
 
 * [What is notes](README.md)
 
-## Math
+## Background
 
 * [Math]()
-
-## Machine Learning
-
+    * [Statictics]()
+    * [Linear Algebra]()
 * [Machine Learning]()
-
-## Deep Learning
-
 * [Deep Learning]()
 
-## Natural Language Processing
+## Code
 
+* [Computer Vision]()
 * [Natural Language Processing]()
+* [Reinforcement Learning]()
+* [Unsupervised & Generative]()
 
-## Papers
+## Research Paper
 
-* [Papers](papers/papers.md)
+* [Adversarial Example]()
+* [AI]()
+* [Cognitive]()
+* [Computer Vision]()
+* [Framework & System]()
+* [Model]()
+* [Natural Language Processing]()
+* [One-Shot/Few-Shot Learing]()
+* [Optimization]()
+* [Reinforcement Learning]()
+* [Transfer Learning]()
+* [Unsupervised & Generative]()
