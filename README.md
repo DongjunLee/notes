@@ -245,6 +245,12 @@ Deep Learning (2015) **`Review`**
 - Universal Transformers (2018. 7)
 	- **`Transformer`**, **`Weight Sharing`**, **`Adaptive Computation Time (ACT)`**
 	- [arXiv](https://arxiv.org/abs/1807.03819), [google_ai_blog](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html)
+- Identifying Generalization Properties in Neural Networks (2018. 9)
+	- **`Generalization`**, **`PAC-Bayes`**, **`Hessian`**, **`Perturbation`**
+	- [arXiv](https://arxiv.org/abs/1809.07402), [salesforce_blog](https://einstein.ai/research/blog/identifying-generalization-properties-in-neural-networks)
+- No Multiplication? No Floating Point? No Problem! Training Networks for Efficient Inference (2018. 9)
+	- **`Quantization`**, **`Store Multiplication Table`**, **`Memory/Power Resources`**
+	- [arXiv](https://arxiv.org/abs/1809.09244)
 
 
 ### Natural Language Processing
