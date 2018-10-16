@@ -561,6 +561,12 @@ Deep Learning (2015) **`Review`**
 - Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text (2018. 9)
 	- **`GRAFT-Net`**, **`KB+Text Fusion`**, **`EMNLP 2018`**
 	- [arXiv](https://arxiv.org/abs/1809.00782)
+- HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering (2018. 9)
+	- **`Dataset`**, **`Multi-hop`**, **`Sentence-level Supporting Fact`**, **`EMNLP 2018`**
+	- [arXiv](https://arxiv.org/abs/1809.00782)
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018. 10)
+	- **`BERT`**, **`Discriminative`**, **`Large Pretrained`**, **`Transfer Learning`**
+	- [arXiv](https://arxiv.org/abs/1810.04805), [glue_benchmark](https://gluebenchmark.com/leaderboard)
 
 	
 ### One-Shot/Few-Shot/Meta Learing
