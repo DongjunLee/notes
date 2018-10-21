@@ -28,7 +28,7 @@ def sync(s_path):
 
     notes = read_notes()
 
-    r = requests.get("https://raw.githubusercontent.com/hb-research/notes/master/README.md")
+    r = requests.get("https://raw.githubusercontent.com/hb-research/notes/master/README_BACK.md")
     parsed_data = parse(r.text)
 
     for category, items in parsed_data.items():
