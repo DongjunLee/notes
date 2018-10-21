@@ -35,9 +35,6 @@ Illustration by <a href="http://www.smrvl.com/blog/">David Somerville</a> based 
 	* [Mathematics for Machine Learning: Linear Algebra by David Dye](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
 ### Machine Learning
-
-- Book
-    * [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/) by Andrew Ng
 	
 - Course & Video
 	* [Stanford University - Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng.
