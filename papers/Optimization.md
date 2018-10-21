@@ -1,0 +1,32 @@
+### Papers
+
+- Understanding the difficulty of training deep feedforward neural networks (2010)
+	- **`Weight Initialization (Xavier)`**
+	- [paper](http://proceedings.mlr.press/v9/glorot10a.html), [note](notes/xavier_initialization.md)
+- On the difficulty of training Recurrent Neural Networks (2012. 11)
+	- **`Gradient Clipping`**, **`RNN`**
+	- [arXiv](https://arxiv.org/abs/1211.5063)
+- Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification (2015. 2)
+	- **`PReLU`**, **`Weight Initialization (He)`**
+	- [arXiv](https://arxiv.org/abs/1502.01852), [note](notes/he_initialization.md)
+- A Simple Way to Initialize Recurrent Networks of Rectified Linear Units (2015. 4)
+	- **`Weight Initialization`**, **`RNN`**, **`Identity Matrix`**
+	- [arXiv](https://arxiv.org/abs/1504.00941)
+- Cyclical Learning Rates for Training Neural Networks (2015. 6)
+	- **`CLR`**, **`Triangular, ExpRange`**, **`Longtherm Benefit`**
+	- [arXiv](https://arxiv.org/abs/1506.01186)
+- On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima (2016. 9)
+	- **`Generalization`**, **`Sharpness of Minima`**
+	- [arXiv](https://arxiv.org/abs/1609.04836)
+- Neural Optimizer Search with Reinforcement Learning (2017. 9)
+	- **`Neural Optimizer Search (NOS)`**, **`PowerSign`**, **`AddSign`**
+	- [arXiv](https://arxiv.org/abs/1709.07417)
+- On the Convergence of Adam and Beyond (2018. 2)
+	- **`AMSGrad`**, **`Convex optimization`**
+	- [open_review](https://openreview.net/forum?id=ryQu7f-RZ)
+- Adafactor: Adaptive Learning Rates with Sublinear Memory Cost (2018. 4)
+	- **`Adafactor`**, **`Adaptive Method`**, **`Update Clipping`**
+	- [arXiv](https://arxiv.org/abs/1804.04235)
+- Revisiting Small Batch Training for Deep Neural Networks (2018. 4)
+	- **`Generalization Performance`**, **`Training Stability`**
+	- [arXiv](https://arxiv.org/abs/1804.07612)
