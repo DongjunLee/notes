@@ -2,7 +2,7 @@
 
 * [What is notes](README.md)
 
-## Background
+## Basic
 
 * [Math]()
     * [Statictics]()
@@ -12,22 +12,21 @@
 
 ## Code
 
-* [Computer Vision]()
-* [Natural Language Processing]()
-* [Reinforcement Learning]()
-* [Unsupervised & Generative]()
+* [Generative](code/generative.md)
+* [NLP](code/nlp.md)
+* [RL](code/rl.md)
+* [Vision](code/vision.md)
 
 ## Research Paper
 
-* [Adversarial Example]()
-* [AI]()
-* [Cognitive]()
-* [Computer Vision]()
-* [Framework & System]()
-* [Model]()
-* [Natural Language Processing]()
-* [One-Shot/Few-Shot Learing]()
-* [Optimization]()
-* [Reinforcement Learning]()
-* [Transfer Learning]()
-* [Unsupervised & Generative]()
+* [Adversarial](papers/Adversarial.md)
+* [AI](papers/AI.md)
+* [Cognitive](papers/Cognitive.md)
+* [Computer Vision](papers/Computer_Vision.md)
+* [Framework & System](papers/Framework_System.md)
+* [Model](papers/Model.md)
+* [Natural Language Processing](papers/Natural_Language_Processing.md)
+* [One-Shot/Few-Shot Learing](papers/One-Shot_Few-Shot_Learing.md)
+* [Optimization](papers/Optimization.md)
+* [Reinforcement Learning](papers/Reinforcement_Learning.md)
+* [Unsupervised & Generative](papers/Unsupervised_Generative.md)
