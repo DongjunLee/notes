@@ -1,50 +1,32 @@
-# notes [![hb-research](https://img.shields.io/badge/hb--research-notes-green.svg?style=flat&colorA=448C57&colorB=555555)](https://github.com/hb-research)
+# notes [![hb-research](https://img.shields.io/badge/hb--research-notes-green.svg?style=flat&colorA=448C57&colorB=555555)](https://github.com/hb-research)  [![gitbook](https://aleen42.github.io/badges/src/gitbook_2.svg)](https://humanbrain.gitbook.io/notes/)  
 
 
 The notes for Math, Machine Learning, Deep Learning and Research papers.
 
-[Full Gitbooks](https://humanbrain.gitbook.io/notes/)
+
+## Objective
+
+![image](images/data_to_wisdom.jpg)
+
+<p align="center">
+Illustration by <a href="http://www.smrvl.com/blog/">David Somerville</a> based on the original by <a href="https://twitter.com/gapingvoid/statuses/423952995240648704">Hugh McLeod</a>
+</p>
+
+<br/>
+
+- Let's make **wisdom** from knowledge.
+- Define concepts to be intuitively understandable.
+    * Simply summary (You can check the details on Wiki)
+    * With `story` or example
+    * Draw an `illustration`
+    * If possible, append a `code`
+- Documentation by [Gitbook](https://humanbrain.gitbook.io/notes/)
 
 
 ---
 
 
-# Table of contents
-
-* [What is notes](README.md)
-* [Math]()
-    * [Statictics]()
-    * [Linear Algebra]()
-* [Machine Learning]()
-* [Deep Learning]()
-
-## Code
-
-* [Computer Vision]()
-* [Natural Language Processing]()
-* [Reinforcement Learning]()
-* [Unsupervised & Generative]()
-
-## Research Paper
-
-* [Adversarial Example]()
-* [AI]()
-* [Cognitive]()
-* [Computer Vision]()
-* [Framework & System]()
-* [Model]()
-* [Natural Language Processing]()
-* [One-Shot/Few-Shot Learing]()
-* [Optimization]()
-* [Reinforcement Learning]()
-* [Transfer Learning]()
-* [Unsupervised & Generative]()
-
-
----
-
-
-## References
+## Knowledge Source
 
 ### Math
 
