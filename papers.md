@@ -1,19 +1,13 @@
-# notes [![hb-research](https://img.shields.io/badge/hb--research-notes-green.svg?style=flat&colorA=448C57&colorB=555555)](https://github.com/hb-research)
+## Papers
 
-Summary Notes, Codes and Articles of Deep Learning Research.  
+If you want to sync papers.
 
-If you want to download papers.
-
-```python notes_sync.py --sync_path {path_name}```
+```python scripts/sync_papers --sync_path {path_name}```
 
 ---
 
 ## Category
 
-- [Background Knowledge](#background-knowledge)
-- [Code](#code)
-	- [PyTorch](#pytorch)
-	- [TensorFlow](#tensorflow)
 - [Research Paper](#research-paper)
 	- [Adversarial Example](#adversarial-example) 
 	- [AI](#ai)
@@ -25,7 +19,6 @@ If you want to download papers.
 	- [One-Shot/Few-Shot Learing](#one-shotfew-shotmeta-learing)
 	- [Optimization](#optimization)
 	- [Reinforcement Learning](#reinforcement-learning)
-	- [Transfer Learning](#transfer-learning)
 	- [Unsupervised & Generative](#unsupervised--generative)
 
 ### Description
@@ -48,26 +41,6 @@ If you want to download papers.
 - Information Theory: A Tutorial Introduction (2018. 2)
 	- **`Shannon's Theory`**
 	- [arXiv](https://arxiv.org/abs/1802.05968) 
-
----
-
-## Code
-
-The codes are implemented by TensorFlow and initiate project with [hb-base](https://github.com/hb-research/hb-base).
-
-### PyTorch
-
-- [gan-pytorch](https://github.com/DongjunLee/gan-pytorch) : Generative Adversarial Networks
-
-### TensorFlow
-
-- [transformer-tensorflow](https://github.com/DongjunLee/transformer-tensorflow) : Attention Is All You Need
-- [relation-network-tensorflow](https://github.com/DongjunLee/relation-network-tensorflow) : A simple neural network module for relational reasoning for bAbi task
-- [conversation-tensorflow](https://github.com/DongjunLee/conversation-tensorflow) : Conversation Models (Seq2Seq with Attentional Model)
-- [dmn-tensorflow](https://github.com/DongjunLee/dmn-tensorflow) : Ask Me Anything: Dynamic Memory Networks for Natural Language Processing
-- [text-cnn-tensorflow](https://github.com/DongjunLee/text-cnn-tensorflow) : Convolutional Neural Networks for Sentence Classification(TextCNN)
-- [vae-tensorflow](https://github.com/DongjunLee/vae-tensorflow) : Auto-Encoding Variational Bayes
-- [char-rnn-tensorflow](https://github.com/DongjunLee/char-rnn-tensorflow) : Multi-layer Recurrent Neural Networks for character-level language models
 
 ---
 
@@ -621,6 +594,9 @@ Deep Learning (2015) **`Review`**
 
 ### Reinforcement Learning
 
+- Progressive Neural Networks (2016. 6)
+	- **`ProgNN `**, **`Incorporate Prior Knowledge`**
+	- [arXiv](https://arxiv.org/abs/1606.04671), [the morning paper](https://blog.acolyer.org/2016/10/11/progressive-neural-networks/)
 - Neural Architecture Search with Reinforcement Learning (2016. 11)
 	- **`NAS`**, **`Google AutoML`**, **`Google Brain`**
 	- [arXiv](https://arxiv.org/abs/1611.01578)
@@ -649,9 +625,7 @@ Deep Learning (2015) **`Review`**
 
 ### Transfer Learning
 
-- Progressive Neural Networks (2016. 6)
-	- **`ProgNN `**, **`Incorporate Prior Knowledge`**
-	- [arXiv](https://arxiv.org/abs/1606.04671), [the morning paper](https://blog.acolyer.org/2016/10/11/progressive-neural-networks/)
+
 
 
 ### Unsupervised & Generative
