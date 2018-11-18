@@ -63,13 +63,21 @@ def contents_to_text(contents, texts="", indentation=1):
     return texts + "\n"
 
 def capitalize_base_words(file_path, sep="_", remove_ext=False):
+    abbreviations = set([
+        "lstm", "ml", "nlp", "nmt", "nn", "ps", "rc", "rl", "vae"
+    ])
+
     basenamse = os.path.basename(file_path)
     words = basenamse.split(sep)
     c_words = []
     for word in words:
-        word = word.capitalize()
         if remove_ext:
             word = word.split(".")[0]
+
+        if word in abbreviations:
+            word = word.upper()
+        else:
+            word = word.capitalize()
         c_words.append(word)
     return " ".join(c_words)
 
