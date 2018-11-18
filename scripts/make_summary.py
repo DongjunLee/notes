@@ -9,13 +9,13 @@ header = """
 """
 
 def replace_summary():
-    kb_contents = make_contents("./knowledge/")
+    kb_contents = make_contents("knowledge")
     kb_texts = contents_to_text(kb_contents["knowledge"], texts=f"## Knowledge Base\n\n")
 
-    code_contents = make_contents("./code/")
+    code_contents = make_contents("code")
     code_texts = contents_to_text(code_contents, texts=f"## Code\n\n")
 
-    note_contents = make_contents("./notes/")
+    note_contents = make_contents("notes")
     note_texts = contents_to_text(note_contents["notes"], texts=f"## Notes\n\n")
 
     summary_texts = ""
@@ -37,7 +37,7 @@ def make_contents(rootdir):
     start = rootdir.rfind(os.sep) + 1
     for path, dirs, files in os.walk(rootdir):
         folders = path[start:].split(os.sep)
-        files = [f"{os.path.dirname(path)}/{f}" for f in files if f.endswith(".md")]
+        files = [f"{path}/{f}" for f in files if f.endswith(".md")]
         if files:
             subdir = files
         else:
@@ -72,3 +72,7 @@ def capitalize_base_words(file_path, sep="_", remove_ext=False):
             word = word.split(".")[0]
         c_words.append(word)
     return " ".join(c_words)
+
+
+if __name__ == "__main__":
+    replace_summary()
