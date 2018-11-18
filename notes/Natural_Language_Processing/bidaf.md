@@ -7,7 +7,7 @@
 
 > Introduce the Bi-Directional Attention Flow (BIDAF) network, a multi-stage hierarchical process that represents the context at different levels of granularity and uses bi-directional attention flow mechanism to obtain a query-aware context representation without early summarization.
 
-![images](../images/bi_att_flow_1.png)
+![images](../../images/bi_att_flow_1.png)
 
 - Attention Mechanism
 	1. attention layer is not used to summarize the context paragraph into a fixed-size vector. allowed to flow through to the subsequent modeling layer.

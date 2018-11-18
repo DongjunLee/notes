@@ -5,7 +5,7 @@
 
 ## Architecture
 
-![images](../images/transformer-architecture.png)
+![images](../../images/transformer-architecture.png)
 
 ## Simple Summary
 

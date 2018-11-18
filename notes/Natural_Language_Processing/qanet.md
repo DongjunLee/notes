@@ -13,12 +13,12 @@
 	- Convolution captures the localstructure of the text
 	- Self-attention learns the global interaction between each pair of words.
 
-![images](../images/qanet_1.png)
+![images](../../images/qanet_1.png)
 	
 - Data augmentation:
 	- use two translation models (Eng -> Fre, Fre -> Eng)
 
-![images](../images/qanet_2.png)
+![images](../../images/qanet_2.png)
 
 - Achieving up to 13x speedup in training and 9x per training iteration, compared to the RNN counterparts.
 - Single model, trained with augmented data, achieves 84.6 F1 score on the test set

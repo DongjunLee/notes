@@ -7,7 +7,7 @@
 
 - Define a new methodology that resolves the bottleneck and provides large scale supervised reading comprehension data.
 
-![images](../images/teaching_machine_read_and_comprehend_1.png)
+![images](../../images/teaching_machine_read_and_comprehend_1.png)
 
 - Dataset : CNN and Daily Mail
 - Model
@@ -19,4 +19,4 @@ representation for the answer prediction)
 	- Uniform Reader: Uniform attention to all document tokens
 - Attention visualization
 
-![images](../images/teaching_machine_read_and_comprehend_2.png)
+![images](../../images/teaching_machine_read_and_comprehend_2.png)

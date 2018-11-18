@@ -6,7 +6,7 @@ co-adaptation of feature detectors](https://arxiv.org/pdf/1207.0580.pdf) (2012) 
 
 ----
 
-![images](../images/dropout.png)
+![images](../../images/dropout.png)
 
 ### Simple summary
 

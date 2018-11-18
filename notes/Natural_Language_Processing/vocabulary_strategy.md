@@ -15,4 +15,4 @@
 	- **Infrequent Normalization (self normalization)** : computes the partition
 function at an infrequent rate.
 
-![images](../images/vocabulary_strategy_1.png)
+![images](../../images/vocabulary_strategy_1.png)

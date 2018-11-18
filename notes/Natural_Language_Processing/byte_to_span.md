@@ -8,7 +8,7 @@
 - An LSTM-based model which we call Byte-to-Span (BTS) that reads text as bytes and outputs span annotations of the form [start, length, label] where start positions, lengths, and labels are separate entries in our vocabulary.
 - Text in many languages with a single model. Due to the small vocabulary size, these multilingual models are very compact, 
 
-![images](../images/byte_to_span_1.png)
+![images](../../images/byte_to_span_1.png)
 
 - Experiments
 	- POS Tagging: 13 languages, 2.87M tokens, 25.3M training segments

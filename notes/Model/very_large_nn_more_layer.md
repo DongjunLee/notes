@@ -16,11 +16,11 @@ network with each gating decision.
 	- Depending on the scheme, loss terms may be necessary to achieve the desired level of sparsity per-chunk and/or per example.
 	- Model capacity is most critical for very large data sets.
 
-![images](../images/very_large_nn_moe_layer_1.png)
+![images](../../images/very_large_nn_moe_layer_1.png)
 
 - The MoE consists of a number of experts, each a simple feed-forward neural network, and a trainable gating network which selects a sparse combination of the experts to process each input.
 
-![images](../images/very_large_nn_moe_layer_2.png)
+![images](../../images/very_large_nn_moe_layer_2.png)
 
 - G(x): output of the gating network
 	- Softmax Gating: apply Softmax function
@@ -38,4 +38,4 @@ large weights for the same few experts -> take a soft constraint approach
 
 - Experiments 
 
-![images](../images/very_large_nn_moe_layer_3.png)
+![images](../../images/very_large_nn_moe_layer_3.png)

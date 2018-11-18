@@ -12,7 +12,7 @@
 	- SepConv = Depthwise -> Pointwise (1x1 conv)
 	- Fundamental idea = A spatial feature learning step -> A channel combination step
 
-![images](../images/slicenet-1.png)
+![images](../../images/slicenet-1.png)
 
 - The number of parameters of regular, separable and group convolutions.
 - **super-separable**: 
@@ -21,15 +21,15 @@
 	3. apply a seperable convolution to each group separately
 	4. concat the results 
 
-![images](../images/slicenet-2.png)
+![images](../../images/slicenet-2.png)
 
 - Architecture
 
-![images](../images/slicenet-3.png)
+![images](../../images/slicenet-3.png)
 
 - use stack of depthwise separble convolution layers with residual connections.
 
-![images](../images/slicenet-4.png)
+![images](../../images/slicenet-4.png)
 
 - BLEU 26.1 on the WMT'14 English-German data (newstest2014)
 

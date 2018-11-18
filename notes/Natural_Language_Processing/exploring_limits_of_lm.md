@@ -7,7 +7,7 @@
 
 > explore recent advances in Recurrent Neural Networks for large scale Language Modeling, a task central to language understanding... perform an exhaustive study on techniques such as character Convolutional Neural Networks or Long-Short Term Memory
 
-![images](../images/exploring_limits_of_lm_3.png)
+![images](../../images/exploring_limits_of_lm_3.png)
 
 - LSTM
 - CNN Inputs: characterlevel inputs to build word embeddings
@@ -16,6 +16,6 @@
 - Char LSTM Prediction
 
 
-![images](../images/exploring_limits_of_lm_1.png)
+![images](../../images/exploring_limits_of_lm_1.png)
 
-![images](../images/exploring_limits_of_lm_2.png)
+![images](../../images/exploring_limits_of_lm_2.png)

@@ -20,9 +20,9 @@
 	2. demonstrate the power of deep reinforcement learning (DRL) for complex real-world applications, rather than just games.
 
 
-![images](../images/dual_learning_nmt_1.png)
+![images](../../images/dual_learning_nmt_1.png)
 
-![images](../images/dual_learning_nmt_2.png)
+![images](../../images/dual_learning_nmt_2.png)
 
 - Experiments
 	- En -> Fr (Large): 29.92 -> 32.06

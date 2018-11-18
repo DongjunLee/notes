@@ -20,9 +20,9 @@ to learn transparent translations, and to generalize
 this knowledge to translate and produce unseen
 words.
 
-![images](../images/subword_nmt_1.jpg)
+![images](../../images/subword_nmt_1.jpg)
 
 - Byte Pair Encoding (BPE) : simple data compression technique
 	-  iteratively replaces the most frequent pair of bytes in a sequence with a single, unused byte.
 
-![images](../images/subword_nmt_2.png)
+![images](../../images/subword_nmt_2.png)

@@ -10,14 +10,14 @@
 - Problem: sample from the joint distribution over the sequence by each y_i can result in problems in generation as small prediction error compound in the conditioning context. 
 	- So, propose an alternative way of training RNNs which explicitly seeks to make the generative behavior and the teacher-forced behavior match as closely as possible.
 
-![images](../images/professor_forcing_1.png)
+![images](../../images/professor_forcing_1.png)
 
 - take advantage of the generative adversarial networks (GANs) framework.
 	- to achieve that second objective of matching the two distributions over sequences (the one observed in teacher forcing mode vs the one observed in free-running mode).
 - Generator: a unidirctional RNN with MLE training objective
 - Descriminator: a bidirectional RNN + MLP
 
-![images](../images/professor_forcing_2.png)
+![images](../../images/professor_forcing_2.png)
 
 - Training Objective: NLL + C_f + C_t (optional)
 

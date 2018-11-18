@@ -15,7 +15,7 @@
 	- encoder reads in the masked sequence.
 	- generator decomposes the distribution over the sequence into an ordered conditional sequence.
 
-![images](../images/mask_gan_1.png)
+![images](../../images/mask_gan_1.png)
 
 
 

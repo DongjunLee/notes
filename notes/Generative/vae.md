@@ -14,29 +14,29 @@
 
 - data is concentrated around a lower dimensional manifold
 
-![image](../images/manifold.png)
+![image](../../images/manifold.png)
 
 ### Linear Regerssion
 
-![image](../images/linear_regression.png)
+![image](../../images/linear_regression.png)
 
 - auto-encoder find the red line
 - VAE is find the red line and the distribution of data
 
 ### Algorithms
 
-![image](../images/vae_1.png)
+![image](../../images/vae_1.png)
 
 
-![image](../images/vae_3.png)
+![image](../../images/vae_3.png)
 
 - Reparameterised Trick
 
-![image](../images/vae_4.png)
+![image](../../images/vae_4.png)
 
 
 ### Experiments
 
 - Results
 
-![image](../images/vae_6.png)
+![image](../../images/vae_6.png)

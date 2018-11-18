@@ -14,11 +14,11 @@
 - Sentence selector scores each sentence with respect to the question in parallel. The score indicates whether the question is answerable with this sentence.
 	- Selector outperforms the previous state-of-the-art (Tan et al., 2018)
 
-![images](../images/minimal_qa_1.png)
+![images](../../images/minimal_qa_1.png)
 
 - Experiments
 
-![images](../images/minimal_qa_2.png)
+![images](../../images/minimal_qa_2.png)
 
 - `Dyn`: Dynamic, `Top k`: 1 for SQuAD and 3 for NewsQA
 

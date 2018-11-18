@@ -7,7 +7,7 @@
 
 > address an important problem in sequence-to-sequence (Seq2Seq) learning referred to as copying, in which certain segments in the input sequence are selectively replicated in the output sequence. A similar phenomenon is observable in human language communication.
 
-![images](../images/copynet_1.png)
+![images](../../images/copynet_1.png)
 
 - cognitive perspective, the copying mechanism is related to rote memorization, requiring less understanding but ensuring high literal fidelity.
 - Encoder - Same as in (Bahdanau et al., 2014)
@@ -16,4 +16,4 @@
 	- Statue update: location-specific hidden state
 	- Reading M: selective read
 
-![images](../images/copynet_2.png)
+![images](../../images/copynet_2.png)

@@ -9,7 +9,7 @@
 
 - Knowledge distillation describes a class of methods for training a smaller student network to perform better by learning from a larger teacher network.
 
-![images](../images/sequence_knowledge_distillation_1.png)
+![images](../../images/sequence_knowledge_distillation_1.png)
 
 - this new objective has no direct term for the training data, it is common practice to interpolate between the two losses.
 - `L(θ; θT ) = (1 − α)LNLL(θ) + αLKD(θ; θT )`
@@ -21,4 +21,4 @@
 		3. train the student network with cross-entropy on this new dataset.
 	3. Sequence-Level Interpolation (Seq-Inter): use generate a response that has high probability under the teacher model and is similar to the ground truth and then have both mixture terms use it.
 
-![images](../images/sequence_knowledge_distillation_2.png)
+![images](../../images/sequence_knowledge_distillation_2.png)

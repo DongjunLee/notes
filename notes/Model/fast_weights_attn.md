@@ -14,11 +14,11 @@ cognitive abilities.
 	- This memory could store information specific to the history
 of the current sequence so that this information is available to influence the ongoing processing without using up the memory capacity of the hidden activities
 
-![images](../images/fast_weights_attn_1.png)
+![images](../../images/fast_weights_attn_1.png)
 
 - Fast Associative Memory
 
-![images](../images/fast_weights_attn_2.png)
+![images](../../images/fast_weights_attn_2.png)
 
 - h(τ): current hidden state vector
 - h_s(t+1): during the iterative inner loop

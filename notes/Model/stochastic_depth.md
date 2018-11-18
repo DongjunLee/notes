@@ -9,16 +9,16 @@
 
 - Address these problems: the gradients can vanish, the forward flow often diminishes, and the training time can be painfully slow.
 
- ![images](../images/stochastic_depth_1.png)
+ ![images](../../images/stochastic_depth_1.png)
  
  - Randomly dropping entire ResBlocks during training and bypassing their transformations through skip connections.
  - The linearly decaying **survival probability** originates from our intuition that the earlier layers extract low-level features that will be used by later layers and should therefore be more reliably present.
 
- ![images](../images/stochastic_depth_3.png)
+ ![images](../../images/stochastic_depth_3.png)
  
 - mean gradient magnitudes and epoch cause vanising gradients. 
 
- ![images](../images/stochastic_depth_2.png)
+ ![images](../../images/stochastic_depth_2.png)
  
 - Hyper-parameter sensitivity
 

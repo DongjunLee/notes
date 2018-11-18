@@ -12,7 +12,7 @@
 	1. [CNN / Daily Mail](http://cs.nyu.edu/~kcho/DMQA/)
 	2. [Children’s Book Test](http://www.thespermwhale.com/jaseweston/babi/CBTest.tgz)
 
-![images](../images/attn_over_attn_nn_rc_1.png)
+![images](../../images/attn_over_attn_nn_rc_1.png)
 
 - Attention-over-Attention Reader
 	1. Contextual Embedding
@@ -28,6 +28,6 @@
 	4. Weight Tuning
 	5. Re-scoring and Re-ranking
 
-![images](../images/attn_over_attn_nn_rc_2.png)
+![images](../../images/attn_over_attn_nn_rc_2.png)
 
 - The proposed AoA Reader aims to compute the attentions not only for the document but also the query side, which will benefit from the mutual information. Then a weighted sum of attention is carried out to get an attended attention over the document for the final predictions.

@@ -14,7 +14,7 @@
 	4. character-level translation system can easily be applied to a multilingual translation setting
 	5. no longer inject our knowledge of words and word boundaries into the system (by not segmenting source sentences into words)
 
-![images](../images/fully_conv_nmt_1.png)
+![images](../../images/fully_conv_nmt_1.png)
 
 - Encoder (images)
 - Attention: 
@@ -23,6 +23,6 @@
 	- A standard two-layer character-level, takes the source context vector from
 the attention mechanism and predicts each target character.
 
-![images](../images/fully_conv_nmt_2.png)
+![images](../../images/fully_conv_nmt_2.png)
 
 - usually char2char performance is better than others.

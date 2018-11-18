@@ -7,7 +7,7 @@
 
 > word-character solution to achieving open vocabulary NMT. We build hybrid systems that translate mostly at the word level and consult the character components for rare words. Our character-level recurrent neural networks compute source word representations and recover unknown target words when needed.
 
-![images](../images/nmt_hybrid_word_and_char_1.png)
+![images](../../images/nmt_hybrid_word_and_char_1.png)
 
 - The core of the design is a word-level NMT with the advantage of being fast and easy to train.
 - Source Character-based Representation: always initialized with zero states and  use Final hidden state as word representation.

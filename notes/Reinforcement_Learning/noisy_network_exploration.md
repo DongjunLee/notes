@@ -19,14 +19,14 @@ network. (whose weights and biases are perturbed by a parametric function
 of the noise)
 	- these algorithms are quite generic and apply to any type of parametric policies (including neural networks), they are usually not data efficient and require a simulator to allow many policy evaluations.
 
-![images](../images/noisy_network_exploration_1.png)
+![images](../../images/noisy_network_exploration_1.png)
 
 1. Independent Gaussian noise: 
 	- the noise applied to each weight and bias is independent ( for each noisy linear layer, there are pq + q noise variables (for p inputs to the layer and q outputs))
 2. Factorised Gaussian noise: 
 	- two vectors - the first has length of input, the second has length of the output, then we apply special function to both vections and calculate matrix multiplication of them. The result is then used as a random matrix which added to the weights.
 
-![images](../images/noisy_network_exploration_2.png)
+![images](../../images/noisy_network_exploration_2.png)
 
 - Experiments
 	- Deep Q-Networks (DQN) and Dueling.

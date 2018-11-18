@@ -12,4 +12,4 @@
 - **Residual Mapping**
 	- F(x) = H(x) - x
 
-![images](../images/residual_network_1.png)
+![images](../../images/residual_network_1.png)

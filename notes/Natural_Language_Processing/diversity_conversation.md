@@ -10,4 +10,4 @@
 - Sequence-to-sequence neural network models for generation of conversational responses tend to generate safe, commonplace responses (e.g., "I don't know") regardless of the input.
 - Propose using **Maximum Mutual Information (MMI)** as the objective function.
 
-![images](../images/diversity_conversation_1.png)
+![images](../../images/diversity_conversation_1.png)

@@ -6,7 +6,7 @@
 
 ## Simple Summary
 
-![images](../images/neural_text_generation_1.png)
+![images](../../images/neural_text_generation_1.png)
 
 - Practivate guide for diagnosing and resolving pathological behavior during decoding.
 - The primary focus is on tasks where the target is a single sentence hence the term "text generation" as opposed to "language generation".
@@ -17,7 +17,7 @@
 - Ultimately, if using word tokens, it's important to use a consistent tokenization scheme for all inputs to the system - this includes handling of contractions, punctuation marks such as quotes and hyphens, periods denoting abbrevations (nonbreaking prefixes) vs. sentence boundaries, character escaping, etc.
 
 
-![images](../images/neural_text_generation_2.png)
+![images](../../images/neural_text_generation_2.png)
 
 
 ### Model

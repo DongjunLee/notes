@@ -10,8 +10,8 @@
 - if the weights in a network start too small, then the signal shrinks as it passes through each layer until it's too tiny to be useful.
 - if the weights in a network too large, then the signal grows as it passes through each layer until it's too massive to be useful.
 
-![images](../images/xavier_initialization_1.png)
+![images](../../images/xavier_initialization_1.png)
 
 - **Xavier initialization** makes sure the weight are 'just right', keeping the signal in a reasonable range of values through many layers.
 
-![images](../images/xavier_initialization_2.png)
+![images](../../images/xavier_initialization_2.png)

@@ -35,16 +35,16 @@
 
 - Batch Normalizing Transform, applied to activation _x_ over a mini-batch.
 
-![image](../images/batch_normalization1.png)
+![image](../../images/batch_normalization1.png)
 
 - Training a Batch-Normalized Network
 
-![image](../images/batch_normalization2.png)
+![image](../../images/batch_normalization2.png)
 
 
 ##### Experiments
 
 
-![image](../images/batch_normalization3.png)
+![image](../../images/batch_normalization3.png)
 
-![image](../images/batch_normalization4.png)
+![image](../../images/batch_normalization4.png)

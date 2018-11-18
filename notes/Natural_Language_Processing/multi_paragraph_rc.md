@@ -17,7 +17,7 @@
 	- handling Noisy Labels
 		- use a summed objective function that optimizes the sum of the proba- bilities of all answer spans.
 
-![images](../images/multi_paragraph_rc_1.png)
+![images](../../images/multi_paragraph_rc_1.png)
 		
 - Model
 	- Embeding: word-level + char-level
@@ -38,7 +38,7 @@
 
 - Experiments
 
-![images](../images/multi_paragraph_rc_2.png)
+![images](../../images/multi_paragraph_rc_2.png)
 
 - the shared-norm approach to be the most effective way
 - found that models that have only been trained on answer-containing paragraphs can perform very poorly in the multi-paragraph setting. (SQuAD)

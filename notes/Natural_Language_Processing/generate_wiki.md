@@ -13,7 +13,7 @@
 	- Identity, **tf-idf**, TextRank, SumBasic, Cheating (ranks {p^i_j} using recall of bigrams in the ground truth text)
 	- First relavant paragraphs are extracted from reference documents and documents retrieved through search engine queries through a TD-IDF-based ranking. 
 
-![images](../images/generate_wiki_1.png)
+![images](../../images/generate_wiki_1.png)
 	
 - Abstractive Stage
 	- sub-word tokenization
@@ -21,7 +21,7 @@
 	- Transformer Decoder with Memory-Compressed Attention (**T-DMCA**)
 	- add a mixture of experts layer to increase the network’s capacity
 
-![images](../images/generate_wiki_2.png)
+![images](../../images/generate_wiki_2.png)
 
 - Experiment
 	- Metric: ROUGE-L F1 and language modeling's

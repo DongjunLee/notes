@@ -13,7 +13,7 @@
 	2. the size of the source representation should be linear in the length of the source string, i.e. it should be resolution preserving, and not have constant size.
 	3. the path traversed by forward and backward signals in the network (between input and ouput tokens) should be short. 
 
-![images](../images/bytenet_1.png)
+![images](../../images/bytenet_1.png)
 
 - ByteNet
 	- Encoder-Decoder Stacking: for maximize the representational bandwidth between the encoder and the decoder
@@ -24,7 +24,7 @@
 	- Residual Blocks
 
 
-![images](../images/bytenet_2.png)
+![images](../../images/bytenet_2.png)
 
 - The ByteNet also achieves state-of-the-art performance on character-to-character machine translation on the English-to-German WMT translation task, surpassing comparable neural translation models that are based on recurrent networks with attentional pooling and run in quadratic time.
 

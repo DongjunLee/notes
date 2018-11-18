@@ -7,7 +7,7 @@
 
 >  the pointer sentinel mixture architecture for neural sequence models which has the ability to either reproduce a word from the recent context or produce a word from a standard softmax classifier. Our pointer sentinel-LSTM model achieves state of the art language modeling performance on the Penn Treebank (70.9 perplexity) while using far fewer parameters than a standard softmax LSTM.
 
-![images](../images/ps-lstm_1.png)
+![images](../../images/ps-lstm_1.png)
 
 - `p(y_i|x_i) = g p_vocab(y_i|x_i) + (1 − g) p_ptr(y_i|x_i)`
 - the new pointer sentinel gate `g` = a[V + 1]. (attention distribution over both the words ) 

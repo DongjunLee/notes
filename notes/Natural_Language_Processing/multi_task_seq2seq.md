@@ -15,6 +15,6 @@
 - Many-to-many setting (multi encoder -> multi decoder)
 	- Translation (EN <-> GER) + Autoencoders or Skip-Thought. (improve Skip-Tought case )
 
-![images](../images/multi_task_seq2seq_1.png)
+![images](../../images/multi_task_seq2seq_1.png)
 
 - Interesting.

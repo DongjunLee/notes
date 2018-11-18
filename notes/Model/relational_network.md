@@ -11,14 +11,14 @@
 	- Symbolic approaches - define relations between symbols using logic languages, and reason the relations using deduction and algebra.
 	- Statistical learning - build representations from raw data and generalize across diverse and noisy conditions
 
-![images](../images/relational_network_1.png)
+![images](../../images/relational_network_1.png)
 
 - Pros:
 	1. Learn to Infer relations: All-to-all
 	2. RNs are data efficient: Single function g to compute each relation
 	3. Operate on a set of objects: Order invariant
 
-![images](../images/relational_network_2.png)
+![images](../../images/relational_network_2.png)
 
 - Tasks
 	1. CLVER : 95.5 % (super-human preformance)

@@ -12,4 +12,4 @@
 - Sentences that share semantic and syntactic properties are thus mapped
 to similar vector representations.
 
-![images](../images/skip_thought_vectors_1.jpg)
+![images](../../images/skip_thought_vectors_1.jpg)

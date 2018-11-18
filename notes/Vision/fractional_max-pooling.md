@@ -18,9 +18,9 @@
 		1. Disjoint nature of pooling regions.
 		2. Since size decreases rapidly, stacks of back-to-back CNNs are needed to build deep networks.
 
-![images](../images/fractional_max-pooling_1.png)
+![images](../../images/fractional_max-pooling_1.png)
 
-![images](../images/fractional_max-pooling_2.png)
+![images](../../images/fractional_max-pooling_2.png)
 
 
 - **Fractional Max-Pooling**

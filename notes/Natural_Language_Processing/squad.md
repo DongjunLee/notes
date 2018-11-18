@@ -13,4 +13,4 @@
 - human performance: 86.8 F1, 77% exact match
 - answer types
 
-![images](../images/squad_1.png)
+![images](../../images/squad_1.png)
