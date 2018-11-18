@@ -16,14 +16,14 @@
 	- In practice, poor local minima are rarely a problem with large networks.
 	- Recent theoretical and empirical results strongly suggest that local minima are not a serious issue in general.
 
-![images](../images/deeplearning-1.png)
+![images](../../images/deeplearning-1.png)
 
 - convolution network (good feature extractor)
 	- advantages : local connections, shared weights, pooling and the use of many layers
 	- feature map - local groups of values are often highly correlated, the local statistics of images and other signals are invariant to location.
 	- pooling - merge semantically similar feature into one
 
-![images](../images/deeplearning-2.png)
+![images](../../images/deeplearning-2.png)
 
 - pre-traininig, fine-tuned
 	- unsupervised pre-training helps to prevent overfitting, leading to significantly better generalization when the number of labelled examples is small, or in a transfer setting where we have lots of examples for some 'source' tasks but very few for some 'target' tasks.
@@ -31,18 +31,18 @@
 - distributed representations and language processing
 	- counting frequencies of occurrences of short symbol seqeuences of length up N (called N-grams)
 
-![images](../images/deeplearning-3.png)
+![images](../../images/deeplearning-3.png)
 
 - recurrent neural network
 	- For tasks that involve sequential inputs, such as speech and language
 	- gradient expload or vanish problems
 	- LSTM
 
-![images](../images/deeplearning-4.png)
+![images](../../images/deeplearning-4.png)
 
 - image captioning
 
-![images](../images/deeplearning-5.png)
+![images](../../images/deeplearning-5.png)
 
 - future of deep learning
 	- expect unsupervised learning to become far more important in the longer term. Human and animal learning is largely unsupervised

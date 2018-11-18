@@ -6,13 +6,13 @@
 
 - **Gaussian process** is a particular kind of statistical model where observations occur in a continuous domain, e.g. time or space. In a Gaussian process, every point in some continuous input space is associated with a normally distributed random variable.
 
-![images](../images/gaussian_process-1.png)
+![images](../../images/gaussian_process-1.png)
 
 - Univariate Gaussians: distributions over real valued variables
 - Multivariate Gaussians: {pairs, triplets, ...} of real valued vars
 - Gaussian Processes: functions of (infinite numbers of) real valued variables -> `regression`
 
-![images](../images/gaussian_process-2.png)
+![images](../../images/gaussian_process-2.png)
 
 
 - Pros:
