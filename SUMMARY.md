@@ -10,11 +10,11 @@
 * [Math]()
     * [Statistics]()
         * [Importance Sampling](knowledge/math/statistics/importance_sampling.md)
+        * [Probability And Counting](knowledge/math/statistics/probability_and_counting.md)
     * [Linear Algebra]()
         * [Dummy](knowledge/math/linear_algebra/dummy.md)
 
 * [Deep Learning]()
-    * [Dummy](knowledge/deep_learning/dummy.md)
     * [Deep Learning](knowledge/deep_learning/deep_learning.md)
 
 ## Code
