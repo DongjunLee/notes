@@ -1,6 +1,6 @@
 # Regularization of Neural Networks using DropConnect
 
-- Submitted on 2013
+- Submitted on 2013. 6
 - Li Wan, Matthew Zeiler, Sixin Zhang, Yann LeCun and Rob Fergus
 
 ## Simple Summary

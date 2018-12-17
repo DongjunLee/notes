@@ -1,4 +1,5 @@
 import os
+import re
 from functools import reduce
 
 header = """
@@ -16,12 +17,14 @@ def replace_summary():
     code_texts = contents_to_text(code_contents, texts=f"## Code\n\n")
 
     note_contents = make_contents("notes")
-    note_texts = contents_to_text(note_contents["notes"], texts=f"## Notes\n\n")
+    note_texts = contents_to_text(note_contents["notes"], texts=f"## Notes\n\n", with_date=True)
 
     summary_texts = ""
     summary_texts += header
     summary_texts += kb_texts
     summary_texts += code_texts
+    summary_texts += "##Papers\n\n"
+    summary_texts += "* [papers](papers.md)\n\n"
     summary_texts += note_texts
 
     summary_path = "./SUMMARY.md"
@@ -46,7 +49,7 @@ def make_contents(rootdir):
         parent[folders[-1]] = subdir
     return dir
 
-def contents_to_text(contents, texts="", indentation=1):
+def contents_to_text(contents, texts="", indentation=1, with_date=False):
     tab_str = "    "
     for k, v in contents.items():
         padding = "".join([tab_str for _ in range(indentation - 1)])
@@ -56,8 +59,16 @@ def contents_to_text(contents, texts="", indentation=1):
             texts += contents_to_text(v, texts="", indentation=indentation+1)
         elif type(v) == list:
             padding = "".join([tab_str for _ in range(indentation)])
-            for item in v:
-                texts += padding + f"* [{capitalize_base_words(item, remove_ext=True)}]({item})\n"
+
+            items = []
+            for file_path in v:
+                if with_date:
+                    item = f"{padding}* [({extract_date(file_path)}) "
+                else:
+                    item = f"{padding}* ["
+                item += f"{capitalize_base_words(file_path, remove_ext=True)}]({file_path})"
+                items.append(item)
+            texts += "\n".join(sorted(items)) + "\n"
         else:
             raise ValueError("")
     return texts + "\n"
@@ -80,6 +91,19 @@ def capitalize_base_words(file_path, sep="_", remove_ext=False):
             word = word.capitalize()
         c_words.append(word)
     return " ".join(c_words)
+
+
+def extract_date(file_path):
+    with open(file_path, "rb") as f:
+        texts = f.read().decode("utf-8")
+
+    date_pattern = r"2\d\d\d\. \d?\d?"
+    dates = re.findall(date_pattern, texts)
+
+    if len(dates) == 0:
+        raise ValueError(f"Need insert Date. ({file_path})")
+    else:
+        return dates[0]
 
 
 if __name__ == "__main__":

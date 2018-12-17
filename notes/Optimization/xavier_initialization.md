@@ -1,6 +1,6 @@
 # Understanding the difficulty of training deep feedforward neural networks
 
-- Submitted on 2010
+- Submitted on 2010. 5
 - Xavier Glorot and Yoshua Bengio
 
 ## Simple Summary

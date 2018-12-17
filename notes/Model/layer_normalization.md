@@ -1,6 +1,6 @@
 # Layer Normalization
 
-- published in 2016
+- published in 2016. 7
 - Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton
 
 ----

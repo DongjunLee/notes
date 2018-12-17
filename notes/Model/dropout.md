@@ -1,7 +1,7 @@
 ## Dropout
 
 - [Improving neural networks by preventing
-co-adaptation of feature detectors](https://arxiv.org/pdf/1207.0580.pdf) (2012) by GE Hinton
+co-adaptation of feature detectors](https://arxiv.org/pdf/1207.0580.pdf) (2012. 7) by GE Hinton
 - [Dropout: a simple way to prevent neural networks from overfitting.](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) (2014) by N Srivastava
 
 ----

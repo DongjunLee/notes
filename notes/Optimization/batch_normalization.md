@@ -1,6 +1,6 @@
 # Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 
-- published in 2015
+- published in 2015. 2
 - Ioffe, Sergey, and Christian Szegedy
 
 ---
