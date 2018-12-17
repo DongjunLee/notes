@@ -22,6 +22,19 @@ Illustration by <a href="http://www.smrvl.com/blog/">David Somerville</a> based 
     * If possible, append a `code`
 - Documentation by [Gitbook](https://humanbrain.gitbook.io/notes/)
 
+## Usage
+
+- Sync papers (* recommend path like Google Drive's sync folder) 
+ 
+```
+python scripts/sync_papers.py {SYNC_PATH}
+```
+
+- Make `SUMMARY.md`
+
+```
+python scripts/make_summary.py
+```
 
 ---
 

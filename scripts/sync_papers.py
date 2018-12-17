@@ -127,7 +127,7 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(
                         formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-    parser.add_argument('--sync_path', type=str, default='sync_path',
+    parser.add_argument('sync_path', type=str, default='sync_path',
                         help='enter your sync_path')
     args = parser.parse_args()
 
