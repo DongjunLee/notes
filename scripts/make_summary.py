@@ -23,7 +23,7 @@ def replace_summary():
     summary_texts += header
     summary_texts += kb_texts
     summary_texts += code_texts
-    summary_texts += "##Papers\n\n"
+    summary_texts += "## Papers\n\n"
     summary_texts += "* [papers](papers.md)\n\n"
     summary_texts += note_texts
 
