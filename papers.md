@@ -549,6 +549,9 @@ Deep Learning (2015) **`Review`**
 - Cross-lingual Language Model Pretraining (2019. 1)
 	- **`XLM `**, **`MLM + TLM`**, **`Cross-lingual Pre-trained`**, **`Low-Resource`**
    - [arXiv](https://arxiv.org/abs/1901.07291)
+- Better Language Models and Their Implications (2019. 2)
+	- **`GPT-2`**, **`1.5 Billion Parameters`**, **`Zero-Shot`**
+   - [paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf), [blog](https://openai.com/blog/better-language-models/)
 - To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks (2019. 3)
 	- **`Fine-tuning vs Feature`**, **`BERT and ELMo`**, **`Empirically analyze`**
    - [arXiv](https://arxiv.org/abs/1903.05987)
