@@ -435,6 +435,9 @@ Deep Learning (2015) **`Review`**
 - Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs (2018. 1)
 	- **`Contextual Decomposition (CD)`**, **`Disambiguate interactions between Gates`**
 	- [arXiv](https://arxiv.org/abs/1801.05453), [open_review](https://openreview.net/forum?id=rkRwGg-0Z)
+- Universal Language Model Fine-tuning for Text Classification (2018. 1)
+	- **`ULMFiT`**, **`Pre-trained`**, **`Transfer Learning`**
+	- [arXiv](https://arxiv.org/abs/1801.06146)
 - DeepType: Multilingual Entity Linking by Neural Type System Evolution (2018. 2)
 	- **`DeepType`**, **`Symbolic Information`**, **`Type System`**, **`Open AI`**
 	- [arXiv](https://arxiv.org/abs/1802.01021), [openai blog](https://blog.openai.com/discovering-types-for-entity-disambiguation/)
@@ -538,8 +541,27 @@ Deep Learning (2015) **`Review`**
 	- **`Dataset`**, **`Multi-hop`**, **`Sentence-level Supporting Fact`**, **`EMNLP 2018`**
 	- [arXiv](https://arxiv.org/abs/1809.00782)
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018. 10)
-	- **`BERT`**, **`Discriminative`**, **`Large Pretrained`**, **`Transfer Learning`**
+	- **`BERT`**, **`Discriminative`**, **`Pre-trained`**, **`Transfer Learning`**, **`NAACL 2019 Best`**
 	- [arXiv](https://arxiv.org/abs/1810.04805), [glue_benchmark](https://gluebenchmark.com/leaderboard)
+- CommonsenseQA: A Question Answering Challenge Targeting
+Commonsense Knowledge (2018. 11)
+	- **`CommonsenseQA`**, **`Dataset`**, **`Multiple-Choice`**, **`NAACL 2019 Best`**
+	- [arXiv](https://arxiv.org/abs/1811.00937)
+- Cross-lingual Language Model Pretraining (2019. 1)
+	- **`XLM `**, **`MLM + TLM`**, **`Cross-lingual Pre-trained`**, **`Low-Resource`**
+   - [arXiv](https://arxiv.org/abs/1901.07291)
+- To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks (2019. 3)
+	- **`Fine-tuning vs Feature`**, **`BERT and ELMo`**, **`Empirically analyze`**
+   - [arXiv](https://arxiv.org/abs/1903.05987)
+- Linguistic Knowledge and Transferability of Contextual Representations (2019. 3)
+   - **`Analysis CWRs`**,  **`LSTM, Transformer`**, **`Transferable`**, **`NAACL 2019`**
+   - [arXiv](https://arxiv.org/abs/1903.08855)
+- ERNIE: Enhanced Representation through Knowledge Integration (2019. 4)
+   - **`ERNIE `**, **`Masking Strategies`**, **`Pre-trained`**, **`Transfer Learning`**
+   - [arXiv](https://arxiv.org/abs/1904.09223)
+- CNM: An Interpretable Complex-valued Network for Matching (2019. 4)
+	- **`CNM`**, **`Quantum Physics`** ,**`Interpretable`**, **`NAACL 2019 Best`**
+	- [arXiv](https://arxiv.org/abs/1904.05298)
 
 	
 ### One-Shot/Few-Shot/Meta Learing
@@ -625,7 +647,7 @@ Deep Learning (2015) **`Review`**
 
 ### Transfer Learning
 
-
+- ...
 
 
 ### Unsupervised & Generative
