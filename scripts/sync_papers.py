@@ -8,6 +8,8 @@ import requests
 from tqdm import tqdm
 
 
+paper_url = "https://raw.githubusercontent.com/DongjunLee/notes/master/papers.md"
+
 sync_path = "sync_path"
 base_dname = "hb-research-notes"
 base_path = ""
@@ -28,7 +30,7 @@ def sync(s_path):
 
     notes = read_notes()
 
-    r = requests.get("https://raw.githubusercontent.com/hb-research/notes/master/README_BACK.md")
+    r = requests.get(paper_url)
     parsed_data = parse(r.text)
 
     for category, items in parsed_data.items():

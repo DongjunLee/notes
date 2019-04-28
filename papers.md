@@ -543,8 +543,7 @@ Deep Learning (2015) **`Review`**
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018. 10)
 	- **`BERT`**, **`Discriminative`**, **`Pre-trained`**, **`Transfer Learning`**, **`NAACL 2019 Best`**
 	- [arXiv](https://arxiv.org/abs/1810.04805), [glue_benchmark](https://gluebenchmark.com/leaderboard)
-- CommonsenseQA: A Question Answering Challenge Targeting
-Commonsense Knowledge (2018. 11)
+- CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge (2018. 11)
 	- **`CommonsenseQA`**, **`Dataset`**, **`Multiple-Choice`**, **`NAACL 2019 Best`**
 	- [arXiv](https://arxiv.org/abs/1811.00937)
 - Cross-lingual Language Model Pretraining (2019. 1)
