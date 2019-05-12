@@ -102,6 +102,9 @@ Deep Learning (2015) **`Review`**
 - AutoAugment: Learning Augmentation Policies from Data (2018. 5)
 	- **`Search Algorithm (RL)`**, **`Sub-Policy`**
 	- [arXiv](https://arxiv.org/abs/1805.09501)
+- Exploring Randomly Wired Neural Networks for Image Recognition (2019. 4)
+	- **`Randomly wired neural networks`**, **`Random Graph Models (ER, BA and WS)`**
+	- [arXiv](https://arxiv.org/abs/1904.01569)
 
 
 ### Framework & System
@@ -543,6 +546,9 @@ Deep Learning (2015) **`Review`**
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018. 10)
 	- **`BERT`**, **`Discriminative`**, **`Pre-trained`**, **`Transfer Learning`**, **`NAACL 2019 Best`**
 	- [arXiv](https://arxiv.org/abs/1810.04805), [glue_benchmark](https://gluebenchmark.com/leaderboard)
+- Trellis Networks for Sequence Modeling (2018. 10)
+	- **`TrellisNet`**, **`Structural bridge between TCN and RNN`**, **`NAACL 2019`**
+	- [arXiv](https://arxiv.org/abs/1810.04805)
 - CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge (2018. 11)
 	- **`CommonsenseQA`**, **`Dataset`**, **`Multiple-Choice`**, **`NAACL 2019 Best`**
 	- [arXiv](https://arxiv.org/abs/1811.00937)
@@ -564,6 +570,9 @@ Deep Learning (2015) **`Review`**
 - CNM: An Interpretable Complex-valued Network for Matching (2019. 4)
 	- **`CNM`**, **`Quantum Physics`** ,**`Interpretable`**, **`NAACL 2019 Best`**
 	- [arXiv](https://arxiv.org/abs/1904.05298)
+- Unsupervised Recurrent Neural Network Grammars (2019. 4)
+	- **`RNNG`**, **`Syntax Tree`** ,**`Variational Inference`**
+	- [arXiv](https://arxiv.org/abs/1904.03746)
 
 	
 ### One-Shot/Few-Shot/Meta Learing
@@ -614,6 +623,9 @@ Deep Learning (2015) **`Review`**
 - Revisiting Small Batch Training for Deep Neural Networks (2018. 4)
 	- **`Generalization Performance`**, **`Training Stability`**
 	- [arXiv](https://arxiv.org/abs/1804.07612)
+- Reconciling modern machine learning and the bias-variance trade-off (2018. 12)
+	- **`Double Descent Risk Curve`**, **`Highly Complex Models`**
+	- [arXiv](https://arxiv.org/abs/1812.11118)
 
 
 ### Reinforcement Learning
@@ -678,3 +690,6 @@ Deep Learning (2015) **`Review`**
 - Self-Attention Generative Adversarial Networks (2018. 5)
 	- **`SAGAN`**, **`Attention-Driven`**, **`Spectral Normalization`**
 	- [arXiv](https://arxiv.org/abs/1805.08318) 
+- Unsupervised Data Augmentation (2019. 4)
+	- **`UDA`**, **`TSA Schedule`**, **`Semi-Supervised`**
+	- [arXiv](https://arxiv.org/abs/1904.12848) 
