@@ -105,6 +105,9 @@ Deep Learning (2015) **`Review`**
 - Exploring Randomly Wired Neural Networks for Image Recognition (2019. 4)
 	- **`Randomly wired neural networks`**, **`Random Graph Models (ER, BA and WS)`**
 	- [arXiv](https://arxiv.org/abs/1904.01569)
+- MixMatch: A Holistic Approach to Semi-Supervised Learning (2019. 5)
+	- **`MixMatch`**, **`Semi-Supervised`**, **`Augumentation -> Label Guessing -> Average -> Sharpening`**
+	- [arXiv](https://arxiv.org/abs/1905.02249)
 
 
 ### Framework & System
@@ -558,6 +561,9 @@ Deep Learning (2015) **`Review`**
 - Better Language Models and Their Implications (2019. 2)
 	- **`GPT-2`**, **`1.5 Billion Parameters`**, **`Zero-Shot`**
    - [paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf), [blog](https://openai.com/blog/better-language-models/)
+- Parameter-Efficient Transfer Learning for NLP (2019. 2)
+	- **`Adapter tuning`**, **`Bottleneck`**, **`BERT`**
+   - [arXiv](https://arxiv.org/abs/1902.00751)
 - To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks (2019. 3)
 	- **`Fine-tuning vs Feature`**, **`BERT and ELMo`**, **`Empirically analyze`**
    - [arXiv](https://arxiv.org/abs/1903.05987)
@@ -573,6 +579,12 @@ Deep Learning (2015) **`Review`**
 - Unsupervised Recurrent Neural Network Grammars (2019. 4)
 	- **`RNNG`**, **`Syntax Tree`** ,**`Variational Inference`**
 	- [arXiv](https://arxiv.org/abs/1904.03746)
+- The Curious Case of Neural Text Degeneration (2019. 4)
+	- **`Nucleus Sampling`**, **`Decoding Method`** ,**`Generation`**
+	- [arXiv](https://arxiv.org/abs/1904.09751)
+- Unified Language Model Pre-training for Natural Language Understanding and Generation (2019. 5)
+	- **`UniLM`**, **`Uni + Bi + S2S`** ,**`Generation`**
+	- [arXiv](https://arxiv.org/abs/1905.03197)
 
 	
 ### One-Shot/Few-Shot/Meta Learing
