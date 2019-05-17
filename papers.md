@@ -492,6 +492,9 @@ Deep Learning (2015) **`Review`**
 - Phrase-Indexed Question Answering: A New Challenge for Scalable Document Comprehension (2018. 4)
 	- **`PI-SQuAD`**, **`Challenge`**, **`Document Encoder`**, **`Scalability`**
 	- [arXiv](https://arxiv.org/abs/1804.07726)
+- GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding (2018. 4)
+	- **`GLUE`**, **`Benchmark`**, **`Understanding`**
+	- [arXiv](https://arxiv.org/abs/1804.07461), [leaderboard](https://gluebenchmark.com/leaderboard)
 - On the Practical Computational Power of Finite Precision RNNs for Language Recognition (2018. 5)
 	- **`Unbounded counting`**, **`IBFP-LSTM`**
 	- [arXiv](https://arxiv.org/abs/1805.04908)
@@ -548,7 +551,7 @@ Deep Learning (2015) **`Review`**
 	- [arXiv](https://arxiv.org/abs/1809.00782)
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018. 10)
 	- **`BERT`**, **`Discriminative`**, **`Pre-trained`**, **`Transfer Learning`**, **`NAACL 2019 Best`**
-	- [arXiv](https://arxiv.org/abs/1810.04805), [glue_benchmark](https://gluebenchmark.com/leaderboard)
+	- [arXiv](https://arxiv.org/abs/1810.04805)
 - Trellis Networks for Sequence Modeling (2018. 10)
 	- **`TrellisNet`**, **`Structural bridge between TCN and RNN`**, **`NAACL 2019`**
 	- [arXiv](https://arxiv.org/abs/1810.04805)
@@ -585,6 +588,9 @@ Deep Learning (2015) **`Review`**
 - Unified Language Model Pre-training for Natural Language Understanding and Generation (2019. 5)
 	- **`UniLM`**, **`Uni + Bi + S2S`** ,**`Generation`**
 	- [arXiv](https://arxiv.org/abs/1905.03197)
+- SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems (2018. 5)
+	- **`SuperGLUE`**, **`Benchmark`**, **`Understanding`**
+	- [arXiv](https://arxiv.org/abs/1905.00537), [leaderboard](https://super.gluebenchmark.com/)
 
 	
 ### One-Shot/Few-Shot/Meta Learing
