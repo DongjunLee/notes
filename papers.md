@@ -574,7 +574,7 @@ Deep Learning (2015) **`Review`**
    - **`Analysis CWRs`**,  **`LSTM, Transformer`**, **`Transferable`**, **`NAACL 2019`**
    - [arXiv](https://arxiv.org/abs/1903.08855)
 - ERNIE: Enhanced Representation through Knowledge Integration (2019. 4)
-   - **`ERNIE `**, **`Masking Strategies`**, **`Pre-trained`**, **`Transfer Learning`**
+   - **`ERNIE`**, **`Masking Strategies`**, **`Dialog Language Model`**, **`Pre-trained`**, **`Transfer Learning`**
    - [arXiv](https://arxiv.org/abs/1904.09223)
 - CNM: An Interpretable Complex-valued Network for Matching (2019. 4)
 	- **`CNM`**, **`Quantum Physics`** ,**`Interpretable`**, **`NAACL 2019 Best`**
@@ -588,9 +588,22 @@ Deep Learning (2015) **`Review`**
 - Unified Language Model Pre-training for Natural Language Understanding and Generation (2019. 5)
 	- **`UniLM`**, **`Uni + Bi + S2S`** ,**`Generation`**
 	- [arXiv](https://arxiv.org/abs/1905.03197)
-- SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems (2018. 5)
+- SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems (2019. 5)
 	- **`SuperGLUE`**, **`Benchmark`**, **`Understanding`**
 	- [arXiv](https://arxiv.org/abs/1905.00537), [leaderboard](https://super.gluebenchmark.com/)
+- SpanBERT: Improving Pre-training by Representing and Predicting Spans (2019. 7)
+   - **`SpanBERT`**, **`Span Boundary Objective (SBO)`**, **`Pre-train`**, **`Transformer`**
+   - [arXiv](https://arxiv.org/abs/1907.10529)
+- RoBERTa: A Robustly Optimized BERT Pretraining Approach (2019. 7)
+   - **`RoBERTa`**, **`Data-BatchSize`**, **`Pre-train`**, **`Transformer`**
+   - [arXiv](https://arxiv.org/abs/1907.11692)
+- ERNIE 2.0: A Continual Pre-training Framework for Language Understanding (2019. 7)
+   - **`ERNIE`**, **`Continual Pre-training`**, **`Word-Struct-Semantic`**, **`Transformer`**
+   - [arXiv](https://arxiv.org/abs/1907.12412)
+- StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding (2019. 8)
+   - **`StructBERT (ALICE)`**, **`Language Structure`**, **`Pre-train`**, **`Transformer`**
+   - [arXiv](https://arxiv.org/abs/1908.04577)
+   
 
 	
 ### One-Shot/Few-Shot/Meta Learing
