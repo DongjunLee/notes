@@ -1,4 +1,4 @@
-# notes [![hb-research](https://img.shields.io/badge/hb--research-notes-green.svg?style=flat&colorA=448C57&colorB=555555)](https://github.com/hb-research)  [![gitbook](https://aleen42.github.io/badges/src/gitbook_2.svg)](https://humanbrain.gitbook.io/notes/)  
+# notes [![hb-research](https://img.shields.io/badge/hb--research-notes-green.svg?style=flat&colorA=448C57&colorB=555555)](https://github.com/hb-research) [![hb-research](https://img.shields.io/badge/HB--Wiki-Notion-green.svg?style=flat&colorA=448C59&colorB=555555)](https://github.com/hb-research)
 
 
 The notes for Math, Machine Learning, Deep Learning and Research papers.
@@ -20,7 +20,8 @@ Illustration by <a href="http://www.smrvl.com/blog/">David Somerville</a> based 
     * With `story` or example
     * Draw an `illustration`
     * If possible, append a `code`
-- Documentation by [Gitbook](https://humanbrain.gitbook.io/notes/)
+- ~~Documentation by [Gitbook](https://humanbrain.gitbook.io/notes/)~~
+- Documentation by [Notion](https://www.notion.so/Machine-Learninig-5e1a0088828045e995b07f34a05a614a)
 
 ## Usage
 
